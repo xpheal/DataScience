@@ -1,7 +1,7 @@
 [
 	{
 		"colName": "name",
-		"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div[2]/div[2]/h1/text()"
+		"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div/div[2]/h1/text()"
 	},
 	{
 		"colName": "duration",
