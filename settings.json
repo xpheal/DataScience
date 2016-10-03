@@ -46,21 +46,5 @@
 	{
 		"colName": "country",
 		"xPathString": "//*[@id=\"titleDetails\"]/div[2]/a/text()"
-	},
-	{
-		"colName": "filmingLocation",
-		"xPathString": "//*[@id=\"titleDetails\"]/div[6]/a/text()"
-	},
-	{
-		"colName": "productionCompany",
-		"xPathString": "//*[@id=\"titleDetails\"]/div[7]/span/a/span/text()"
-	},
-	{
-		"colName": "soundMix",
-		"xPathString": "//*[@id=\"titleDetails\"]/div[9]/a/text()"
-	},
-	{
-		"colName": "color",
-		"xPathString": "//*[@id=\"titleDetails\"]/div[10]/a/text()"
 	}
 ]
