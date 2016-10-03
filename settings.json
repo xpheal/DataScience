@@ -40,7 +40,7 @@
 		"xPathString": "//*[@id=\"titleStoryLine\"]/div[1]/p/text()"
 	},
 	{
-		"colName": "language and country",
+		"colName": "language,country,company",
 		"xPathString": "//*[@id=\"titleDetails\"]/div/a/text()"
 	}
 ]
