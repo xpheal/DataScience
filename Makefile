@@ -4,12 +4,16 @@
 
 # define the flags
 SPIDER = spider.py
-FLAGS = -o $(CSV) -t csv -s $(SETTINGS)
-SETTINGS = RANDOMIZE_DOWNLOAD_DELAY=True DOWNLOAD_DELAY=0.5 DEPTH_PRIORITY=1
+FLAGS = -o $(CSV) -t csv $(SPIDERSETTINGS)
+SPIDERSETTINGS = -s RANDOMIZE_DOWNLOAD_DELAY=1 -s DOWNLOAD_DELAY=0.1 -s DEPTH_PRIORITY=1
 CSV = data.csv
+XPATHSETTINGS = settings.json
 DEBUGFILE = debug.txt
 
-main: $(SPIDER) htmlFiles 
+parse:
+	python htmlParser.py $(XPATHSETTINGS) $(CSV) -d htmlFiles 
+
+spider: $(SPIDER) htmlFiles 
 	scrapy runspider $(SPIDER) $(FLAGS)
 
 debug: $(SPIDER) htmlFiles
@@ -18,5 +22,8 @@ debug: $(SPIDER) htmlFiles
 htmlFiles:
 	mkdir htmlFiles
 
-clean:
+cleanAll:
 	rm -rf htmlFiles *.pyc debug.txt
+
+clean:
+	rm -rf *.pyc debug.txt

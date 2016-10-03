@@ -1,0 +1,66 @@
+[
+	{
+		"colName": "name",
+		"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div[2]/div[2]/h1/text()"
+	},
+	{
+		"colName": "duration",
+		"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div[2]/div[2]/div/time/text()"
+	},
+	{
+		"colName": "year",
+		"xPathString": "//*[@id=\"titleYear\"]/a/text()"
+	},
+	{
+		"colName": "genre",
+		"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div[2]/div[2]/div/a/span/text()"
+	},
+	{
+		"colName": "releaseDate",
+		"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div[2]/div[2]/div/a[3]/text()"
+	},
+	{
+		"colName": "rating",
+		"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div[1]/div[1]/div[1]/strong/span/text()" 
+	},
+	{
+		"colName": "ratingCount",
+		"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div[1]/div[1]/a/span/text()"
+	},
+	{
+		"colName": "director",
+		"xPathString": "//*[@id=\"title-overview-widget\"]/div[3]/div[2]/div[1]/div[2]/span/a/span/text()"
+	},
+	{
+		"colName": "cast",
+		"xPathString": "//*[@id=\"title-overview-widget\"]/div[3]/div[2]/div[1]/div[4]/span/a/span/text()"
+	},
+	{
+		"colName": "story",
+		"xPathString": "//*[@id=\"titleStoryLine\"]/div[1]/p/text()"
+	},
+	{
+		"colName": "language",
+		"xPathString": "//*[@id=\"titleDetails\"]/div[3]/a/text()"
+	},
+	{
+		"colName": "country",
+		"xPathString": "//*[@id=\"titleDetails\"]/div[2]/a/text()"
+	},
+	{
+		"colName": "filmingLocation",
+		"xPathString": "//*[@id=\"titleDetails\"]/div[6]/a/text()"
+	},
+	{
+		"colName": "productionCompany",
+		"xPathString": "//*[@id=\"titleDetails\"]/div[7]/span/a/span/text()"
+	},
+	{
+		"colName": "soundMix",
+		"xPathString": "//*[@id=\"titleDetails\"]/div[9]/a/text()"
+	},
+	{
+		"colName": "color",
+		"xPathString": "//*[@id=\"titleDetails\"]/div[10]/a/text()"
+	}
+]

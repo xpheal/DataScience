@@ -1,83 +1,74 @@
 import argparse
 import csv
+import json
 from io import StringIO
 from lxml import etree
 from os import listdir
 
 # arguments check
 parser = argparse.ArgumentParser(description='Parse data from html files and store in csv')
+parser.add_argument('s', metavar='<Settings>', help='JSON settings file, see documentation for more info')
+parser.add_argument('o', metavar='<CSVOutput>', help='output result to this file path')
 parser.add_argument('-i', metavar='<HTMLInput>', help='html input to be parsed')
-parser.add_argument('-o', metavar='<CSVOutput>', help='output result to this file path')
 parser.add_argument('-d', metavar='<Directory>', help='the input directory to be parsed')
+
 args = parser.parse_args()
 
 # Get input
-# inputFile = args.i
-outputFile = args.o
+jsonFile = args.s
+inputFile = args.i
 directory = args.d
+outputFile = args.o
 
-files = None
+# Get xPath settings [{"colName": "xxx", "xPathString": "yyy"}, {...}, ...]
+dataSettings = None
+with open(jsonFile, 'r') as jFile:
+	dataSettings = json.load(jFile)
 
-# if inputFile:
-	# files = inputFile
+def parseList(tree, xPathString):
+	'''
+	Given the tree and the xPathString, return the matched data
+	return none if no data is matched
+	'''
+	result = tree.xpath(xPathString)
 
-# if directory:
-	# files = listdir(directory)
-
-def parseList(list):
-	print(list)
+	if len(result) <= 0:
+		return None
+	else:
+		return ",".join(result).encode('utf-8').strip()
 
 with open(outputFile, 'w') as csvfile:
+	# Name for the top row
+	topRow = [i['colName'] for i in dataSettings]
+	# Number of Columns
+	lenCol = len(dataSettings)
+
 	writer = csv.writer(csvfile)
-	
-	data = ("name", "duration", "year", "genre", "release", "rating", "ratingCount", "director", "cast",
-		 "numUserReview", "numCritic")	
-	writer.writerow(data)
+	writer.writerow(topRow)
 
-	for file in listdir(directory):
-		print(directory + '/' + file)
-		with open(directory + '/' + file, 'r') as f:
+	# Parse html files
+	if inputFile:
+		with open(inputFile, 'r') as f:
+			# Store the parsed data
+			row = []
+			# Parse html file into a tree
+			tree = etree.parse(f, etree.HTMLParser())
 
-			treeParser = etree.HTMLParser()
-			tree = etree.parse(StringIO(f.read()), treeParser)
+			for i in range(lenCol):
+				row.append(parseList(tree,dataSettings[i]["xPathString"]))
 
-			# Data to collect
-			name = tree.xpath('//*[@id="title-overview-widget"]/div[2]/div[2]/div/div[2]/div[2]/h1/text()')[0].strip()
-			duration = tree.xpath('//*[@id="title-overview-widget"]/div[2]/div[2]/div/div[2]/div[2]/div/time/text()')[0].strip()
-			year = tree.xpath('//*[@id="titleYear"]/a/text()')[0].strip()
-			genre = join(tree.xpath('//*[@id="title-overview-widget"]/div[2]/div[2]/div/div[2]/div[2]/div/a/span/text()'))
-			release = tree.xpath('//*[@id="title-overview-widget"]/div[2]/div[2]/div/div[2]/div[2]/div/a[3]/text()')[0].strip()
-			rating = tree.xpath('//*[@id="title-overview-widget"]/div[2]/div[2]/div/div[1]/div[1]/div[1]/strong/span/text()')[0].strip()
-			ratingCount = tree.xpath('//*[@id="title-overview-widget"]/div[2]/div[2]/div/div[1]/div[1]/a/span/text()')[0].strip()
-			director = tree.xpath('//*[@id="title-overview-widget"]/div[3]/div[2]/div[1]/div[2]/span/a/span/text()')[0].strip()
-			cast = ",".join(tree.xpath('//*[@id="title-overview-widget"]/div[3]/div[2]/div[1]/div[4]/span/a/span/text()'))
-			numUserReview = tree.xpath('//*[@id="title-overview-widget"]/div[3]/div[2]/div[2]/div/div[2]/span/a[1]/text()')[0].strip()
-			numCritic = tree.xpath('//*[@id="title-overview-widget"]/div[3]/div[2]/div[2]/div/div[2]/span/a[2]/text()')[0].strip()
-			# story = tree.xpath('//*[@id="titleStoryLine"]/div[1]/p/text()')[0].strip()
-			# language = ",".join(tree.xpath('//*[@id="titleDetails"]/div[3]/a/text()'))
-			# country = tree.xpath('//*[@id="titleDetails"]/div[2]/a/text()')[0].strip()
-			# filmingLocation = tree.xpath('//*[@id="titleDetails"]/div[6]/a/text()')[0].strip()
-			# productionCompany = ",".join(tree.xpath('//*[@id="titleDetails"]/div[7]/span/a/span/text()'))
-			# soundMix = tree.xpath('//*[@id="titleDetails"]/div[9]/a/text()')[0].strip()
-			# color = tree.xpath('//*[@id="titleDetails"]/div[10]/a/text()')[0].strip()
+			writer.writerow(row)
 
-			writer.writerow((name, duration, year, genre, release, rating, ratingCount, director, cast, numUserReview, numCritic))
-# Debug
-# print(name)
-# print(duration)
-# print(year)
-# print(genre)
-# print(release)
-# print(rating)
-# print(ratingCount)
-# print(director)
-# print(cast)
-# print(numUserReview)
-# print(numCritic)
-# print(story)
-# print(language)
-# print(country)
-# print(filmingLocation)
-# print(productionCompany)
-# print(soundMix)
-# print(color)
+	# Parse all files in directory
+	if directory:
+		for fname in listdir(directory):
+			with open(directory + '/' + fname, 'r') as f:
+				# Store the parsed data
+					row = []
+					# Parse html file into a tree
+					tree = etree.parse(f, etree.HTMLParser())
+
+					for i in range(lenCol):
+						row.append(parseList(tree,dataSettings[i]["xPathString"]))
+
+					writer.writerow(row)
