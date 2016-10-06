@@ -1,1 +1,1 @@
-make spider
+python3 simpleScrape.py

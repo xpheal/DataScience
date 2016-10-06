@@ -1,0 +1,62 @@
+{	
+	"useSettings": true,
+	"save_html_to_directory": true,
+	"save_data_to_csv": true,
+	"allowed_domains": ["quotes.toscrape.com"],
+	"start_urls": ["http://quotes.toscrape.com"],
+	"csv_output_file": "data.csv",
+	"html_directory_name": "newHTMLFiles",
+	"save_file_regex": "http://(.*)",
+	"remove_url_query": true,
+	"page_regex": "/page/",
+	"randomize_download_delay": 1,
+	"download_delay": 0,
+	"depth_priority": 1,
+	"data_extract_path": 
+		[
+			{
+				"colName": "name",
+				"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div/div[2]/h1/text()"
+			},
+			{
+				"colName": "duration",
+				"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div[2]/div[2]/div/time/text()"
+			},
+			{
+				"colName": "year",
+				"xPathString": "//*[@id=\"titleYear\"]/a/text()"
+			},
+			{
+				"colName": "genre",
+				"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div[2]/div[2]/div/a/span/text()"
+			},
+			{
+				"colName": "releaseDate",
+				"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div[2]/div[2]/div/a[3]/text()"
+			},
+			{
+				"colName": "rating",
+				"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div[1]/div[1]/div[1]/strong/span/text()" 
+			},
+			{
+				"colName": "ratingCount",
+				"xPathString": "//*[@id=\"title-overview-widget\"]/div[2]/div[2]/div/div[1]/div[1]/a/span/text()"
+			},
+			{
+				"colName": "director",
+				"xPathString": "//*[@id=\"title-overview-widget\"]/div[3]/div[2]/div[1]/div[2]/span/a/span/text()"
+			},
+			{
+				"colName": "cast",
+				"xPathString": "//*[@id=\"title-overview-widget\"]/div[3]/div[2]/div[1]/div[4]/span/a/span/text()"
+			},
+			{
+				"colName": "story",
+				"xPathString": "//*[@id=\"titleStoryLine\"]/div[1]/p/text()"
+			},
+			{
+				"colName": "language,country,company",
+				"xPathString": "//*[@id=\"titleDetails\"]/div/a/text()"
+			}
+		]
+}
