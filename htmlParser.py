@@ -23,7 +23,7 @@ outputFile = args.o
 # Get xPath settings [{"colName": "xxx", "xPathString": "yyy"}, {...}, ...]
 dataSettings = None
 with open(jsonFile, 'r') as jFile:
-	dataSettings = json.load(jFile)
+	dataSettings = json.load(jFile)['data_extract_path']
 
 def parseList(tree, xPathString):
 	'''

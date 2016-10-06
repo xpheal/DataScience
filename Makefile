@@ -4,9 +4,8 @@
 
 # define the flags
 SPIDER = spider.py
-FLAGS = -o $(CSV) -t csv $(SPIDERSETTINGS)
-SPIDERSETTINGS = -s RANDOMIZE_DOWNLOAD_DELAY=1 -s DOWNLOAD_DELAY=0.1 -s DEPTH_PRIORITY=1
-CSV = data.csv
+FLAGS = -o $(CSV) -t csv
+CSV = test.csv
 XPATHSETTINGS = settings.json
 DEBUGFILE = debug.txt
 
