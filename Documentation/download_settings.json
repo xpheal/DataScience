@@ -1,0 +1,9 @@
+{	
+	"save_html_to_directory": true,
+	"allowed_domains": ["quotes.toscrape.com"],
+	"start_urls": ["http://quotes.toscrape.com"],
+	"html_directory_name": "HTMLFiles",
+	"save_file_regex": "http://.*/(page/[0-9]+)/$",
+	"remove_url_query": true,
+	"page_regex": "com/page/[0-9]+/$"
+}

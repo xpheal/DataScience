@@ -8,7 +8,7 @@ from scrapy.linkextractors import LinkExtractor
 
 class simple_spider(CrawlSpider):
 	# Default Settings
-	name = 'generic_spider'
+	name = 'simple_spider'
 
 	# Customize functions
 	# Hashmap to make sure there's no repetition when parsing url to follow
@@ -19,10 +19,7 @@ class simple_spider(CrawlSpider):
 	global remove_url_query
 	remove_url_query = False
 
-	# Load settings from json
-	settings_file = "quoteSettings.json"
-	settings_obj = None
-
+	# Load spider settings
 	def load_settings(self, settings_obj):
 		self.save_html_to_directory = settings_obj["save_html_to_directory"]
 		self.save_data_to_csv = settings_obj["save_data_to_csv"]

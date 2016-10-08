@@ -1,4 +1,6 @@
+import json
 import re
+import sys
 import argparse
 import scrapy
 from scrapy.crawler import CrawlerProcess
@@ -23,8 +25,8 @@ def get_default_settings_obj():
 	settings_obj["save_data_to_csv"] = False
 	settings_obj["allowed_domains"] = []
 	settings_obj["start_urls"] = []
-	settings_obj["csv_output_file"] = None
-	settings_obj["html_directory_name"] = None
+	settings_obj["csv_output_file"] = "scrape_data.csv"
+	settings_obj["html_directory_name"] = "HTMLFiles"
 	settings_obj["save_file_regex"] = None
 	settings_obj["remove_url_query"] = False
 	settings_obj["page_regex"] = None
@@ -45,11 +47,54 @@ def download(args):
 
 	start_crawler(settings_obj)
 
+def add_default_settings(settings_obj):
+	temp_settings_obj = get_default_settings_obj()
+
+	for key, value in settings_obj.items():
+		temp_settings_obj[key] = value
+
+	return temp_settings_obj
+
+# Run argument
 def run(args):
-	print(args.settings)
+	settings_obj = None
+
+	# Read dictionary from json file
+	try:
+		with open(args.settings, 'r') as jFile:
+			settings_obj = json.load(jFile)
+	except FileNotFoundError as ex:
+		print("SETTINGS FILE NOT FOUND")
+		sys.exit(-1)
+	except ValueError as ex:
+		print("SETTINGS FILE CORRUPTED OR INVALID JSON FORMAT")
+		sys.exit(-1)
+
+	# Modify settings
+	settings_obj = add_default_settings(settings_obj)
+
+	start_crawler(settings_obj)
 
 def scrape(args):
-	print(args.url)
+	settings_obj = get_default_settings_obj()
+
+	settings_obj["save_data_to_csv"] = True
+	settings_obj["start_urls"] = [args.url]
+	settings_obj["allowed_domains"] = [re.match('https?://(.*)', args.url).group(1)]
+	settings_obj["csv_output_file"] = "scrape_data.csv"
+
+	# Read xpath from json file
+	try:
+		with open(args.xpaths, 'r') as jFile:
+			settings_obj["data_extract_path"] = json.load(jFile)
+	except FileNotFoundError as ex:
+		print("XPATHS FILE NOT FOUND")
+		sys.exit(-1)
+	except ValueError as ex:
+		print("XPATHS FILE CORRUPTED OR INVALID JSON FORMAT")
+		sys.exit(-1)
+	
+	start_crawler(settings_obj)
 
 # Add parser
 parser = argparse.ArgumentParser(prog='simpleScrape', description='Download or scrape the given url, see documentation for more info.')
@@ -71,15 +116,3 @@ scrape_parser.set_defaults(func=scrape)
 # Parse arguments
 args = parser.parse_args()
 args.func(args)
-
-# try:
-# 		with open(settings_file, 'r') as jFile:
-# 			dataSettings = json.load(jFile)
-# 	except FileNotFoundError as ex:
-# 		print("SETTINGS FILE NOT FOUND")
-# 		print("RUN SCRAPER USING DEFAULT SETTINGS:")
-# 		print("SCRAPE WAYNEDEV.ME AND SAVE ALL HTML FILES")
-# 	except ValueError as ex:
-# 		print("SETTINGS FILE CORRUPTED OR INVALID JSON FORMAT")
-# 		print("RUN SCRAPER USING DEFAULT SETTINGS:")
-# 		print("SCRAPE WAYNEDEV.ME AND SAVE ALL HTML FILES")
