@@ -1,0 +1,29 @@
+{	
+	"save_html_to_directory": true,
+	"save_data_to_csv": true,
+	"allowed_domains": ["quotes.toscrape.com"],
+	"start_urls": ["http://quotes.toscrape.com"],
+	"csv_output_file": "data.csv",
+	"html_directory_name": "HTMLFiles",
+	"save_file_regex": "http://(.*)",
+	"remove_url_query": true,
+	"page_regex": "/page/",
+	"randomize_download_delay": 1,
+	"download_delay": 0,
+	"depth_priority": 1,
+	"data_extract_path": 
+		[
+			{
+				"colName": "author",
+				"xPathString": "/html/body/div/div[2]/div[1]/div[1]/span[2]/small/text()"
+			},
+			{
+				"colName": "tags",
+				"xPathString": "/html/body/div/div[2]/div[1]/div[1]/div/a/text()"
+			},
+			{
+				"colName": "text",
+				"xPathString": "/html/body/div/div[2]/div[1]/div[1]/span[1]/text()"
+			}
+		]
+}

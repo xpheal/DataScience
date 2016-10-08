@@ -1,1 +1,1 @@
-python3 simpleScrape.py
+python3 simpleScrape.py $*

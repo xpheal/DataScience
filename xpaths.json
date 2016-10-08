@@ -1,0 +1,14 @@
+[
+	{
+		"colName": "author",
+		"xPathString": "/html/body/div/div[2]/div[1]/div[1]/span[2]/small/text()"
+	},
+	{
+		"colName": "tags",
+		"xPathString": "/html/body/div/div[2]/div[1]/div[1]/div/a/text()"
+	},
+	{
+		"colName": "text",
+		"xPathString": "/html/body/div/div[2]/div[1]/div[1]/span[1]/text()"
+	}
+]
