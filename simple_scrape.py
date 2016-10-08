@@ -42,7 +42,6 @@ def download(args):
 	settings_obj["save_html_to_directory"] = True
 	settings_obj["start_urls"] = [args.url]
 	settings_obj["allowed_domains"] = [re.match('https?://([^/]+)', args.url).group(1)]
-	print(re.match('https?://([^/]+)', args.url).group(1))
 	settings_obj["html_directory_name"] = "HTMLFiles"
 	settings_obj["save_file_regex"] = "https?://(.*)"
 	start_crawler(settings_obj)
