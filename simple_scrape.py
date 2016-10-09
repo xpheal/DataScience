@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import json
 import re
 import sys
@@ -29,7 +30,8 @@ def get_default_settings_obj():
 	settings_obj["html_directory_name"] = "HTMLFiles"
 	settings_obj["save_file_regex"] = None
 	settings_obj["remove_url_query"] = False
-	settings_obj["page_regex"] = None
+	settings_obj["allow_page_regex"] = None
+	settings_obj["deny_page_regex"] = None
 	settings_obj["randomize_download_delay"] = 0
 	settings_obj["download_delay"] = 0
 	settings_obj["depth_priority"] = 1

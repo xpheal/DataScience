@@ -1,5 +1,5 @@
 {	
-	"save_html_to_directory": false,
+	"save_html_to_directory": true,
 	"save_data_to_csv": true,
 	"allowed_domains": ["www.caranddriver.com"],
 	"start_urls": ["http://www.caranddriver.com/lamborghini"],
@@ -7,7 +7,8 @@
 	"html_directory_name": "HTMLFiles",
 	"save_file_regex": "([^/]+/[^/]+)$",
 	"remove_url_query": true,
-	"page_regex": "/[^/]+/[^/]+$",
+	"deny_page_regex": ["/news/", "/list-", "/photo-gallery/", "/reviews/", "/features/"],
+	"allow_page_regex": "/[^/]+/[^/]+$",
 	"randomize_download_delay": 0,
 	"download_delay": 0,
 	"depth_priority": 1,

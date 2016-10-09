@@ -29,7 +29,8 @@ class simple_spider(CrawlSpider):
 		self.html_directory_name = settings_obj["html_directory_name"]
 		self.save_file_regex = settings_obj["save_file_regex"]
 		self.remove_url_query = settings_obj["remove_url_query"]
-		self.page_regex = settings_obj["page_regex"]
+		self.allow_page_regex = settings_obj["allow_page_regex"]
+		self.deny_page_regex = settings_obj["deny_page_regex"]
 		self.randomize_download_delay = settings_obj["randomize_download_delay"]
 		self.download_delay = settings_obj["download_delay"]
 		self.depth_priority = settings_obj["depth_priority"]
@@ -48,7 +49,7 @@ class simple_spider(CrawlSpider):
 
 		# Rules to follow, crawl all pages, repeated pages are process at process_url, callback parse_items if match movie page
 		self.rules = (
-			Rule(LinkExtractor(process_value=self.process_url, allow=(self.page_regex)), callback='parse_items', follow=True),
+			Rule(LinkExtractor(process_value=self.process_url, allow=(self.allow_page_regex), deny=(self.deny_page_regex)), callback='parse_items', follow=True),
 			Rule(LinkExtractor(process_value=self.process_url), follow=True)
 		)
 
