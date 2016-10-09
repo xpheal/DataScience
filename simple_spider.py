@@ -80,9 +80,15 @@ class simple_spider(CrawlSpider):
 		'''
 		# Save the html pages to a folder htmlFiles
 		if self.save_html_to_directory:
-			page_id = re.match(self.save_file_regex, response.url)
-			filename = self.html_directory_name + '/%s.html' % page_id.group(1)
-			self.write_html_file(filename, response.body)
+			page_id = re.search(self.save_file_regex, response.url)
+
+			try:
+				filename = self.html_directory_name + '/%s.html' % page_id.group(1)
+				self.write_html_file(filename, response.body)
+			except AttributeError as ex:
+				print("URL: " + response.url)
+				print("has no match for regex: " + self.save_file_regex)
+				print(format(ex))
 
 		# Save the data to csv file
 		if self.save_data_to_csv:
