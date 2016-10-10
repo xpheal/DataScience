@@ -1,0 +1,3 @@
+[submodule "easyscrape"]
+	path = easyscrape
+	url = https://github.com/xpheal/easyscrape
