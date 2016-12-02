@@ -13,7 +13,7 @@ def main():
 			sample = random.sample(in_r, 800)
 
 			for row in sample:
-				out_r.writerow(row)
+				out_r.writerow([-1] + row)
 
 if __name__ == '__main__':
 	main()
