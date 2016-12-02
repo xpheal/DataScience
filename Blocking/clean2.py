@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 import csv
 
+def grab_row(row, cols):
+	return [row[i] for i in cols]
+
 def convert(x):
 	if x == 'Anime':
 		return 'Animation'
@@ -16,19 +19,20 @@ def convert(x):
 		return x
 
 def main():
-	with open('setB.csv', 'r') as in_f:
-		with open('setB2.csv', 'w') as out_f:
+	with open('setD3.csv', 'r') as in_f:
+		with open('setD4.csv', 'w') as out_f:
 			cr = csv.reader(in_f)
 			otr = csv.writer(out_f)
-
+			
 			for row in cr:
-				cats = row[2].split(",")
-
-				for i,j in enumerate(cats):
-					cats[i] = convert(j)
-
-				row[2] = ','.join(cats)
-				
+				# print(row[5])
+				row[5] = row[5].replace(',','')
+				# if row[4].strip() == 'N/A' or not row[4]:
+				# 	row[4] = None
+				# else:
+				# 	x = row[4].strip().split('/')
+				# 	y = float(x[0]) * 20
+				# 	row[4] = int(y)
 				otr.writerow(row)
 
 if __name__ == '__main__':
