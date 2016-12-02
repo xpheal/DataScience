@@ -22,7 +22,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20,Deepwater Horizon,"Action,Drama,Mystery",107,75,16701,Peter Berg
 21,Miss Peregrine's Home for Peculiar Children,"Adventure,Drama,Family",127,71,24330,Tim Burton
 22,Kevin Hart: What Now?,"Documentary,Comedy",96,57,632,"Leslie Small,Tim Story"
-23,The Girl on the Train,Mystery,112,67,16628,Tate Taylor
+23,The Girl on the Train,"Mystery,Mystery",112,67,16628,Tate Taylor
 24,School of Rock,"Comedy,Family,Musical",30,45,361,"Jim Armogida,Steve Armogida"
 25,The Accountant,"Action,Crime,Drama",128,78,9098,Gavin O'Connor
 26,Moonlight,Drama,110,83,713,Barry Jenkins
@@ -117,9 +117,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 115,The Terminal,"Comedy,Drama,Romance",128,73,308909,Steven Spielberg
 116,Ben-Hur,"Action,Adventure,Drama",125,57,9702,Timur Bekmambetov
 117,Captain Phillips,"Biography,Drama,Mystery",134,79,328658,Paul Greengrass
-118,The Da Vinci Code,Mystery,149,66,320298,Ron Howard
+118,The Da Vinci Code,"Mystery,Mystery",149,66,320298,Ron Howard
 119,Baadshaho,Drama,0,,,Milan Luthria
-120,Angels & Demons,Mystery,138,67,212546,Ron Howard
+120,Angels & Demons,"Mystery,Mystery",138,67,212546,Ron Howard
 121,Tiger Zinda Hai,Action,0,,,Ali Abbas Zafar
 122,Fuddu,Comedy,100,88,24,Sunil Subramani
 123,Jagga Jasoos,"Comedy,Mystery,Romance",0,,,Anurag Basu
@@ -262,7 +262,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 260,Star Trek,"Action,Adventure,Mystery",50,84,51963,Gene Roddenberry
 261,Terminator Salvation,"Action,Adventure,Sci-Fi",115,66,288906,McG
 262,Fast & Furious 6,"Action,Crime,Mystery",130,71,304738,Justin Lin
-263,The Bourne Supremacy,"Action,Mystery",108,78,355927,Paul Greengrass
+263,The Bourne Supremacy,"Action,Mystery,Mystery",108,78,355927,Paul Greengrass
 264,Avatar,"Action,Adventure,Fantasy",162,79,897630,James Cameron
 265,Guardians of the Galaxy Vol. 2,"Action,Sci-Fi",0,,,James Gunn
 266,Mission: Impossible - Rogue Nation,"Action,Adventure,Mystery",131,74,240157,Christopher McQuarrie
@@ -333,7 +333,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 331,Teenage Alien Avengers,Sci-Fi,81,34,250,David DeCoteau
 332,The Fantastic Four,"Animation,Sci-Fi",0,61,321,Stan Lee
 333,Doctor Strange,"Animation,Action,Fantasy",76,68,5588,"Patrick Archibald,Jay Oliva"
-334,Black Christmas,"Horror,Mystery",98,72,21925,Bob Clark
+334,Black Christmas,"Horror,Mystery,Mystery",98,72,21925,Bob Clark
 335,Doctor Strange,"Comedy,News,Television",32,,,Nash Bozard
 336,The Blair Witch Project (1999),Comedy,0,68,17,
 337,The Blair Witch Project,Horror,81,64,192409,"Daniel Myrick,Eduardo Snchez"
@@ -378,7 +378,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 376,Subspecies,"Fantasy,Horror",90,57,2399,Ted Nicolaou
 377,Episode #14.32,News,30,,,
 378,The Edge of Seventeen,"Comedy,Drama",102,81,182,Kelly Fremon Craig
-379,Brimstone,"Mystery,Western",148,68,192,Martin Koolhoven
+379,Brimstone,"Mystery,Mystery,Western",148,68,192,Martin Koolhoven
 380,The O.C.,"Comedy,Drama,Romance",44,75,66506,Josh Schwartz
 381,Jason Segel/Michael B. Jordan/Big Sean/Brad Wilk,"Comedy,Television",60,,,Alexander J. Vietmeier
 382,Prime,"Comedy,Drama,Romance",105,62,35258,Ben Younger
@@ -561,7 +561,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 559,Grace and Frankie,Comedy,30,82,12848,"Marta Kauffman,Howard J. Morris"
 560,Matt Dillon/Tatiana Maslany/Will Butler,"Comedy,Television",60,,,Alexander J. Vietmeier
 561,Louis C.K./Sharon Osbourne/Joy Williams,"Comedy,Television",60,,,
-562,Now You See Me,"Crime,Mystery",115,73,464597,Louis Leterrier
+562,Now You See Me,"Crime,Mystery,Mystery",115,73,464597,Louis Leterrier
 563,Jesse Eisenberg Gets Carded,Television,90,75,14,
 564,Grey Damon v. Josh Brener,Television,22,83,10,Matthew Cohen
 565,X-Men: Days of Future Past,"Action,Adventure,Sci-Fi",132,80,522396,Bryan Singer
@@ -579,7 +579,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 577,Assassin's Creed,"Action,Adventure,Fantasy",0,,,Justin Kurzel
 578,Thor: Ragnarok,"Action,Adventure,Fantasy",0,,,Taika Waititi
 579,Spider-Man: Homecoming,"Action,Adventure,Fantasy",0,,,Jon Watts
-580,A Cure for Wellness,Mystery,0,,,Gore Verbinski
+580,A Cure for Wellness,"Mystery,Mystery",0,,,Gore Verbinski
 581,Into the Inferno,Documentary,104,80,67,Werner Herzog
 582,Avengers: Infinity War,"Action,Sci-Fi",0,,,"Anthony Russo,Joe Russo"
 583,Logan,"Action,Sci-Fi",0,,,James Mangold
@@ -592,8 +592,8 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 590,Life of Pi,"Adventure,Drama,Fantasy",127,80,447602,Ang Lee
 591,Eric McCormack/Michael Lewis/Roy Wood Jr.,"Comedy,Musical,Television",60,,,
 592,The Bourne Legacy,"Action,Adventure,Drama",135,67,234264,Tony Gilroy
-593,The Bourne Ultimatum,"Action,Mystery",115,81,500818,Paul Greengrass
-594,The Bourne Identity,"Action,Mystery",119,79,416200,Doug Liman
+593,The Bourne Ultimatum,"Action,Mystery,Mystery",115,81,500818,Paul Greengrass
+594,The Bourne Identity,"Action,Mystery,Mystery",119,79,416200,Doug Liman
 595,Pirates of the Caribbean: Dead Man's Chest,"Action,Adventure,Fantasy",151,73,529163,Gore Verbinski
 596,Transporter 3,"Action,Adventure,Crime",104,61,127831,Olivier Megaton
 597,The Hangover Part III,News,30,,,
@@ -691,7 +691,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 689,Carrie,Horror,98,74,127804,Brian De Palma
 690,The Exorcist,Horror,122,80,288114,William Friedkin
 691,Scream,"Horror,Mystery",111,72,225137,Wes Craven
-692,Friday the 13th,"Horror,Mystery",95,65,84408,Sean S. Cunningham
+692,Friday the 13th,"Horror,Mystery,Mystery",95,65,84408,Sean S. Cunningham
 693,A Nightmare on Elm Street,Horror,91,75,152050,Wes Craven
 694,"Something, Something, Something, Dark Side","Animation,Comedy",44,77,4691,"Dominic Polcino,James Purdum"
 695,The Man Who Could Not Die,"Action,Adventure,Drama",46,78,55,John Newland
@@ -997,7 +997,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 995,Mungaru Male 2,"Comedy,Drama,Romance",159,90,460,Shashank
 996,Passage to Mars,"Documentary,Adventure",94,46,295,Jean-Christophe Jeauffre
 997,The Ivory Game,Documentary,112,92,125,"Kief Davidson,Richard Ladkani"
-998,Dark Signal,"Horror,Mystery",98,42,480,Edward Evers-Swindell
+998,Dark Signal,"Horror,Mystery,Mystery",98,42,480,Edward Evers-Swindell
 999,Edge of Winter,"Drama,Mystery",89,51,1034,Rob Connolly
 1000,Sacrifice,Mystery,91,52,1813,Peter A. Dowling
 1001,HoneyBee,Horror,0,74,10,
@@ -1622,7 +1622,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 1620,Lights Out/Star Trek Beyond,"Comedy,Television",71,,,
 1621,Blood Father,"Action,Crime,Mystery",88,65,22605,Jean-Franois Richet
 1622,Lights Out,"Short,Horror",3,78,2960,David F. Sandberg
-1623,The Conjuring,"Horror,Mystery",112,75,309839,James Wan
+1623,The Conjuring,"Horror,Mystery,Mystery",112,75,309839,James Wan
 1624,Entrei em Pnico ao Saber o que Vocs Fizeram na Sexta-feira 13 do Vero Passado Parte 2 - A Hora da Volta da Vingana dos Jogos Mortais de Halloween,"Comedy,Horror",82,54,23,Felipe M. Guerra
 1625,Friday the 13th,Horror,97,56,75975,Marcus Nispel
 1626,Halloween: The Curse of Michael Myers,"Horror,Mystery",87,49,21233,Joe Chappelle
@@ -1636,12 +1636,12 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 1634,Before I Wake,"Drama,Fantasy,Horror",97,61,11163,Mike Flanagan
 1635,The Other Side of the Door,Horror,96,53,9244,Johannes Roberts
 1636,Captive,Television,42,77,18,
-1637,Unfriended,"Horror,Mystery",83,57,46281,Levan Gabriadze
+1637,Unfriended,"Horror,Mystery,Mystery",83,57,46281,Levan Gabriadze
 1638,Mr. Church,Drama,104,76,1403,Bruce Beresford
 1639,Green Room,"Crime,Horror,Musical",95,71,39641,Jeremy Saulnier
 1640,Sausage Party,"Animation,Adventure,Comedy",89,67,37676,"Greg Tiernan,Conrad Vernon"
 1641,Jack Goes Home,"Drama,Horror,Mystery",100,54,422,Thomas Dekker
-1642,The Conjuring 2,"Horror,Mystery",134,76,102551,James Wan
+1642,The Conjuring 2,"Horror,Mystery,Mystery",134,76,102551,James Wan
 1643,The Shallows,"Drama,Horror,Mystery",86,64,50360,Jaume Collet-Serra
 1644,Bad Moms,Comedy,100,65,18596,"Jon Lucas,Scott Moore"
 1645,Evil Dead,Horror,91,65,127725,Fede Alvarez
@@ -1760,7 +1760,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 1758,Wiener-Dog,"Comedy,Drama",88,59,3618,Todd Solondz
 1759,Complete Unknown,"Drama,Mystery",91,56,1219,Joshua Marston
 1760,Blue Jay,Drama,80,74,345,Alexandre Lehmann
-1761,America's Got Talent,"Television,Musical",60,56,7033,"Simon Cowell,Jason Raff,Ken Warwick"
+1761,America's Got Talent,"Television,Musical,Television",60,56,7033,"Simon Cowell,Jason Raff,Ken Warwick"
 1762,Once and Forever,"Short,Drama",11,70,213,Karl Lagerfeld
 1763,Mark Wahlberg/Sofia Vergara/M,"Comedy,Musical,Television",41,83,7,Dave Diomedi
 1764,Brooklyn Nine-Nine,"Comedy,Crime",22,83,68685,"Daniel J. Goor,Michael Schur"
@@ -2051,9 +2051,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2049,Kelly Ripa/Priyanka Chopra/Band of Horses,"Comedy,Musical,Television",41,73,7,
 2050,The Amazing Race,"Action,Adventure,Television",60,76,11735,"Elise Doganieri,Bertram van Munster,Evan Weinstein"
 2051,Episode #21.183,"Comedy,Musical,Television",62,,,Anthony Caleca
-2052,So You Think You Can Dance,"Television,Musical",60,68,9117,"Simon Fuller,Nigel Lythgoe"
+2052,So You Think You Can Dance,"Television,Musical,Television",60,68,9117,"Simon Fuller,Nigel Lythgoe"
 2053,K-11,Drama,88,52,1365,Jules Stewart
-2054,Fear Factor,"Television,Mystery",60,56,5115,
+2054,Fear Factor,"Television,Television,Mystery",60,56,5115,
 2055,Kristen Stewart and Jesse Eisenberg's Awkward Interview,"Short,Comedy",3,82,65,Jon Mackey
 2056,Anesthesia,"Drama,Mystery",90,61,1981,Tim Blake Nelson
 2057,Equals,"Drama,Romance,Sci-Fi",101,61,9709,Drake Doremus
@@ -2064,13 +2064,13 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2062,Jenny Lewis: Just One of the Guys,"Short,Musical",4,76,174,Jenny Lewis
 2063,American Ninja Warrior,"Action,Television,Sport",40,68,1847,
 2064,The X Factor,"Musical,Television",0,52,5309,
-2065,Wipeout,"Comedy,Television",42,66,6300,
-2066,American Idol,"Television,Musical",42,42,19638,Simon Fuller
+2065,Wipeout,"Comedy,Television,Television",42,66,6300,
+2066,American Idol,"Television,Musical,Television",42,42,19638,Simon Fuller
 2067,Britain's Got Talent,"Comedy,Musical,Television",0,60,2474,"Ken Warwick,Simon Cowell"
-2068,The Voice,"Television,Musical",60,66,9708,
-2069,Grand Finale,"Television,Musical",60,86,14,
-2070,The Finals,"Television,Musical",60,92,13,
-2071,Episode #12.1,"Television,Musical",60,,,
+2068,The Voice,"Television,Musical,Television",60,66,9708,
+2069,Grand Finale,"Television,Musical,Television",60,86,14,
+2070,The Finals,"Television,Musical,Television",60,92,13,
+2071,Episode #12.1,"Television,Musical,Television",60,,,
 2072,Miss Stevens,"Comedy,Drama",86,60,290,Julia Hart
 2073,Genius,"Biography,Drama",104,66,3705,Michael Grandage
 2074,Shovel Buddies,Drama,85,64,93,"Simon Atkinson,Adam Townley"
@@ -2111,7 +2111,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2109,To Boldly Flee,"Adventure,Comedy,Sci-Fi",209,73,858,Doug Walker
 2110,Suburban Knights,"Adventure,Comedy,Fantasy",127,73,864,Doug Walker
 2111,Brad Tries...,Television,0,78,55,
-2112,The Cinema Snob Movie,"Comedy,Mystery",124,78,352,Ryan Mitchelle
+2112,The Cinema Snob Movie,"Comedy,Mystery,Mystery",124,78,352,Ryan Mitchelle
 2113,The Hooker with a Heart of Gold,"Action,Comedy,Mystery",149,72,203,Brad Jones
 2114,The Nostalgia Chick,Comedy,0,71,709,Lindsay Ellis
 2115,Phelous & the Movies,Comedy,20,75,358,
@@ -2142,40 +2142,40 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2140,Ant & Dec's Saturday Night Takeaway,Comedy,50,65,676,
 2141,Catch Phrase,Television,30,65,212,Steve Radosh
 2142,Brief Encounters,Drama,360,77,349,
-2143,MasterChef,Television,30,71,257,
+2143,MasterChef,"Television,Television",30,71,257,
 2144,Pointless Celebrities,Television,0,72,174,
 2145,Holby City,Drama,60,59,1049,
-2146,Strictly Come Dancing,"Television,Musical",85,59,809,
+2146,Strictly Come Dancing,"Television,Musical,Television",85,59,809,
 2147,Casualty,Drama,50,60,1695,"Jeremy Brock,Paul Unwin"
 2148,Hollyoaks,"Drama,Romance",30,52,3213,Phil Redmond
 2149,EastEnders,"Crime,Drama,Romance",30,51,5960,"Tony Holland,Julia Smith"
 2150,Fracture,"Crime,Drama,Mystery",113,72,141452,Gregory Hoblit
-2151,Eastern Promises,"Crime,Mystery",100,77,191220,David Cronenberg
+2151,Eastern Promises,"Crime,Mystery,Mystery",100,77,191220,David Cronenberg
 2152,Going Native,"Animation,Comedy",23,65,938,Trey Parker
 2153,Primal Fear,"Crime,Drama,Mystery",129,77,134300,Gregory Hoblit
 2154,ACA by Request,News,0,,,
 2155,Lucky Number Slevin,"Crime,Drama,Mystery",110,78,264439,Paul McGuigan
-2156,Insomnia,"Drama,Mystery",118,72,221679,Christopher Nolan
+2156,Insomnia,"Drama,Mystery,Mystery",118,72,221679,Christopher Nolan
 2157,Episode dated 20 October 2007,Television,30,,,
 2158,Phone Booth,"Crime,Mystery",81,71,210586,Joel Schumacher
 2159,The Bill,"Crime,Drama",50,65,1963,Geoff McQueen
 2160,Episode #1.2,"Sport,Television",30,,,
-2161,The Devil's Advocate,"Drama,Mystery",144,75,262589,Taylor Hackford
+2161,The Devil's Advocate,"Drama,Mystery,Mystery",144,75,262589,Taylor Hackford
 2162,Dillinger,"Action,Biography,Crime",90,66,382,Rupert Wainwright
 2163,Gamer,"Action,Sci-Fi,Mystery",95,58,114428,"Mark Neveldine,Brian Taylor"
 2164,21 Grams,Drama,124,77,191689,Alejandro G. Irritu
 2165,Once Upon a Time in Mexico,"Action,Crime,Mystery",102,64,131481,Robert Rodriguez
-2166,Secret Window,Mystery,96,66,149318,David Koepp
+2166,Secret Window,"Mystery,Mystery",96,66,149318,David Koepp
 2167,The Tourist,"Action,Romance,Mystery",103,60,179095,Florian Henckel von Donnersmarck
 2168,Blow,"Biography,Crime,Drama",124,76,200304,Ted Demme
 2169,Donnie Brasco,"Biography,Crime,Drama",127,78,227705,Mike Newell
 2170,Coronation Street,"Drama,Romance",30,58,3591,Tony Warren
 2171,Episode #19.61,"Comedy,Musical,Television",62,,,Anthony Caleca
 2172,Behind the Sun,Drama,105,77,5792,Walter Salles
-2173,Non-Stop,"Action,Mystery",106,70,203814,Jaume Collet-Serra
+2173,Non-Stop,"Action,Mystery,Mystery",106,70,203814,Jaume Collet-Serra
 2174,Papillon,"Biography,Crime,Drama",151,80,97933,Franklin J. Schaffner
 2175,Broken City,"Crime,Drama,Mystery",109,62,64260,Allen Hughes
-2176,Unknown,"Action,Mystery",113,69,212581,Jaume Collet-Serra
+2176,Unknown,"Action,Mystery,Mystery",113,69,212581,Jaume Collet-Serra
 2177,Zero Dark Thirty,"Drama,History,Mystery",157,74,218873,Kathryn Bigelow
 2178,The Artist,"Comedy,Drama,Romance",100,80,192123,Michel Hazanavicius
 2179,No Country for Old Men,"Crime,Drama,Mystery",122,81,624254,"Ethan Coen,Joel Coen"
@@ -2202,7 +2202,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2200,The Girl Who Kicked the Hornet's Nest,"Crime,Drama,Mystery",147,73,53396,Daniel Alfredson
 2201,Panic Room,"Crime,Drama,Mystery",112,68,208666,David Fincher
 2202,The Girl Who Played with Fire,"Crime,Drama,Mystery",129,72,74501,Daniel Alfredson
-2203,The Game,"Drama,Mystery",129,78,265531,David Fincher
+2203,The Game,"Drama,Mystery,Mystery",129,78,265531,David Fincher
 2204,Midnight in Paris,"Comedy,Fantasy,Romance",94,77,305465,Woody Allen
 2205,Zodiac,"Crime,Drama,History",157,77,308497,David Fincher
 2206,The Girl with the Dragon Tattoo,"Crime,Drama,Mystery",152,78,176572,Niels Arden Oplev
@@ -2398,7 +2398,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2396,The Call Up,"Action,Sci-Fi",90,48,1527,Charles Barker
 2397,Search Party,"Adventure,Comedy",93,56,3972,Scot Armstrong
 2398,Rebirth,Mystery,100,50,1490,Karl Mueller
-2399,Synchronicity,"Mystery,Sci-Fi",101,54,5116,Jacob Gentry
+2399,Synchronicity,"Mystery,Sci-Fi,Mystery",101,54,5116,Jacob Gentry
 2400,Time Lapse,"Sci-Fi,Mystery",104,65,28084,Bradley King
 2401,Orgy of the Dead,"Fantasy,Horror",92,27,2014,Stephen C. Apostolof
 2402,Splathouse: Plan 9 from Outer Space,"Short,Comedy,Sci-Fi",0,,,"Sarah Coykendall,Mike Delaney"
@@ -2425,7 +2425,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2423,Memory Box,"Short,Drama",11,60,24,"Aaron Aites,Audrey Ewell"
 2424,You're Next,"Horror,Mystery",95,65,63367,Adam Wingard
 2425,It Follows,"Horror,Mystery",100,69,118803,David Robert Mitchell
-2426,The Gift,Mystery,108,71,85644,Joel Edgerton
+2426,The Gift,"Mystery,Mystery",108,71,85644,Joel Edgerton
 2427,Unfriended,Comedy,27,,,Phelan Porteous
 2428,The Witch,"Horror,Mystery",92,67,77179,Robert Eggers
 2429,The Gallows,"Horror,Mystery",81,42,14189,"Travis Cluff,Chris Lofing"
@@ -2442,8 +2442,8 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2440,Intruders,"Drama,Horror,Mystery",90,57,6295,Adam Schindler
 2441,Emelie,"Horror,Mystery",80,54,5043,Michael Thelin
 2442,The Darkness,"Horror,Mystery",92,42,5605,Greg McLean
-2443,The Forest,"Horror,Mystery",93,48,23839,Jason Zada
-2444,The Boy,"Horror,Mystery",97,60,40710,William Brent Bell
+2443,The Forest,"Horror,Mystery,Mystery",93,48,23839,Jason Zada
+2444,The Boy,"Horror,Mystery,Mystery",97,60,40710,William Brent Bell
 2445,Hush,"Horror,Mystery",81,66,31037,Mike Flanagan
 2446,House on Haunted Hill,Horror,75,69,16325,William Castle
 2447,Captain America: Civil War,,17,,,Mathew Buck
@@ -2453,11 +2453,11 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2451,Going to Pieces: The Rise and Fall of the Slasher Film,"Documentary,Horror",88,73,2733,
 2452,The Shape of Things: The Murder and Mayhem of Halloween 6,Short,12,,,
 2453,Jason X,"Action,Horror,Sci-Fi",91,44,39496,James Isaac
-2454,Blue Velvet,"Drama,Mystery",120,78,134591,David Lynch
-2455,A Nightmare on Elm Street,"Horror,Mystery",95,52,76187,Samuel Bayer
+2454,Blue Velvet,"Drama,Mystery,Mystery",120,78,134591,David Lynch
+2455,A Nightmare on Elm Street,"Horror,Mystery,Mystery",95,52,76187,Samuel Bayer
 2456,Entrei em Pnico ao Saber o que Vocs Fizeram na Sexta-feira 13 do Vero Passado,"Comedy,Horror",75,55,13,Felipe M. Guerra
 2457,The Babadook,"Drama,Fantasy,Horror",93,68,118855,Jennifer Kent
-2458,Orphan,"Horror,Mystery",123,70,145025,Jaume Collet-Serra
+2458,Orphan,"Horror,Mystery,Mystery",123,70,145025,Jaume Collet-Serra
 2459,Time Is an Illusion,"Short,Horror,Mystery",3,50,16,Deniz Gkkan
 2460,He Dies at the End,"Short,Mystery",4,71,251,Damian Mc Carthy
 2461,Bedfellows,"Short,Drama,Horror",3,70,616,Drew Daywalt
@@ -2720,7 +2720,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2718,Memory & Desire,"Drama,Romance",89,65,108,Niki Caro
 2719,A Heavenly Vintage,"Drama,Fantasy,Romance",120,57,630,Niki Caro
 2720,Maggie,"Drama,Horror",95,56,31288,Henry Hobson
-2721,Psycho,"Horror,Mystery",109,85,430145,Alfred Hitchcock
+2721,Psycho,"Horror,Mystery,Mystery",109,85,430145,Alfred Hitchcock
 2722,End of Days,"Action,Fantasy,Horror",121,57,90313,Peter Hyams
 2723,Collateral Damage,"Action,Drama,Mystery",108,55,61961,Andrew Davis
 2724,Soul ReViver,Drama,0,,,
@@ -2750,7 +2750,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2748,Weaponized,Mystery,0,,,
 2749,Black Box,Mystery,0,,,
 2750,Tiger & Bunny,"Animation,Action,Comedy",0,76,402,
-2751,The Parsifal Mosaic,"Drama,Mystery",0,,,
+2751,The Parsifal Mosaic,"Drama,Mystery,Mystery",0,,,
 2752,Battle Ready,"Action,Drama",0,,,
 2753,The Redemption of Cain,Drama,0,,,
 2754,Untitled Martin Lawrence Project,Comedy,0,78,71,Fred Savage
@@ -2787,7 +2787,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2785,Killer's Game,Mystery,0,,,
 2786,The Originals,Drama,0,,,
 2787,The Hardy Men,Comedy,0,,,
-2788,The Eighth Wonder,"Drama,Mystery",0,,,
+2788,The Eighth Wonder,"Drama,Mystery,Mystery",0,,,
 2789,The Strange Adventures of H.P. Lovecraft,Mystery,0,,,
 2790,Sleeping with Other People,"Comedy,Drama,Romance",101,65,23898,Leslye Headland
 2791,Ghost Closet '07,"Short,Comedy,Drama",16,48,25,Alex Montilla
@@ -2811,7 +2811,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2809,Kagbeni,"Drama,Horror",130,72,316,Bhusan Dahal
 2810,Small World,"Comedy,Romance",144,72,206,Alok Nembang
 2811,Kabaddi,"Comedy,Drama,Romance",123,85,245,Rambabu Gurung
-2812,Loot,"Crime,Mystery",0,79,529,Nischal Basnet
+2812,Loot,"Crime,Mystery,Mystery",0,79,529,Nischal Basnet
 2813,Friday,"Comedy,Drama",91,73,75861,F. Gary Gray
 2814,Tremors,"Comedy,Horror,Sci-Fi",96,71,91627,Ron Underwood
 2815,Oranges: Revenge of the Eggplant,Comedy,78,71,88,Mike Stoklasa
@@ -2851,10 +2851,10 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2849,First Kiss,Short,3,68,82,Tatia Pilieva
 2850,Loose Ends,Short,23,74,33,Anna Akana
 2851,Project Almanac,"Sci-Fi,Mystery",106,64,59057,Dean Israelite
-2852,Super 8,"Mystery,Sci-Fi",112,71,290808,J.J. Abrams
+2852,Super 8,"Mystery,Sci-Fi,Mystery",112,71,290808,J.J. Abrams
 2853,Episode #1.1,Television,21,,,J. Andrew Thames
-2854,Vidiots,"Comedy,Television",0,,,
-2855,Panic,"Drama,Mystery",85,77,10,Sean Spencer
+2854,Vidiots,"Comedy,Television,Television",0,,,
+2855,Panic,"Drama,Mystery,Mystery",85,77,10,Sean Spencer
 2856,Death's Door,Drama,0,,,"Jack Skyyler,Alex Zinzopoulos"
 2857,Haja Corao,"Comedy,Drama,Romance",45,43,13,
 2858,Sol Nascente,"Comedy,Drama,Romance",43,50,6,"Jlio Fischer,Walter Negro,Suzana Pires"
@@ -2914,7 +2914,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 2912,WWE Payback,Sport,0,67,167,Kevin Dunn
 2913,WWE Elimination Chamber,Sport,0,68,184,Kevin Dunn
 2914,NXT Arrival,Sport,0,80,77,
-2915,WWE NXT,"Action,Television",60,76,856,Vince McMahon
+2915,WWE NXT,"Action,Television,Television",60,76,856,Vince McMahon
 2916,NXT TakeOver: The End,"Action,Sport",120,79,92,Paul Levesque
 2917,NXT TakeOver: London,Sport,0,79,132,
 2918,WWE NXT Takeover: Fatal 4 Way,Sport,0,80,87,Kevin Dunn
@@ -3786,7 +3786,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 3784,The Hurricane,"Biography,Drama,Sport",146,76,76880,Norman Jewison
 3785,George Clooney/Britt Robertson/Hugh Laurie/Dwayne Johnson/Jessica Hynes/Snoop Dogg,"Comedy,Television",54,77,17,Steve Smith
 3786,When Harry Met Sally...,"Comedy,Drama,Romance",96,76,151215,Rob Reiner
-3787,The Adventures of Sherlock Holmes,"Crime,Mystery",85,76,4872,Alfred L. Werker
+3787,The Adventures of Sherlock Holmes,"Crime,Mystery,Mystery",85,76,4872,Alfred L. Werker
 3788,The Hound of the Baskervilles,"Adventure,Drama,Mystery",100,66,1941,David Attwood
 3789,Eden,"Drama,Mystery",90,47,1604,Shyam Madiraju
 3790,Outlaws and Angels,"Drama,Mystery,Western",120,54,995,JT Mollner
@@ -3911,7 +3911,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 3909,Sanam Teri Kasam,Romance,154,74,4389,"Radhika Rao,Vinay Sapru"
 3910,Click,"Comedy,Drama,Fantasy",107,64,249518,Frank Coraci
 3911,Neerja,"Biography,Drama,Mystery",122,79,9781,Ram Madhvani
-3912,Te3n,"Drama,Mystery",136,73,4839,Ribhu Dasgupta
+3912,Te3n,"Drama,Mystery,Mystery",136,73,4839,Ribhu Dasgupta
 3913,Sultan,"Action,Drama,Romance",170,73,18325,Ali Abbas Zafar
 3914,Ki & Ka,"Comedy,Romance",126,58,3176,R. Balki
 3915,Bruce Lee,Action,0,,,Ram Gopal Varma
@@ -3949,7 +3949,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 3947,Jai Ho,"Action,Crime,Drama",135,54,12816,Sohail Khan
 3948,Bodyguard,"Action,Romance",130,45,17092,Siddique
 3949,Kick,"Action,Comedy,Romance",146,55,17519,Sajid Nadiadwala
-3950,Ek Paheli Leela,"Mystery,Romance",145,38,1275,Bobby Khan
+3950,Ek Paheli Leela,"Mystery,Romance,Mystery",145,38,1275,Bobby Khan
 3951,Super Girl from China,"Short,Musical",5,37,18,Ahmed Khan
 3952,Noor,Drama,0,,,Sunhil Sippy
 3953,Anna,Biography,0,68,5,Shashank Udapurkar
@@ -3961,7 +3961,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 3959,Dil Chahta Hai,"Comedy,Drama,Romance",183,82,48686,Farhan Akhtar
 3960,Mausam,"Drama,Romance",161,47,4373,Pankaj Kapur
 3961,R... Rajkumar,Action,146,51,3782,Prabhudheva
-3962,Phobia,"Drama,Mystery",112,70,1152,Pawan Kripalani
+3962,Phobia,"Drama,Mystery,Mystery",112,70,1152,Pawan Kripalani
 3963,Shaandaar,"Comedy,Drama,Romance",144,36,3256,Vikas Bahl
 3964,Udta Punjab,"Crime,Drama,Mystery",148,79,12322,Abhishek Chaubey
 3965,Haider,"Action,Crime,Drama",160,82,38077,Vishal Bhardwaj
@@ -3983,7 +3983,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 3981,Tamanna,"Drama,Mystery",83,65,226,Steven Moore
 3982,Chambaili,Drama,133,80,1071,Ismail Jillani
 3983,Dukhtar,"Drama,Mystery",93,71,1140,Afia Nathaniel
-3984,Josh,"Drama,Mystery",104,73,967,Iram Parveen Bilal
+3984,Josh,"Drama,Mystery,Mystery",104,73,967,Iram Parveen Bilal
 3985,Na Maloom Afraad,"Comedy,Mystery",137,79,2935,Nabeel Qureshi
 3986,Jinnah,"Biography,Drama,War",110,82,1937,Jamil Dehlavi
 3987,Ishq Positive,"Comedy,Musical,Romance",0,64,27,Noor Bukhari
@@ -4303,9 +4303,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 4301,The Concert for Bangladesh,"Documentary,Musical",103,83,1174,Saul Swimmer
 4302,Imagine: John Lennon,"Documentary,Biography,Musical",100,79,3665,Andrew Solt
 4303,The Wedding Party,Comedy,92,51,679,"Brian De Palma,Wilford Leach"
-4304,Obsession,"Drama,Mystery",98,68,6181,Brian De Palma
+4304,Obsession,"Drama,Mystery,Mystery",98,68,6181,Brian De Palma
 4305,Raising Cain,"Crime,Drama,Mystery",91,60,10142,Brian De Palma
-4306,Body Double,Mystery,114,68,20592,Brian De Palma
+4306,Body Double,"Mystery,Mystery",114,68,20592,Brian De Palma
 4307,This Is England,"Crime,Drama",101,77,100125,Shane Meadows
 4308,Spike Island,"Comedy,Drama,Musical",105,64,2296,Mat Whitecross
 4309,Dead Man's Shoes,"Crime,Drama,Mystery",90,77,40411,Shane Meadows
@@ -4376,14 +4376,14 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 4374,Patchwork,"Comedy,Horror",86,73,107,Tyler MacIntyre
 4375,Daguerrotype,"Drama,Fantasy,Horror",131,64,64,Kiyoshi Kurosawa
 4376,Twisted Justice,"Crime,Drama",135,62,31,Kazuya Shiraishi
-4377,The Priests,"Crime,Mystery",103,63,477,Jae-hyun Jang
+4377,The Priests,"Crime,Mystery,Mystery",103,63,477,Jae-hyun Jang
 4378,We Go On,"Drama,Horror,Mystery",90,74,59,"Jesse Holland,Andy Mitton"
 4379,Himeanole,"Crime,Mystery",99,76,79,Keisuke Yoshida
 4380,Don't Kill It,"Fantasy,Horror",93,60,80,Mike Mendez
 4381,We Are the Flesh,"Drama,Fantasy,Horror",79,56,174,Emiliano Rocha Minter
 4382,A Hard Day,"Comedy,Crime,Mystery",111,72,5272,Seong-hun Kim
 4383,Hwayi: A Monster Boy,"Action,Mystery",126,71,1871,Joon-Hwan Jang
-4384,Confession of Murder,"Action,Mystery",119,71,4160,Byeong-gil Jeong
+4384,Confession of Murder,"Action,Mystery,Mystery",119,71,4160,Byeong-gil Jeong
 4385,Nameless Gangster: Rules of the Time,"Crime,Drama,Mystery",134,72,3418,Jong-bin Yun
 4386,A Dirty Carnival,"Crime,Drama,Mystery",141,74,5513,Ha Yoo
 4387,The Neon Demon,"Horror,Mystery",118,64,26958,Nicolas Winding Refn
@@ -4393,7 +4393,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 4391,Big Bad Wolves,"Comedy,Crime,Mystery",110,68,12431,"Aharon Keshales,Navot Papushado"
 4392,The Chaser,Comedy,8,,,Iaki Reyna
 4393,Infernal Affairs,"Crime,Drama,Mystery",101,81,93164,"Wai-Keung Lau,Alan Mak"
-4394,Oldboy,"Drama,Mystery",120,84,363311,Chan-wook Park
+4394,Oldboy,"Drama,Mystery,Mystery",120,84,363311,Chan-wook Park
 4395,Wood Job!,Comedy,116,76,1124,Shinobu Yaguchi
 4396,Flying Colours,Drama,117,75,948,Nobuhiro Doi
 4397,Little Forest: Summer/Autumn,Drama,111,78,823,Jun'ichi Mori
@@ -4521,7 +4521,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 4519,My Guardian Angel,Mystery,100,49,278,Mumtaz Yildirimlar
 4520,Barbarians,Drama,87,57,475,Ivan Ikic
 4521,Broken Promise,Mystery,0,57,214,Nadeem Soumah
-4522,Guest,"Horror,Mystery",119,61,303,Kim Kwang-tae
+4522,Guest,"Horror,Mystery,Mystery",119,61,303,Kim Kwang-tae
 4523,Fishtales,Animation,71,51,126,Evan Tramel
 4524,The Magician,Romance,122,59,261,Dae-seung Kim
 4525,Gearheads,Action,82,37,152,John O. Hartman
@@ -4552,7 +4552,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 4550,To Boldly Flee: Part VIII,Comedy,45,82,36,Doug Walker
 4551,Don't Look Now,"Drama,Horror,Mystery",110,73,35120,Nicolas Roeg
 4552,Performance,"Crime,Drama",105,70,6663,"Donald Cammell,Nicolas Roeg"
-4553,Bad Timing,"Drama,Mystery",123,71,5844,Nicolas Roeg
+4553,Bad Timing,"Drama,Mystery,Mystery",123,71,5844,Nicolas Roeg
 4554,Walkabout,"Adventure,Drama",100,77,17593,Nicolas Roeg
 4555,Il mio West,"Comedy,Drama,Western",87,44,707,Giovanni Veronesi
 4556,Near Dark,"Action,Crime,Drama",94,70,25835,Kathryn Bigelow
@@ -4816,7 +4816,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 4814,The Flying Nun,Comedy,30,65,1396,"Bernard Slade,Harry Ackerman,Max Wylie"
 4815,Anarchy on Wheels,Documentary,42,,,
 4816,Barnaby Jones,"Crime,Drama,Mystery",60,69,1405,Edward Hume
-4817,Rowan & Martin's Laugh-In,"Comedy,Musical",60,81,1585,Digby Wolfe
+4817,Rowan & Martin's Laugh-In,"Comedy,Musical,Musical",60,81,1585,Digby Wolfe
 4818,Gomer Pyle: USMC,"Comedy,War",30,71,1751,Aaron Ruben
 4819,Dragnet,"Drama,Crime,Mystery",30,76,1237,Jack Webb
 4820,Log 105: Elegy for a Pig,"Comedy,Crime,Drama",30,89,79,Christian Nyby
@@ -4910,7 +4910,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 4908,The Binding,"Drama,Horror,Mystery",91,35,243,Gus Krieger
 4909,Dark Amazon,"Adventure,Horror,Mystery",81,51,66,Darcyana Moreno Izel
 4910,Tank 432,"Action,Horror,Mystery",88,37,297,Nick Gillespie
-4911,The Suffering,"Horror,Mystery",105,44,378,Robert Hamilton
+4911,The Suffering,"Horror,Mystery,Mystery",105,44,378,Robert Hamilton
 4912,The Devil's Dolls,"Horror,Mystery",85,44,343,Padraig Reynolds
 4913,The Evil in Us,Horror,90,40,271,Jason William Lee
 4914,Blackburn,Horror,84,37,212,Lauro Chartrand
@@ -4921,7 +4921,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 4919,Summer Camp,Horror,81,50,1371,Alberto Marini
 4920,Viral,"Drama,Horror,Sci-Fi",85,55,2045,"Henry Joost,Ariel Schulman"
 4921,Finding Altamira,"Drama,History",97,59,603,Hugh Hudson
-4922,Sam Was Here,"Horror,Mystery",75,67,59,Christophe Deroo
+4922,Sam Was Here,"Horror,Mystery,Mystery",75,67,59,Christophe Deroo
 4923,Green is Gold,"Crime,Drama",81,85,15,Ryon Baxter
 4924,All in Time,"Comedy,Drama,Musical",98,86,36,"Marina Donahue,Chris Fetchko"
 4925,Four Senses,"Comedy,Drama,Romance",0,79,15,Ruediger von Spies
@@ -4982,17 +4982,17 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 4980,The Purgation,"Drama,Horror,Mystery",86,35,83,Elaine Chu
 4981,Somnus,"Adventure,Sci-Fi,Mystery",83,30,127,Chris Reading
 4982,The Secrets of Emily Blair,Mystery,0,42,190,Joseph P. Genier
-4983,Don't Speak,"Horror,Mystery",82,30,139,Amadeu Artasona
+4983,Don't Speak,"Horror,Mystery,Mystery",82,30,139,Amadeu Artasona
 4984,The Evil Gene,"Horror,Mystery",78,46,73,Kathryn F. Taylor
 4985,Feed the Devil,"Adventure,Horror,Mystery",95,37,68,Max Perrier
 4986,Kambal: The Twins of Prophecy,Sci-Fi,40,,,Stephen Reedy
 4987,The Ones Below,Mystery,87,60,4032,David Farr
-4988,The Taking of Deborah Logan,"Horror,Mystery",90,60,16157,Adam Robitel
+4988,The Taking of Deborah Logan,"Horror,Mystery,Mystery",90,60,16157,Adam Robitel
 4989,The Sea of Trees,Drama,110,57,3846,Gus Van Sant
 4990,Sacrifice,"Drama,Mystery",105,64,57,Michael Cohn
 4991,River,Mystery,95,60,1067,Jamie M. Dagg
 4992,Transpecos,Mystery,86,58,717,Greg Kwedar
-4993,Numb,Mystery,90,56,888,Jason R. Goode
+4993,Numb,"Mystery,Mystery",90,56,888,Jason R. Goode
 4994,Into the Forest,"Drama,Sci-Fi,Mystery",101,60,5155,Patricia Rozema
 4995,The Dead Room,"Horror,Mystery",80,47,1574,Jason Stutter
 4996,The Bride,"Horror,Mystery",82,32,255,Marcello Daciano
@@ -5015,7 +5015,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 5013,Battlestar Galactica: The Plan,"Action,Adventure,Drama",112,70,14660,Edward James Olmos
 5014,Catching the Sun,"Documentary,Drama,History",75,74,260,Shalini Kantayya
 5015,A World Unseen: The Revenant,"Documentary,Short",44,75,171,Eliot Rausch
-5016,Soylent Green,"Mystery,Sci-Fi",97,71,44653,Richard Fleischer
+5016,Soylent Green,"Mystery,Sci-Fi,Mystery",97,71,44653,Richard Fleischer
 5017,Battlestar Galactica: Razor,"Action,Drama,Sci-Fi",101,77,16192,Flix Enrquez Alcal
 5018,Expdition Jules Verne: A bord du trois-mts Belem,Documentary,84,86,12,Jean-Christophe Jeauffre
 5019,Battlestar Galactica: Blood & Chrome,"Action,Sci-Fi",94,71,13586,Jonas Pate
@@ -5084,7 +5084,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 5082,Let's Be Evil,"Horror,Sci-Fi,Mystery",82,45,256,Martin Owen
 5083,Tim Allen/will.i.am/Dej Loaf,"Comedy,Musical,Television",41,74,11,Dave Diomedi
 5084,Never Let Go,"Drama,Mystery",93,54,161,Howard J. Ford
-5085,Minute to Win It,Television,60,51,853,"Jock Millgardh,Mattias Olsson"
+5085,Minute to Win It,"Television,Television",60,51,853,"Jock Millgardh,Mattias Olsson"
 5086,Fender Bender,"Horror,Mystery",91,54,335,Mark Pavia
 5087,Tomcat,Drama,114,65,173,Klaus Hndl
 5088,Strike a Pose,"Documentary,Musical",83,77,223,"Ester Gould,Reijer Zwaan"
@@ -5153,7 +5153,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 5151,Babel,Drama,143,75,246261,Alejandro G. Irritu
 5152,Letters from Iwo Jima,"Drama,History,War",141,79,133274,Clint Eastwood
 5153,Rachael Ray,Television,60,44,688,
-5154,Last Comic Standing,"Comedy,Television",60,63,1322,
+5154,Last Comic Standing,"Comedy,Television,Television",60,63,1322,
 5155,Robin Williams: Weapons of Self Destruction,"Documentary,Comedy",90,78,2530,Marty Callner
 5156,Chris Rock: Never Scared,"Documentary,Comedy",80,81,4054,Joel Gallen
 5157,Russell Peters: The Green Card Tour - Live from The O2 Arena,Comedy,58,72,798,David Higby
@@ -5230,7 +5230,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 5228,Stage Mother,"Drama,Musical,Romance",85,61,189,Charles Brabin
 5229,The Maltese Falcon,"Film-Noir,Mystery",100,81,115118,John Huston
 5230,All About Eve,Drama,138,83,84291,Joseph L. Mankiewicz
-5231,The Jazz Singer,"Drama,Musical",88,68,6898,Alan Crosland
+5231,The Jazz Singer,"Drama,Musical,Musical",88,68,6898,Alan Crosland
 5232,Episode #1.2,News,0,63,15,
 5233,Fox News,News,60,23,465,
 5234,2016 Presidential Debates,News,0,62,29,
@@ -5279,12 +5279,12 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 5277,Comedians in Cars Getting Coffee: Single Shot,"Comedy,Television",2,73,53,
 5278,Jerry Seinfeld: 'I'm Telling You for the Last Time',"Documentary,Comedy",75,81,3463,Marty Callner
 5279,Comedian,"Documentary,Comedy",82,70,5215,Christian Charles
-5280,The Apprentice,Television,60,54,6150,Mark Burnett
+5280,The Apprentice,"Television,Television",60,54,6150,Mark Burnett
 5281,Ryan Seacrest/Cedric the Entertainer/Chris Young feat. Vince Gill,"Comedy,Musical,Television",41,74,7,Dave Diomedi
 5282,Mark Ruffalo/Paula Patton/The Lucas Brothers,"Comedy,Musical,Television",41,78,8,
 5283,Inside Amy Schumer,Comedy,22,71,7458,"Daniel Powell,Amy Schumer"
 5284,Mulaney,Comedy,30,43,2143,John Mulaney
-5285,Billy on the Street with Billy Eichner,"Comedy,Television",30,76,934,Billy Eichner
+5285,Billy on the Street with Billy Eichner,"Comedy,Television,Television",30,76,934,Billy Eichner
 5286,Kevin from Work,Comedy,21,66,1156,Barbie Adler
 5287,Odd Mom Out,Comedy,22,69,933,Jill Kargman
 5288,Jeff Ross Roasts America,Comedy,60,73,119,Jay Karas
@@ -5292,7 +5292,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 5290,Comedy Central Roast of William Shatner,Comedy,90,74,1980,Joel Gallen
 5291,Comedy Central Roast of Flavor Flav,"Documentary,Comedy",90,70,1376,Joel Gallen
 5292,Hack My Life,Television,30,65,179,
-5293,Not Safe with Nikki Glaser,"Comedy,Television",22,69,440,
+5293,Not Safe with Nikki Glaser,"Comedy,Television,Television",22,69,440,
 5294,Impractical Jokers,"Comedy,Television",30,87,18116,
 5295,Adam Ruins Everything,Comedy,30,89,2302,
 5296,The Carbonaro Effect,Comedy,30,75,1138,
@@ -5664,7 +5664,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 5662,Episode #17.9,Television,115,,,Nick Pinn
 5663,The Wright Stuff,Television,50,47,218,
 5664,Win Ben Stein's Money,"Comedy,Television",30,68,818,
-5665,Ca$h Cab,Television,30,74,1748,Adam Steinman
+5665,Ca$h Cab,"Television,Television",30,74,1748,Adam Steinman
 5666,Who Wants to Be a Millionaire,Television,30,61,1393,
 5667,Jeopardy!,Television,30,77,525,Merv Griffin
 5668,Family Feud,Television,30,71,1208,
@@ -6145,11 +6145,11 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 6143,A Nightmare on Elm Street 2: Freddy's Revenge,"Fantasy,Horror",87,54,44323,Jack Sholder
 6144,A Nightmare on Elm Street 4: The Dream Master,"Fantasy,Horror,Mystery",93,57,36775,Renny Harlin
 6145,Schindler's Bucket List,"Animation,Comedy",11,72,48,
-6146,Friday the 13th: A New Beginning,"Horror,Mystery",92,47,22946,Danny Steinmann
+6146,Friday the 13th: A New Beginning,"Horror,Mystery,Mystery",92,47,22946,Danny Steinmann
 6147,A Nightmare on Elm Street 3: Dream Warriors,"Action,Fantasy,Horror",96,66,50742,Chuck Russell
 6148,Friday the 13th Part VIII: Jason Takes Manhattan,"Adventure,Horror",100,45,23393,Rob Hedden
 6149,Friday the 13th Part VII: The New Blood,Horror,88,53,21820,John Carl Buechler
-6150,Friday the 13th Part 2,"Horror,Mystery",87,61,40525,Steve Miner
+6150,Friday the 13th Part 2,"Horror,Mystery,Mystery",87,61,40525,Steve Miner
 6151,Friday the 13th Part III,"Horror,Mystery",95,57,32614,Steve Miner
 6152,Frostbitten,"Horror,Comedy",98,55,3553,Anders Banke
 6153,The Ring,"Horror,Mystery",115,71,254820,Gore Verbinski
@@ -6158,7 +6158,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 6156,Final Destination,"Horror,Mystery",98,67,183368,James Wong
 6157,Seytan,Horror,101,46,604,Metin Erksan
 6158,It's a Wonderful Afterlife,"Comedy,Drama,Horror",100,54,1258,Gurinder Chadha
-6159,Saw,"Horror,Mystery",103,77,303701,James Wan
+6159,Saw,"Horror,Mystery,Mystery",103,77,303701,James Wan
 6160,Rosemary's Baby,"Drama,Horror",136,80,142702,Roman Polanski
 6161,Carrie,"Drama,Fantasy,Horror",100,59,109713,Kimberly Peirce
 6162,From Stereo to Video,Short,26,,,
@@ -6404,7 +6404,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 6402,A Good Day to Die Hard,Comedy,44,,,Mathew Buck
 6403,A Good Day to Die Hard,"Action,Mystery",98,53,167309,John Moore
 6404,Death Wish 3,"Action,Crime,Drama",92,59,10217,Michael Winner
-6405,The Order of the Dragon,"Horror,Mystery",52,73,437,Deran Sarafian
+6405,The Order of the Dragon,"Horror,Mystery,Mystery",52,73,437,Deran Sarafian
 6406,G.I. Joe: Retaliation,"Action,Adventure,Sci-Fi",110,58,147855,Jon M. Chu
 6407,Howl's Moving Castle,"Animation,Adventure,Family",119,82,218887,Hayao Miyazaki
 6408,Escape Plan,"Action,Crime,Mystery",115,67,180088,Mikael Hfstrm
@@ -6424,7 +6424,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 6422,"Lock, Stock, Some Smoking Barrels and Burton Guster's Goblet of Fire","Comedy,Crime,Mystery",47,86,455,Steve Franks
 6423,Life After Pi,"Documentary,Short,Drama",30,76,112,Scott Leberecht
 6424,Dallas Buyers Club,"Biography,Drama",117,80,332999,Jean-Marc Valle
-6425,Shutter Island,Mystery,138,81,802461,Martin Scorsese
+6425,Shutter Island,"Mystery,Mystery",138,81,802461,Martin Scorsese
 6426,Films That Suck,Comedy,83,56,37,Marvin Baker
 6427,Great Movie Mistakes,"Documentary,Comedy",180,57,78,Simon Dinsell
 6428,The Benchwarmers,"Comedy,Romance,Sport",80,56,40977,Dennis Dugan
@@ -6564,7 +6564,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 6562,Zardoz,"Fantasy,Sci-Fi",105,58,15113,John Boorman
 6563,Logan's Run,"Action,Adventure,Sci-Fi",119,68,40411,Michael Anderson
 6564,Silent Running,"Drama,Sci-Fi",89,67,20993,Douglas Trumbull
-6565,Klute,"Crime,Mystery",114,72,15988,Alan J. Pakula
+6565,Klute,"Crime,Mystery,Mystery",114,72,15988,Alan J. Pakula
 6566,"Faster, Pussycat! Kill! Kill!","Action,Comedy",83,68,10679,Russ Meyer
 6567,Flash Gordon,"Action,Adventure,Sci-Fi",111,65,38573,Mike Hodges
 6568,Into the Woods,"Adventure,Comedy,Drama",125,60,103310,Rob Marshall
@@ -6731,7 +6731,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 6729,Digging to China,Drama,98,69,2119,Timothy Hutton
 6730,Picture Perfect,"Comedy,Drama,Romance",105,55,15809,Glenn Gordon Caron
 6731,Scissors,"Horror,Mystery",105,51,1910,Frank De Felitta
-6732,Where Sleeping Dogs Lie,"Crime,Mystery",95,46,676,Charles Finch
+6732,Where Sleeping Dogs Lie,"Crime,Mystery,Mystery",95,46,676,Charles Finch
 6733,Episode #22.198,Television,30,,,Kevin McCarthy
 6734,The Outsiders,"Crime,Drama",91,72,58135,Francis Ford Coppola
 6735,Can't Buy Me Love,"Comedy,Drama,Romance",94,67,24343,Steve Rash
@@ -6744,7 +6744,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 6742,Baby Boom,Comedy,30,,,
 6743,Enormous Changes at the Last Minute,Drama,104,55,112,"Mirra Bank,Ellen Hovde"
 6744,Overboard,"Comedy,Romance",106,68,37390,Garry Marshall
-6745,Storyville,"Drama,Mystery",113,58,902,Mark Frost
+6745,Storyville,"Drama,Mystery,Mystery",113,58,902,Mark Frost
 6746,Footloose,"Drama,Musical,Romance",107,65,52491,Herbert Ross
 6747,Diner,"Comedy,Drama",110,72,15131,Barry Levinson
 6748,Criminal Law,"Crime,Mystery",117,58,2662,Martin Campbell
@@ -6788,7 +6788,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 6786,Something About Amelia,Drama,100,71,360,Randa Haines
 6787,CinMagique,"Comedy,Family,Fantasy",0,86,289,Jerry Rees
 6788,Straight Talk,"Comedy,Drama,Romance",91,56,2725,Barnet Kellman
-6789,Jagged Edge,Mystery,108,64,10396,Richard Marquand
+6789,Jagged Edge,"Mystery,Mystery",108,64,10396,Richard Marquand
 6790,"Viens chez moi, j'habite chez une copine",Comedy,85,63,873,Patrice Leconte
 6791,Three Men and a Bride,Comedy,0,,,
 6792,Colonel Homer,"Animation,Comedy",30,79,1254,Mark Kirkland
@@ -6923,7 +6923,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 6921,The Killer Elite,"Action,Crime,Mystery",122,60,4139,Sam Peckinpah
 6922,The Ghoul,"Action,Drama,Horror",77,59,1599,T. Hayes Hunter
 6923,The Sniper,"Crime,Drama,Film-Noir",88,71,1699,Edward Dmytryk
-6924,Nomads,"Horror,Mystery",91,55,2832,John McTiernan
+6924,Nomads,"Horror,Mystery,Mystery",91,55,2832,John McTiernan
 6925,Big Bad Mama,"Action,Comedy,Crime",84,58,1608,Steve Carver
 6926,Better Late Than Never,Drama,120,65,48,Richard Crenna
 6927,The Philadelphia Experiment,"Adventure,Drama,Romance",102,61,11449,Stewart Raffill
@@ -6969,20 +6969,20 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 6967,Sunlight Jr.,Drama,90,56,2190,Laurie Collyer
 6968,8 Uhr 28,"Drama,Romance,Mystery",91,60,85,Christian Alvart
 6969,Red Canyon,"Action,Horror,Mystery",98,37,626,Giovanni Rodriguez
-6970,Octane,"Horror,Mystery",91,43,2798,Marcus Adams
+6970,Octane,"Horror,Mystery,Mystery",91,43,2798,Marcus Adams
 6971,Vacation,"Adventure,Comedy",99,61,69125,"John Francis Daley,Jonathan Goldstein"
 6972,Viagra Falls,"Comedy,Crime,Mystery",60,86,443,Andrew Bernstein
 6973,Samuel L. Jackson/Norman Reedus/Jessie J,"Comedy,Musical,Television",41,74,14,
 6974,Messengers 2: The Scarecrow,Horror,94,48,3692,Martin Barnewitz
 6975,Moscow Chill,"Mystery,Drama",92,53,562,Chris Solimine
 6976,A Crime,"Crime,Mystery",103,58,1644,Manuel Pradal
-6977,Gossip,"Drama,Mystery",90,59,12611,Davis Guggenheim
+6977,Gossip,"Drama,Mystery,Mystery",90,59,12611,Davis Guggenheim
 6978,Until the Night,Drama,87,54,305,Gregory Hatanaka
 6979,Mukunthetta Sumitra Vilikkunnu,Comedy,149,73,265,Priyadarshan
 6980,Tough Luck,Mystery,88,64,781,Gary Ellis
 6981,Ee Parakkum Thalika,"Comedy,Drama,Romance",138,69,292,Thaha
 6982,Sand,Drama,89,44,450,Matt Palmieri
-6983,Bad Seed,Mystery,93,55,548,Jon Bokenkamp
+6983,Bad Seed,"Mystery,Mystery",93,55,548,Jon Bokenkamp
 6984,Floating,"Drama,Romance",90,67,558,William Roth
 6985,Let the Devil Wear Black,"Crime,Mystery,Drama",89,51,508,Stacy Title
 6986,Dark Harbor,"Mystery,Drama",96,62,1935,Adam Coleman Howard
@@ -6991,7 +6991,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 6989,Twenty:20,"Action,Crime,Drama",0,68,1104,Joshi
 6990,Butterflies of the Spraying Rain,"Drama,Musical,Romance",151,87,1405,P. Padmarajan
 6991,Run Baby Run,"Comedy,Mystery",0,68,1034,Joshi
-6992,Grandmaster,Mystery,100,71,1123,B. Unnikrishnan
+6992,Grandmaster,"Mystery,Mystery",100,71,1123,B. Unnikrishnan
 6993,Saat Rang Ke Sapne,,0,59,53,Priyadarshan
 6994,Braddock: Missing in Action III,"Action,War",101,46,4360,Aaron Norris
 6995,Amar Akbar Anthony,"Comedy,Crime",140,65,1273,Nadirsha
@@ -7026,18 +7026,18 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 7024,The Hitman,"Action,Crime,Mystery",95,53,2642,Aaron Norris
 7025,A Force of One,"Action,Crime,Drama",90,50,2428,Paul Aaron
 7026,I'll Always Know What You Did Last Summer,Horror,92,36,7970,Sylvain White
-7027,I Know What You Did Last Summer,"Horror,Mystery",101,56,106934,Jim Gillespie
+7027,I Know What You Did Last Summer,"Horror,Mystery,Mystery",101,56,106934,Jim Gillespie
 7028,The Octagon,"Action,Drama,Romance",103,50,3764,Eric Karson
 7029,I Still Know What You Did Last Summer,"Horror,Mystery",100,46,56046,Danny Cannon
-7030,Valentine,"Horror,Mystery",96,47,20656,Jamie Blanks
-7031,Urban Legend,"Horror,Mystery",99,55,48396,Jamie Blanks
+7030,Valentine,"Horror,Mystery,Mystery",96,47,20656,Jamie Blanks
+7031,Urban Legend,"Horror,Mystery,Mystery",99,55,48396,Jamie Blanks
 7032,Urban Legends: Bloody Mary,"Horror,Mystery",93,43,6232,Mary Lambert
 7033,Charles Manson Superstar,"Documentary,Biography,Crime",100,67,308,Nikolas Schreck
 7034,Dragnet,"Comedy,Crime",106,59,25985,Tom Mankiewicz
 7035,Wagons East,"Adventure,Comedy,Western",107,47,3991,Peter Markle
 7036,Canadian Bacon,Comedy,91,59,13757,Michael Moore
 7037,There's Nothing Out There,"Comedy,Horror,Sci-Fi",91,62,754,Rolfe Kanefsky
-7038,Pieces,"Horror,Mystery",89,61,5321,Juan Piquer Simn
+7038,Pieces,"Horror,Mystery,Mystery",89,61,5321,Juan Piquer Simn
 7039,Nightmare City,"Action,Horror,Sci-Fi",88,57,3970,Umberto Lenzi
 7040,Zombie Holocaust,Horror,84,52,3979,Marino Girolami
 7041,Contamination,"Horror,Sci-Fi",95,53,2491,Luigi Cozzi
@@ -7045,7 +7045,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 7043,Zombi 3,"Action,Horror,Sci-Fi",84,48,3256,"Lucio Fulci,Claudio Fragasso"
 7044,After Death,"Action,Horror",84,37,1635,Claudio Fragasso
 7045,Hell of the Living Dead,Horror,101,49,3404,"Bruno Mattei,Claudio Fragasso"
-7046,Blow Out,Mystery,107,74,28277,Brian De Palma
+7046,Blow Out,"Mystery,Mystery",107,74,28277,Brian De Palma
 7047,Devil Fish,"Action,Horror,Mystery",90,24,2526,Lamberto Bava
 7048,Mako: The Jaws of Death,"Horror,Mystery",91,34,425,William Grefe
 7049,Screamers,"Action,Horror",81,50,983,Sergio Martino
@@ -7106,7 +7106,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 7104,The Blob,"Horror,Sci-Fi,Mystery",95,64,23202,Chuck Russell
 7105,The Legend of Hell House,Horror,95,69,9250,John Hough
 7106,Dead & Buried,"Horror,Mystery",94,66,7160,Gary Sherman
-7107,Burnt Offerings,"Horror,Mystery",116,65,6734,Dan Curtis
+7107,Burnt Offerings,"Horror,Mystery,Mystery",116,65,6734,Dan Curtis
 7108,The Sentinel,Horror,92,64,6490,Michael Winner
 7109,The Entity,Horror,80,44,249,Eduardo Schuldt
 7110,The Changeling,"Fantasy,Horror",107,73,22301,Peter Medak
@@ -7454,7 +7454,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 7452,Tarzn,Adventure,30,63,246,
 7453,Relic Hunter,"Fantasy,Mystery,Adventure",60,65,4341,
 7454,Dwayne Johnson/Jim Gaffigan/Phantogram,"Comedy,Musical,Television",41,73,11,
-7455,The Biggest Loser,Television,43,55,4687,"David Broome,Mark Koops,Benjamin Silverman"
+7455,The Biggest Loser,"Television,Television",43,55,4687,"David Broome,Mark Koops,Benjamin Silverman"
 7456,Don Rickles/Lena Dunham/DJ Shadow feat. Run the Jewels,"Comedy,Musical,Television",41,72,9,Dave Diomedi
 7457,Xena: Warrior Princess,"Action,Adventure,Drama",45,67,32725,"John Schulian,R.J. Stewart,Rob Tapert"
 7458,Vikings: Athelstan's Journal,"Action,Drama,History",4,82,350,
@@ -7501,7 +7501,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 7499,That Lady from Rio,Adult,76,61,61,Shaun Costello
 7500,Gangs of New York,"Crime,Drama",167,75,318341,Martin Scorsese
 7501,Lon: The Professional,"Crime,Drama,Mystery",110,86,739183,Luc Besson
-7502,Chinatown,"Drama,Mystery",130,82,219864,Roman Polanski
+7502,Chinatown,"Drama,Mystery,Mystery",130,82,219864,Roman Polanski
 7503,Mean Streets,"Crime,Drama,Mystery",112,74,68699,Martin Scorsese
 7504,Rocky II,"Drama,Sport",119,72,140223,Sylvester Stallone
 7505,The Green Mile,"Crime,Drama,Fantasy",189,85,800204,Frank Darabont
@@ -7589,12 +7589,12 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 7587,The Pelican Brief,"Crime,Drama,Mystery",141,65,60240,Alan J. Pakula
 7588,The Bone Collector,"Crime,Drama,Mystery",118,67,121826,Phillip Noyce
 7589,Outbreak,"Action,Drama,Mystery",127,66,91900,Wolfgang Petersen
-7590,Copycat,"Crime,Mystery",123,66,42742,Jon Amiel
+7590,Copycat,"Crime,Mystery,Mystery",123,66,42742,Jon Amiel
 7591,A Time to Kill,"Crime,Drama,Mystery",149,74,101125,Joel Schumacher
 7592,The Client,"Crime,Drama,Mystery",119,67,46410,Joel Schumacher
 7593,Don't Say a Word,"Crime,Drama,Mystery",113,63,40739,Gary Fleder
 7594,Along Came a Spider,"Crime,Drama,Mystery",104,63,59890,Lee Tamahori
-7595,Double Jeopardy,"Crime,Mystery",105,64,57283,Bruce Beresford
+7595,Double Jeopardy,"Crime,Mystery,Mystery",105,64,57283,Bruce Beresford
 7596,I Am Wrath,"Action,Crime,Drama",92,53,5883,Chuck Russell
 7597,Extraction,"Action,Mystery",83,39,5099,Steven C. Miller
 7598,Ghost Ship,Horror,91,55,76805,Steve Beck
@@ -7675,7 +7675,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 7673,Ice-T & Coco/Lucy Hale/Andy Daly/Brad Wilk,"Comedy,Television",60,,,Alexander J. Vietmeier
 7674,Charmed,"Drama,Fantasy,Mystery",42,70,57999,Constance M. Burge
 7675,Shanghai Kiss,"Comedy,Drama,Romance",106,68,4881,"Kern Konwiser,David Ren"
-7676,Revenge,"Drama,Mystery",44,79,99346,Mike Kelley
+7676,Revenge,"Drama,Mystery,Mystery",44,79,99346,Mike Kelley
 7677,Sex and the City,"Comedy,Romance",30,70,81101,Darren Star
 7678,Buffy the Vampire Slayer,"Action,Drama,Fantasy",44,82,103179,Joss Whedon
 7679,Gilmore Girls,"Comedy,Drama",44,81,66561,Amy Sherman-Palladino
@@ -7701,9 +7701,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 7699,Subspecies III,Comedy,25,,,Allison Pregler
 7700,Phantasm II,"Action,Fantasy,Horror",97,65,9819,Don Coscarelli
 7701,TerrorVision,"Comedy,Horror,Sci-Fi",83,57,4146,Ted Nicolaou
-7702,The New York Ripper,"Horror,Mystery",85,64,6754,Lucio Fulci
-7703,The Cat o' Nine Tails,"Horror,Mystery",112,67,6713,Dario Argento
-7704,Opera,"Horror,Mystery",107,71,9920,Dario Argento
+7702,The New York Ripper,"Horror,Mystery,Mystery",85,64,6754,Lucio Fulci
+7703,The Cat o' Nine Tails,"Horror,Mystery,Mystery",112,67,6713,Dario Argento
+7704,Opera,"Horror,Mystery,Mystery",107,71,9920,Dario Argento
 7705,Phenomena,"Horror,Mystery",116,69,16389,Dario Argento
 7706,The House by the Cemetery,Horror,86,62,9300,Lucio Fulci
 7707,Demons,Horror,88,67,14815,Lamberto Bava
@@ -7903,9 +7903,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 7901,Lake Mungo,"Drama,Horror,Mystery",87,61,9708,Joel Anderson
 7902,Critters: Bounty Hunter,"Short,Horror,Sci-Fi",7,68,216,Jordan Downey
 7903,V/H/S/2,"Horror,Mystery",96,61,27762,"Simon Barrett,Jason Eisener"
-7904,Bigfoot: The Lost Coast Tapes,"Horror,Mystery",90,45,1875,Corey Grant
+7904,Bigfoot: The Lost Coast Tapes,"Horror,Mystery,Mystery",90,45,1875,Corey Grant
 7905,Halloween: 25 Years of Terror,"Documentary,Horror",83,78,1375,Stefan Hutchinson
-7906,Paranormal Entity,"Horror,Mystery",88,44,4185,Shane Van Dyke
+7906,Paranormal Entity,"Horror,Mystery,Mystery",88,44,4185,Shane Van Dyke
 7907,Alien Abduction: Incident in Lake County,"Drama,Horror,Sci-Fi",93,65,2678,Dean Alioto
 7908,Dracula 2000,"Action,Fantasy,Horror",99,49,27625,Patrick Lussier
 7909,Friday the 13th: The Final Chapter,"Horror,Mystery",91,59,30114,Joseph Zito
@@ -7922,26 +7922,26 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 7920,Exhibit A,"Crime,Drama,Mystery",85,62,1268,Dom Rotheroe
 7921,Home Movie,"Drama,Horror,Mystery",77,58,3415,Christopher Denham
 7922,Under the Bed,Horror,87,46,2067,Steven C. Miller
-7923,Hollow,"Horror,Mystery",91,68,8998,Michael Axelgaard
+7923,Hollow,"Horror,Mystery,Mystery",91,68,8998,Michael Axelgaard
 7924,Captain America: Civil War,Comedy,0,70,24,
 7925,Honest Trailers,Comedy,0,88,1934,"Andy Signore,Brett Weiner"
 7926,Batman: The Killing Joke,Comedy,0,75,13,
 7927,Freak Out,"Action,Comedy,Horror",92,53,548,Christian James
-7928,Alice Sweet Alice,"Horror,Mystery",98,65,5840,Alfred Sole
-7929,Happy Birthday to Me,"Horror,Mystery",110,60,5669,J. Lee Thompson
+7928,Alice Sweet Alice,"Horror,Mystery,Mystery",98,65,5840,Alfred Sole
+7929,Happy Birthday to Me,"Horror,Mystery,Mystery",110,60,5669,J. Lee Thompson
 7930,Justice League of America,"Comedy,News,Television",25,,,"Nash Bozard,Mathew Buck"
 7931,Episode #7.45,"Comedy,News,Television",0,,,Nash Bozard
 7932,Suspiria,"Horror,Mystery",92,75,46638,Dario Argento
 7933,Terror Train,"Horror,Mystery",97,59,6690,Roger Spottiswoode
 7934,WTFiWWY,"Comedy,News,Television",0,85,22,Nash Bozard
-7935,The House on Sorority Row,"Horror,Mystery",91,61,4278,Mark Rosman
+7935,The House on Sorority Row,"Horror,Mystery,Mystery",91,61,4278,Mark Rosman
 7936,The Burning,Horror,91,65,10658,Tony Maylam
-7937,The Prowler,"Horror,Mystery",89,62,6059,Joseph Zito
+7937,The Prowler,"Horror,Mystery,Mystery",89,62,6059,Joseph Zito
 7938,Sleepaway Camp,Horror,84,63,16735,Robert Hiltzik
 7939,Black Christmas,Horror,84,45,20088,Glen Morgan
 7940,"Silent Night, Deadly Night","Horror,Mystery",79,59,9320,Charles E. Sellier Jr.
 7941,ER,"Drama,Romance",44,77,40148,Michael Crichton
-7942,My Bloody Valentine,"Horror,Mystery",90,62,12723,George Mihalka
+7942,My Bloody Valentine,"Horror,Mystery,Mystery",90,62,12723,George Mihalka
 7943,Iron Man & Hulk: Heroes United,"Animation,Action,Adventure",71,48,1527,"Eric Radomski,Leo Riley"
 7944,Green Lantern: Emerald Knights,"Animation,Action,Adventure",84,68,9092,"Christopher Berkeley,Lauren Montgomery"
 7945,Iron Man: Rise of Technovore,"Animation,Action,Sci-Fi",88,53,3044,Hiroshi Hamazaki
@@ -7993,7 +7993,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 7991,"The Killer Eye, They Bite, and Xtro",Comedy,31,76,15,"Jay Bauman,Mike Stoklasa"
 7992,Tombs of the Blind Dead,Horror,86,62,4118,Amando de Ossorio
 7993,Miami Connection,"Action,Crime,Mystery",83,60,2515,"Woo-sang Park,Y.K. Kim"
-7994,The House of the Laughing Windows,"Horror,Mystery",110,71,3411,Pupi Avati
+7994,The House of the Laughing Windows,"Horror,Mystery,Mystery",110,71,3411,Pupi Avati
 7995,Out of Mind: The Stories of H.P. Lovecraft,"Horror,Fantasy",56,72,204,Raymond Saint-Jean
 7996,Horror Europa with Mark Gatiss,Documentary,90,79,200,John Das
 7997,The Dead Pit,Horror,95,55,1227,Brett Leonard
@@ -8018,7 +8018,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8016,Dark Horse,"Comedy,Drama",86,59,4511,Todd Solondz
 8017,$5 a Day,"Comedy,Drama",98,64,2704,Nigel Cole
 8018,Life's a Beach,"Documentary,Biography,Drama",53,,,John Baker
-8019,Fade to Black,Mystery,99,55,703,Oliver Parker
+8019,Fade to Black,"Mystery,Mystery",99,55,703,Oliver Parker
 8020,Gods Behaving Badly,"Comedy,Drama",90,63,72,Marc Turtletaub
 8021,Glcksrad,Television,30,41,50,
 8022,The Power of Few,"Action,Crime,Drama",96,54,3366,Leone Marucci
@@ -8054,9 +8054,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8052,Righteous Kill,"Action,Crime,Drama",101,60,73912,Jon Avnet
 8053,88 Minutes,"Crime,Drama,Mystery",108,59,66145,Jon Avnet
 8054,Jurassic Park,"Adventure,Sci-Fi,Mystery",127,81,625615,Steven Spielberg
-8055,The Sixth Sense,"Drama,Mystery",107,81,715061,M. Night Shyamalan
+8055,The Sixth Sense,"Drama,Mystery,Mystery",107,81,715061,M. Night Shyamalan
 8056,Die Hard,"Action,Mystery",131,82,601505,John McTiernan
-8057,Twelve Monkeys,"Mystery,Sci-Fi",129,80,469415,Terry Gilliam
+8057,Twelve Monkeys,"Mystery,Sci-Fi,Mystery",129,80,469415,Terry Gilliam
 8058,Sin City,"Crime,Mystery",124,81,664090,"Frank Miller,Robert Rodriguez"
 8059,Rocky,"Drama,Sport",120,81,382211,John G. Avildsen
 8060,Life of Brian,Comedy,94,81,276692,Terry Jones
@@ -8075,7 +8075,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8073,Jurassic Park,"Action,Adventure,Sci-Fi",0,53,6,"Kenji Kanno,Juro Watari"
 8074,Iron Soldier,"Action,Sci-Fi",75,27,59,Brett Kelly
 8075,Sin City: A Dame to Kill For,"Action,Crime,Mystery",102,65,114226,"Frank Miller,Robert Rodriguez"
-8076,S. Darko,"Mystery,Sci-Fi",103,36,11373,Chris Fisher
+8076,S. Darko,"Mystery,Sci-Fi,Mystery",103,36,11373,Chris Fisher
 8077,Making 'Signs',Documentary,59,57,127,Laurent Bouzereau
 8078,MythBusters,"Documentary,Mystery,Television",44,83,46028,Peter Rees
 8079,Abominable,"Horror,Mystery",94,51,3257,Ryan Schifrin
@@ -8153,7 +8153,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8151,Wild & Crazy Kids,"Action,Family",30,78,484,
 8152,The Entitled,"Crime,Mystery",91,62,5531,Aaron Woodley
 8153,Soldiers of Fortune,"Action,Mystery",94,43,6261,Maxim Korostyshevsky
-8154,The River Murders,"Crime,Mystery",92,52,3352,Rich Cowan
+8154,The River Murders,"Crime,Mystery,Mystery",92,52,3352,Rich Cowan
 8155,Officer Down,"Crime,Drama",98,55,4589,Brian A Miller
 8156,Rushlights,"Crime,Drama,Romance",98,65,2939,Antoni Stutz
 8157,Assassin's Bullet,"Action,Drama,Mystery",89,36,2741,Isaac Florentine
@@ -8241,7 +8241,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8239,Festival de cine Macabro,Television,0,,,
 8240,Pickman's Muse,"Horror,Sci-Fi,Mystery",77,57,233,Robert Cappelletto
 8241,The Hunt for the House on Cuckoo Lane,"Short,Drama",45,,,"Ross Bradley,David Hinds"
-8242,Sisters of Death,Mystery,87,44,702,Joe Mazzuca
+8242,Sisters of Death,"Mystery,Mystery",87,44,702,Joe Mazzuca
 8243,The Thing on the Doorstep,Horror,77,56,46,Eric Morgret
 8244,The Creeper,"Adventure,Horror,Mystery",100,65,1056,Peter Carter
 8245,I Drink Your Blood,Horror,83,60,2172,David E. Durston
@@ -8261,7 +8261,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8259,Visiting Hours,"Horror,Mystery",103,55,2533,Jean-Claude Lord
 8260,Blood Frenzy,Horror,90,53,178,Hal Freeman
 8261,Breeders,"Horror,Sci-Fi",77,34,1501,Tim Kincaid
-8262,The Tractate Middoth,Mystery,35,66,275,Mark Gatiss
+8262,The Tractate Middoth,"Mystery,Mystery",35,66,275,Mark Gatiss
 8263,Daughters of Darkness,Horror,87,67,2998,Harry Kmel
 8264,The First Men in the Moon,Sci-Fi,88,61,802,Damon Thomas
 8265,The Haunter of the Dark,"Horror,Mystery",83,74,22,Dmitriy Khmelyov
@@ -8270,12 +8270,12 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8268,Lovecraft: Fear of the Unknown,Documentary,90,73,883,Frank H. Woodward
 8269,La casa nel vento dei morti,"Crime,Drama,Horror",90,48,56,"Francesco Campanini,Francesco Barilli"
 8270,Cthulhu,"Horror,Mystery",75,51,64,Damian Heffernan
-8271,Seven Blood-Stained Orchids,Mystery,92,65,1197,Umberto Lenzi
+8271,Seven Blood-Stained Orchids,"Mystery,Mystery",92,65,1197,Umberto Lenzi
 8272,Arcane Sorcerer,Horror,96,69,471,Pupi Avati
-8273,Black Belly of the Tarantula,"Horror,Mystery",89,65,1774,Paolo Cavara
-8274,What Have You Done to Solange?,"Horror,Mystery",107,71,2740,Massimo Dallamano
+8273,Black Belly of the Tarantula,"Horror,Mystery,Mystery",89,65,1774,Paolo Cavara
+8274,What Have You Done to Solange?,"Horror,Mystery,Mystery",107,71,2740,Massimo Dallamano
 8275,Revenge of the Dead,Horror,89,63,1272,Pupi Avati
-8276,Blade of the Ripper,Mystery,81,70,2451,Sergio Martino
+8276,Blade of the Ripper,"Mystery,Mystery",81,70,2451,Sergio Martino
 8277,The Star Wars Holiday Special,Comedy,43,91,23,"Jay Bauman,Mike Stoklasa"
 8278,Malibu Express,"Comedy,Crime,Mystery",105,42,1080,Andy Sidaris
 8279,Terror in Beverly Hills,Action,88,32,133,John Myhers
@@ -8441,7 +8441,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8439,The Visitor,Drama,105,65,455,J.-P. Valkeap
 8440,Gre aus Fukushima,Drama,108,68,204,Doris Drrie
 8441,Das Gestndnis,Drama,118,82,6,Bernd Michael Lade
-8442,Like a Cast Shadow,"Drama,Mystery",87,64,44,Michael Krummenacher
+8442,Like a Cast Shadow,"Drama,Mystery,Mystery",87,64,44,Michael Krummenacher
 8443,The People vs. Fritz Bauer,"Biography,Drama,Mystery",105,73,1228,Lars Kraume
 8444,Der Nachtmahr,"Drama,Mystery",92,70,484,Achim Bornhak
 8445,Wholetrain,Drama,82,71,833,Florian Gaag
@@ -8499,7 +8499,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8497,All in the Family,"Drama,Romance",45,96,445,Jonathan Kaplan
 8498,On the Beach,"Drama,Romance",60,97,535,John Wells
 8499,Silent Night,"Comedy,Horror,Mystery",94,52,5632,Steven C. Miller
-8500,Chicago Hope,"Drama,Mystery",60,68,2791,David E. Kelley
+8500,Chicago Hope,"Drama,Mystery,Mystery",60,68,2791,David E. Kelley
 8501,Pilot,"Comedy,Horror,Mystery",46,77,1481,Ryan Murphy
 8502,Return to Sleepaway Camp,"Comedy,Horror",86,44,2856,Robert Hiltzik
 8503,Top 10 Scariest Horror Movie Villains,"Comedy,Television",0,76,14,
@@ -8568,8 +8568,8 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8566,Dracula II: Ascension,Horror,85,47,3186,Patrick Lussier
 8567,The Wicksboro Incident,"Horror,Sci-Fi,Mystery",71,52,449,Richard Lowry
 8568,Skew,"Horror,Mystery",83,44,1573,Sev Schelenz
-8569,Evil Things,"Horror,Mystery",86,42,1258,Dominic Perez
-8570,The Collingswood Story,"Horror,Mystery",80,56,1045,Michael Costanza
+8569,Evil Things,"Horror,Mystery,Mystery",86,42,1258,Dominic Perez
+8570,The Collingswood Story,"Horror,Mystery,Mystery",80,56,1045,Michael Costanza
 8571,Alien Abduction,"Horror,Sci-Fi,Mystery",85,48,6098,Matty Beckerman
 8572,Intruders,"Biography,Horror,Mystery",163,65,976,
 8573,Celebrity Sex Tape,Comedy,87,29,2266,Scott Wheeler
@@ -8583,11 +8583,11 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8581,'Halloween': A Cut Above the Rest,Documentary,87,78,232,
 8582,Dark Mountain,"Horror,Sci-Fi,Mystery",82,44,478,Tara Anase
 8583,Digging Up the Marrow,"Biography,Drama,Fantasy",89,58,3075,Adam Green
-8584,Atrocious,"Horror,Mystery",75,51,4127,Fernando Barreda Luna
-8585,Bigfoot County,"Horror,Mystery",82,29,406,Stephon Stewart
+8584,Atrocious,"Horror,Mystery,Mystery",75,51,4127,Fernando Barreda Luna
+8585,Bigfoot County,"Horror,Mystery,Mystery",82,29,406,Stephon Stewart
 8586,The Crying Dead,"Adventure,Horror,Mystery",81,51,764,Hunter G. Williams
 8587,A Night in the Woods,"Horror,Mystery",82,37,707,Richard Parry
-8588,Willow Creek,"Horror,Mystery",80,51,7151,Bobcat Goldthwait
+8588,Willow Creek,"Horror,Mystery,Mystery",80,51,7151,Bobcat Goldthwait
 8589,Skinwalker Ranch,"Biography,Horror,Mystery",86,51,3038,"Devin McGinn,Steve Berg"
 8590,Exists,"Action,Adventure,Horror",81,52,5894,Eduardo Snchez
 8591,The ABCs of Death,"Comedy,Horror",129,47,14426,"Kaare Andrews,Angela Bettis"
@@ -8738,7 +8738,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8736,Horns,"Drama,Fantasy,Horror",120,65,56575,Alexandre Aja
 8737,Extroyer Unleashed,"Animation,Action,Sci-Fi",22,,,
 8738,Elements of Surprise: Part 1,"Animation,Action,Sci-Fi",23,,,
-8739,When a Stranger Calls Back,"Horror,Mystery",94,64,1899,Fred Walton
+8739,When a Stranger Calls Back,"Horror,Mystery,Mystery",94,64,1899,Fred Walton
 8740,The Fearless Hyena,"Comedy,Action",98,68,2911,Jackie Chan
 8741,Riddle of the Sphinx,"Animation,Action,Sci-Fi",23,91,11,Seung-Hyun Oh
 8742,Godzilla: The Series,"Animation,Action,Crime",30,68,1433,"Jeff Kline,Richard Raynis"
@@ -8775,7 +8775,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8773,"Days of Future Smash, Part 2: Smashguard","Animation,Action,Adventure",23,81,21,Dan Fausett
 8774,"Days of Future Smash, Part 1: The Dino Era","Animation,Action,Adventure",23,81,21,
 8775,Vacancy,"Crime,Drama,Horror",40,82,544,Jamie Travis
-8776,The Vanishing,"Crime,Mystery",107,78,25578,George Sluizer
+8776,The Vanishing,"Crime,Mystery,Mystery",107,78,25578,George Sluizer
 8777,Jeepers Creepers,"Crime,Drama,Horror",41,84,529,E.L. Katz
 8778,The Orphanage,"Crime,Drama,Horror",41,84,489,Leigh Janiak
 8779,Handidates,"Comedy,Horror,Mystery",43,85,282,Barbara Brown
@@ -8964,7 +8964,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8962,Scream Queen Hot Tub Party,"Comedy,Horror",50,51,315,"Fred Olen Ray,Jim Wynorski"
 8963,Dr. Alien,"Comedy,Sci-Fi",90,40,666,David DeCoteau
 8964,Slaughter High,Horror,90,52,3640,"George Dugdale,Mark Ezra"
-8965,The Initiation,"Horror,Mystery",97,58,1540,Larry Stewart
+8965,The Initiation,"Horror,Mystery,Mystery",97,58,1540,Larry Stewart
 8966,Some Nudity Required,Documentary,82,53,142,"Johanna Demetrakas,Odette Springer"
 8967,Hard to Die,"Action,Comedy,Horror",77,48,681,Jim Wynorski
 8968,Sorority House Massacre II,"Comedy,Horror,Mystery",77,45,1515,Jim Wynorski
@@ -8994,7 +8994,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 8992,The Crawlers,Horror,91,23,793,"Joe D'Amato,Fabrizio Laurenti"
 8993,Arena,"Action,Adventure,Sci-Fi",115,52,1427,Peter Manoogian
 8994,Catacombs,Horror,84,47,409,David Schmoeller
-8995,The Bloodstained Butterfly,Mystery,95,64,603,Duccio Tessari
+8995,The Bloodstained Butterfly,"Mystery,Mystery",95,64,603,Duccio Tessari
 8996,The Shuttered Room,Horror,99,63,1216,David Greene
 8997,Monster of Terror,"Mystery,Horror,Sci-Fi",80,56,2001,Daniel Haller
 8998,The Dunwich Horror,Horror,90,54,2720,Daniel Haller
@@ -9018,7 +9018,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9016,One from the Heart,"Drama,Musical,Romance",107,65,3838,Francis Ford Coppola
 9017,Call of Cthulhu: Dark Corners of the Earth,Horror,0,88,506,Lani Minella
 9018,Dagon,History,0,,,
-9019,The Whisperer in Darkness,"Mystery,Sci-Fi",103,66,1953,Sean Branney
+9019,The Whisperer in Darkness,"Mystery,Sci-Fi,Mystery",103,66,1953,Sean Branney
 9020,Treehouse of Horror XXV,"Animation,Comedy",22,73,628,Matthew Faughnan
 9021,Return of the Living Dead II,"Comedy,Horror,Sci-Fi",89,58,14126,Ken Wiederhorn
 9022,The Return of the Living Dead: The Decade of Darkness,"Documentary,Short",23,,,
@@ -9029,28 +9029,28 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9027,Night of the Demons,"Comedy,Fantasy,Horror",90,63,9163,Kevin Tenney
 9028,"Oh, Woe Is Me","Comedy,Drama",95,64,817,Jean-Luc Godard
 9029,Macabre,Horror,89,60,1488,Lamberto Bava
-9030,The Perfume of the Lady in Black,"Horror,Mystery",101,68,1287,Francesco Barilli
+9030,The Perfume of the Lady in Black,"Horror,Mystery,Mystery",101,68,1287,Francesco Barilli
 9031,Do You Remember Lucio Fulci?,Documentary,83,60,16,Daniel Gouyette
 9032,Aenigma,"Horror,Romance,Mystery",85,48,1268,Lucio Fulci
 9033,Creepers & Creatures,Short,19,,,Calum Waddell
 9034,Profondo Delle Tenebre: Memento Mori,"Short,Horror,Mystery",4,,,Josh Pfeiffer
-9035,The Card Player,"Horror,Mystery",103,49,4141,Dario Argento
-9036,Don't Answer the Phone!,"Horror,Mystery",94,48,1094,Robert Hammer
-9037,The Psychic,Mystery,90,70,2512,Lucio Fulci
-9038,Torso,Mystery,92,66,3597,Sergio Martino
-9039,A Lizard in a Woman's Skin,Mystery,95,70,2844,Lucio Fulci
+9035,The Card Player,"Horror,Mystery,Mystery",103,49,4141,Dario Argento
+9036,Don't Answer the Phone!,"Horror,Mystery,Mystery",94,48,1094,Robert Hammer
+9037,The Psychic,"Mystery,Mystery",90,70,2512,Lucio Fulci
+9038,Torso,"Mystery,Mystery",92,66,3597,Sergio Martino
+9039,A Lizard in a Woman's Skin,"Mystery,Mystery",95,70,2844,Lucio Fulci
 9040,Night of the Comet,"Comedy,Horror,Sci-Fi",95,64,13326,Thom Eberhardt
 9041,Subspecies IV,Comedy,26,68,5,Allison Pregler
 9042,Subspecies II,Comedy,23,,,Allison Pregler
 9043,Brain Damage,"Comedy,Horror",84,67,6200,Frank Henenlotter
-9044,Sleepless,"Horror,Mystery",117,63,5071,Dario Argento
+9044,Sleepless,"Horror,Mystery,Mystery",117,63,5071,Dario Argento
 9045,TwentyOneTwelve,"Animation,Comedy",13,,,Ben Jones
-9046,The Stendhal Syndrome,"Horror,Mystery",113,61,5636,Dario Argento
-9047,Trauma,"Horror,Mystery",106,60,4907,Dario Argento
+9046,The Stendhal Syndrome,"Horror,Mystery,Mystery",113,61,5636,Dario Argento
+9047,Trauma,"Horror,Mystery,Mystery",106,60,4907,Dario Argento
 9048,Mother of Tears,Horror,102,51,7280,Dario Argento
 9049,Four Flies on Grey Velvet,"Crime,Horror,Mystery",104,67,4851,Dario Argento
-9050,Don't Torture a Duckling,"Horror,Mystery",102,72,5123,Lucio Fulci
-9051,The Bird with the Crystal Plumage,"Horror,Mystery",96,72,12375,Dario Argento
+9050,Don't Torture a Duckling,"Horror,Mystery,Mystery",102,72,5123,Lucio Fulci
+9051,The Bird with the Crystal Plumage,"Horror,Mystery,Mystery",96,72,12375,Dario Argento
 9052,670,News,30,,,
 9053,Tenebre,"Crime,Horror,Mystery",101,72,14579,Dario Argento
 9054,True Crimes,"Crime,Drama,Mystery",92,73,37,Alexandros Avranas
@@ -9098,11 +9098,11 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9096,Sex and the City 2,"Comedy,Drama,Romance",146,43,60280,Michael Patrick King
 9097,Ex and the City,"Comedy,Romance",30,81,326,Michael Patrick King
 9098,I Heart NY,"Comedy,Romance",30,81,313,Martha Coolidge
-9099,Atonement,"Drama,Mystery",43,93,648,John Terlesky
+9099,Atonement,"Drama,Mystery,Mystery",43,93,648,John Terlesky
 9100,An American Girl in Paris: Part Deux,"Comedy,Romance",45,88,572,Timothy Van Patten
 9101,There's Always a Downside,"Drama,Mystery,Sci-Fi",43,79,218,Constantine Makris
-9102,Impetus,"Drama,Mystery",43,94,666,J. Miller Tobin
-9103,Execution,"Drama,Mystery",41,96,1136,Kenneth Fink
+9102,Impetus,"Drama,Mystery,Mystery",43,94,666,J. Miller Tobin
+9103,Execution,"Drama,Mystery,Mystery",41,96,1136,Kenneth Fink
 9104,The Lover,"Biography,Drama,Romance",115,69,15118,Jean-Jacques Annaud
 9105,The 72nd Annual Academy Awards,Family,0,61,555,"Louis J. Horvitz,Troy Miller"
 9106,The Forger,Drama,94,54,4020,Lawrence Roeck
@@ -9178,7 +9178,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9176,Rob Roy,"Adventure,Biography,History",139,69,34690,Michael Caton-Jones
 9177,Shining Through,"Drama,Romance,Mystery",132,64,7465,David Seltzer
 9178,A Cinematic Life: The Art & Influence of Conrad Hall,Short,27,80,9,Michael Brosnan
-9179,Ruby Cairo,Mystery,90,50,1829,Graeme Clifford
+9179,Ruby Cairo,"Mystery,Mystery",90,50,1829,Graeme Clifford
 9180,Pretzel,,0,52,24,Jay Alaimo
 9181,Welcome to Mooseport,"Comedy,Romance",110,52,10722,Donald Petrie
 9182,Redbelt,"Drama,Sport",99,68,18694,David Mamet
@@ -9189,12 +9189,12 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9187,Things Change,"Comedy,Crime,Drama",100,70,2546,David Mamet
 9188,Oleanna,"Drama,Mystery",89,67,2392,David Mamet
 9189,Inverted Underwater Car,"Documentary,Mystery,Television",51,71,68,Lauren Gray Williams
-9190,The Spanish Prisoner,"Drama,Mystery",110,73,18835,David Mamet
+9190,The Spanish Prisoner,"Drama,Mystery,Mystery",110,73,18835,David Mamet
 9191,Strongbad_email.exe: Disc Six,"Animation,Comedy",157,80,22,"Matt Chapman,Mike Chapman"
 9192,Housewarming,Comedy,95,54,614,Brigitte Roan
 9193,Nine Months,"Comedy,Romance",103,54,30129,Chris Columbus
 9194,The Englishman Who Went Up a Hill But Came Down a Mountain,"Comedy,Drama",99,66,13743,Christopher Monger
-9195,Night Train to Venice,Mystery,98,21,795,Carlo U. Quinterio
+9195,Night Train to Venice,"Mystery,Mystery",98,21,795,Carlo U. Quinterio
 9196,Passenger 57,"Action,Crime,Mystery",84,58,37066,Kevin Hooks
 9197,The Chamber/The Ghost and the Darkness/The Long Kiss Goodnight/Looking for Richard/Freeway,Television,30,,,
 9198,Very Bad Things,"Comedy,Crime,Mystery",100,63,39610,Peter Berg
@@ -9247,10 +9247,10 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9245,Shalako,Western,113,55,2008,Edward Dmytryk
 9246,Dot.Kill,"Crime,Mystery",87,48,685,John Irvin
 9247,White Out,Drama,85,64,27,Lawrie Brewster
-9248,The Shadows,Mystery,80,56,62,Guillermo R. Rodrguez
+9248,The Shadows,"Mystery,Mystery",80,56,62,Guillermo R. Rodrguez
 9249,Nil by Mouth,Drama,128,74,7155,Gary Oldman
 9250,Guns Before Butter,"Mystery,Comedy",83,51,18,Jordan Ellis
-9251,Bodies,"Drama,Mystery",109,32,9,Steven Saylor
+9251,Bodies,"Drama,Mystery,Mystery",109,32,9,Steven Saylor
 9252,The Whistle Blower,Mystery,100,62,1595,Simon Langton
 9253,Beyond the Limit,"Drama,Romance,Mystery",104,57,915,John Mackenzie
 9254,Georgetown,Drama,0,69,23,Scott Winant
@@ -9276,7 +9276,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9274,Dummy,"Comedy,Drama,Romance",91,68,5812,Greg Pritikin
 9275,Don't Tell Mom the Babysitter's Dead,Comedy,102,61,21992,Stephen Herek
 9276,Dust,"Drama,Romance,Western",127,67,1853,Milcho Manchevski
-9277,Blue Ice,"Action,Mystery",105,51,1245,Russell Mulcahy
+9277,Blue Ice,"Action,Mystery,Mystery",105,51,1245,Russell Mulcahy
 9278,Star Whackers,Documentary,0,69,17,Evi Quaid
 9279,The Making of 'Survivor',"Documentary,Short",5,,,
 9280,Tracers,"Action,Crime,Drama",94,56,13947,Daniel Benmayor
@@ -9291,9 +9291,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9289,Chiwetel Ejiofor/Phil Rosenthal/Sean Donnelly,"Comedy,Musical,Television",42,,,
 9290,August: Osage County,Drama,121,73,68918,John Wells
 9291,Regression,"Crime,Drama,Mystery",106,57,22444,Alejandro Amenbar
-9292,Before I Go to Sleep,"Drama,Mystery",92,63,50730,Rowan Joffe
+9292,Before I Go to Sleep,"Drama,Mystery,Mystery",92,63,50730,Rowan Joffe
 9293,Kevin Costner/Rose McIver/Action Bronson/Fab Moretti,"Comedy,Television",41,,,Alexander J. Vietmeier
-9294,The Secret in Their Eyes,"Drama,Mystery",129,82,135037,Juan Jos Campanella
+9294,The Secret in Their Eyes,"Drama,Mystery,Mystery",129,82,135037,Juan Jos Campanella
 9295,The Forger,"Crime,Drama,Mystery",92,57,8680,Philip Martin
 9296,The Heineken Kidnapping,"Crime,History,Mystery",127,65,4204,Maarten Treurniet
 9297,Freddy Heineken,Drama,0,73,80,
@@ -9338,7 +9338,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9336,Alex Cross,"Action,Crime,Mystery",101,51,28513,Rob Cohen
 9337,The Lincoln Lawyer,"Crime,Drama,Mystery",118,73,175686,Brad Furman
 9338,The Rainmaker,"Crime,Drama,Mystery",135,71,47017,Francis Ford Coppola
-9339,A Time to Kill,"Drama,Mystery",60,79,8,James Frawley
+9339,A Time to Kill,"Drama,Mystery,Mystery",60,79,8,James Frawley
 9340,In the Line of Fire,"Action,Drama,Mystery",128,72,74691,Wolfgang Petersen
 9341,The Choice,"Drama,Fantasy,Sci-Fi",41,79,61,Michael Dinner
 9342,Volcano,"Action,Drama,Sci-Fi",104,54,58948,Mick Jackson
@@ -9349,9 +9349,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9347,Deep Impact,"Action,Drama,Romance",120,61,136737,Mimi Leder
 9348,WTF's and ROFL's: Wizard of Oz/Battle Chess,Comedy,0,,,Conrad Ephrem Stuyvesant
 9349,Fallen,"Action,Crime,Drama",124,70,59316,Gregory Hoblit
-9350,Taking Lives,"Crime,Mystery",103,62,66057,D.J. Caruso
+9350,Taking Lives,"Crime,Mystery,Mystery",103,62,66057,D.J. Caruso
 9351,Jennifer 8,"Crime,Drama,Mystery",124,62,12353,Bruce Robinson
-9352,Perfect Stranger,"Crime,Mystery",109,57,38072,James Foley
+9352,Perfect Stranger,"Crime,Mystery,Mystery",109,57,38072,James Foley
 9353,The Gold Rush,"Adventure,Comedy,Drama",95,82,69229,Charles Chaplin
 9354,Freedomland,"Crime,Drama,Mystery",113,51,13603,Joe Roth
 9355,Modern Times,"Comedy,Drama,Family",87,86,146333,Charles Chaplin
@@ -9363,10 +9363,10 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9361,Love the Coopers,Comedy,107,57,9617,Jessie Nelson
 9362,Black or White,Drama,121,66,8307,Mike Binder
 9363,The Back-up Plan,"Comedy,Romance",104,53,41141,Alan Poul
-9364,Below,"Horror,Mystery",105,62,18078,David Twohy
+9364,Below,"Horror,Mystery,Mystery",105,62,18078,David Twohy
 9365,Monster-in-Law,"Comedy,Romance",101,55,43943,Robert Luketic
 9366,Maid in Manhattan,"Comedy,Drama,Romance",105,51,69175,Wayne Wang
-9367,The Clearing,"Drama,Mystery",95,59,11780,Pieter Jan Brugge
+9367,The Clearing,"Drama,Mystery,Mystery",95,59,11780,Pieter Jan Brugge
 9368,The Shipping News,Drama,111,68,28796,Lasse Hallstrm
 9369,Enough,"Crime,Drama,Mystery",115,56,31029,Michael Apted
 9370,Angel Eyes,"Drama,Romance",102,56,19796,Luis Mandoki
@@ -9411,9 +9411,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9409,Lover's Prayer,"Drama,Romance,War",106,51,578,Reverge Anselmo
 9410,The Cat's Meow,"Drama,Romance",114,64,6929,Peter Bogdanovich
 9411,For Lovers Only,"Comedy,Drama,Romance",87,73,1247,Michael Polish
-9412,The Late Show,"Comedy,Mystery",93,71,1405,Robert Benton
+9412,The Late Show,"Comedy,Mystery,Mystery",93,71,1405,Robert Benton
 9413,The Rewrite,"Comedy,Romance",107,62,12098,Marc Lawrence
-9414,Truth About Kerry,"Drama,Mystery",85,59,170,Katherine Torpey
+9414,Truth About Kerry,"Drama,Mystery,Mystery",85,59,170,Katherine Torpey
 9415,Stiletto,"Action,Crime,Drama",99,50,2169,Nick Vallelonga
 9416,Cook-Off!,Comedy,0,67,59,Guy Shalem
 9417,Here Comes the Devil,"Horror,Mystery",97,57,3061,Adrin Garca Bogliano
@@ -9466,7 +9466,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9464,Vontade de Vencer,Documentary,103,56,56,Andr Banza
 9465,De Renie,Mystery,99,55,223,Menno Meyjes
 9466,Les gorilles,"Action,Comedy",81,36,196,Tristan Aurouet
-9467,Third Contact,"Mystery,Sci-Fi",85,72,204,Simon Horrocks
+9467,Third Contact,"Mystery,Sci-Fi,Mystery",85,72,204,Simon Horrocks
 9468,The Paragon Gate,Sci-Fi,0,66,25,James Martin Buck
 9469,Dead Space,"Horror,Sci-Fi",72,33,542,Fred Gallo
 9470,"Bloed, Zweet & Tranen","Biography,Drama,Musical",111,72,841,Diederick Koopal
@@ -9549,7 +9549,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9547,"Sergeant Slaughter, My Big Brother","Short,Drama",13,72,536,Greg Williams
 9548,Scenes of a Sexual Nature,"Comedy,Drama,Romance",91,61,4443,Ed Blum
 9549,Deserter,"Drama,War",90,54,775,Martin Huberty
-9550,Meadowlands,"Drama,Mystery",0,71,975,"Robert Murphy,Matthew Arlidge"
+9550,Meadowlands,"Drama,Mystery,Mystery",0,71,975,"Robert Murphy,Matthew Arlidge"
 9551,Minotaur,"Adventure,Fantasy,Horror",93,36,3751,Jonathan English
 9552,Shanghai,"Drama,Mystery,Romance",105,65,7731,Mikael Hfstrm
 9553,Must Love Dogs,"Comedy,Romance",98,59,26154,Gary David Goldberg
@@ -9561,7 +9561,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9559,Max,"Drama,War",106,66,6343,Menno Meyjes
 9560,Reclaim,"Action,Adventure,Crime",96,51,4206,Alan White
 9561,The November Man,"Action,Crime,Mystery",108,63,50985,Roger Donaldson
-9562,The Raven,"Crime,Mystery",110,64,73507,James McTeigue
+9562,The Raven,"Crime,Mystery,Mystery",110,64,73507,James McTeigue
 9563,The Prince,"Action,Mystery",93,46,13386,Brian A Miller
 9564,Drive Hard,"Action,Comedy,Crime",92,43,3171,Brian Trenchard-Smith
 9565,Erased,"Action,Mystery",100,61,23936,Philipp Stlzl
@@ -9631,7 +9631,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9629,Episode #2.4,Comedy,25,,,Arnon Halachmi
 9630,R.E.M.,"Drama,Sci-Fi,Mystery",78,64,70,Szilrd Molnr
 9631,Lost in Space,Television,30,,,
-9632,Call of Duty: Black Ops I,"Action,Mystery",0,83,12228,Dave Anthony
+9632,Call of Duty: Black Ops I,"Action,Mystery,Mystery",0,83,12228,Dave Anthony
 9633,Pasta Point of No Return,"Short,Comedy",4,,,"Neil Baker,Jackie Marr"
 9634,AFI Life Achievement Award: A Tribute to Robert De Niro,,0,68,150,Louis J. Horvitz
 9635,Chuck Versus the Tooth,"Action,Comedy,Drama",43,84,694,Daisy von Scherler Mayer
@@ -9752,7 +9752,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9750,All Quiet on the Western Front,"Action,Drama,War",0,,,Roger Donaldson
 9751,The Legend Continues,"Action,Adventure,Fantasy",43,80,24,Michael Offer
 9752,Supremacy,"Short,Mystery",15,76,7,Tanya Boyd
-9753,Pure Country 2: The Gift,"Drama,Musical",112,50,565,Christopher Cain
+9753,Pure Country 2: The Gift,"Drama,Musical,Musical",112,50,565,Christopher Cain
 9754,Inversion,Sci-Fi,0,,,Peter Segal
 9755,Episode #2.18,News,0,,,"Alain Carraz,Romain Nigita"
 9756,Outlaw Country,"Crime,Drama",85,60,580,"Adam Arkin,Michael Dinner"
@@ -9764,7 +9764,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 9762,Hothead,"Action,Crime,Drama",53,85,43,Sanford Bookstaver
 9763,Restraint,"Drama,Mystery",94,62,5010,David Denneen
 9764,Unaired Pilot,"Action,Adventure,Drama",60,,,David Nutter
-9765,Needle,"Horror,Mystery",90,50,2342,John V. Soto
+9765,Needle,"Horror,Mystery,Mystery",90,50,2342,John V. Soto
 9766,Ivory,"Drama,Musical",84,64,56,Andrew W. Chan
 9767,Beowulf: Return to the Shieldlands,"Action,Adventure,Drama",0,58,2466,
 9768,Stripped,"Short,Drama",12,86,17,India Dupr
@@ -10002,7 +10002,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 10000,The 100 Greatest Kids TV Shows,,210,75,50,"Sean Doherty,Mark George"
 10001,Dunston Checks In,"Comedy,Adventure,Family",88,53,9914,Ken Kwapis
 10002,The Return of Chandu,"Horror,Adventure,Fantasy",208,61,185,Ray Taylor
-10003,Burtonesque,Television,42,86,37,Peter Ney
+10003,Burtonesque,"Television,Television",42,86,37,Peter Ney
 10004,Frankenweenie,"Short,Comedy,Drama",29,73,9588,Tim Burton
 10005,Planet of the Apes,"Action,Adventure,Sci-Fi",119,57,179131,Tim Burton
 10006,Antonio Banderas Movies,Television,30,,,
@@ -10059,7 +10059,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 10057,Dramedy,"Comedy,Drama",29,77,438,"Doug Ellin,Ken Whittingham"
 10058,Boiler Room,"Crime,Drama,Mystery",120,70,41724,Ben Younger
 10059,Wall Street: Money Never Sleeps,Drama,133,63,84942,Oliver Stone
-10060,Cleaner,"Crime,Mystery",88,61,32821,Renny Harlin
+10060,Cleaner,"Crime,Mystery,Mystery",88,61,32821,Renny Harlin
 10061,Runner Runner,"Crime,Mystery",88,56,52629,Brad Furman
 10062,Lakeview Terrace,"Crime,Drama,Mystery",110,61,40847,Neil LaBute
 10063,One Eight Seven,"Drama,Mystery",119,67,18036,Kevin Reynolds
@@ -10235,7 +10235,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 10233,Jessica Place,Comedy,21,83,115,Sean Kavanagh
 10234,The Manchurian Dinner Date,Comedy,21,83,93,Nahnatchka Khan
 10235,Heidi Klum/Richard Lewis/Matt Fraction,"Comedy,Television",60,,,
-10236,Bullseye,"Action,Television",30,40,160,
+10236,Bullseye,"Action,Television,Television",30,40,160,
 10237,Blindsided,"Comedy,Romance",21,77,235,James Alan Hensz
 10238,Episode #1.4,News,60,,,
 10239,Weathering Heights,"Comedy,Romance",21,79,197,Gail Mancuso
@@ -10424,7 +10424,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 10422,Six Degrees of Everything,Comedy,30,17,711,
 10423,The Car,Short,0,,,Rob Fox
 10424,Eaten Alive,"Horror,Mystery",91,54,4701,Tobe Hooper
-10425,Calling Dr. Death,"Film-Noir,Mystery",63,61,528,Reginald Le Borg
+10425,Calling Dr. Death,"Film-Noir,Mystery,Mystery",63,61,528,Reginald Le Borg
 10426,Forklift Driver Klaus: The First Day on the Job,"Short,Action,Comedy",10,80,3980,"Stefan Prehn,Jrg Wagner"
 10427,Marc Jacobs,"Short,Drama",15,68,17,Sam de Jong
 10428,Schitt's Creek,Comedy,22,75,3808,"Dan Levy,Eugene Levy"
@@ -10468,7 +10468,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 10466,Twins,Drama,42,84,132,Allison Liddi-Brown
 10467,The Inverse,Drama,41,83,73,Liz Friedlander
 10468,"100,000 Heartbeats",Drama,42,84,87,Helen Shaver
-10469,After the Final Rose,"Television,Romance",39,51,8,
+10469,After the Final Rose,"Television,Television,Romance",39,51,8,
 10470,The Happy Couple,"Crime,Drama,Mystery",42,81,123,Rob J. Greenlea
 10471,The Package,"Crime,Drama,Mystery",41,82,142,Bill D'Elia
 10472,The Wedding,"Crime,Drama,Mystery",41,83,138,Kevin Dowling
@@ -10680,23 +10680,23 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 10678,Madhura Naranga,"Drama,Family,Romance",155,61,198,Sugeeth
 10679,Friends,"Comedy,Drama",150,73,438,Siddique
 10680,New Delhi,"Action,Crime,Drama",143,74,410,Joshi
-10681,Sethurama Iyer CBI,Mystery,0,69,464,K. Madhu
+10681,Sethurama Iyer CBI,"Mystery,Mystery",0,69,464,K. Madhu
 10682,The King,"Action,Mystery",198,73,397,Shaji Kailas
 10683,Kaazhcha,Drama,137,80,823,Blessy
 10684,Fireman,Mystery,118,59,603,Deepu Karunakaran
-10685,Oru CBI Diary Kurippu,Mystery,137,80,657,K. Madhu
+10685,Oru CBI Diary Kurippu,"Mystery,Mystery",137,80,657,K. Madhu
 10686,Annayum Rasoolum,Romance,168,73,911,Rajeev Ravi
 10687,Varsham,Drama,150,69,606,Ranjith Sankar
 10688,Ustad Hotel,"Comedy,Drama,Musical",151,83,4434,Anwar Rasheed
 10689,Chennaiyil Oru Naal,Mystery,117,65,370,Shahid Khader
-10690,Memories,Mystery,132,80,2427,Jeethu Joseph
+10690,Memories,"Mystery,Mystery",132,80,2427,Jeethu Joseph
 10691,22 Female Kottayam,"Crime,Drama,Romance",120,74,1332,Aashiq Abu
 10692,Diamond Necklace,Mystery,157,72,1089,Lal Jose
 10693,Thattathin Marayathu,"Drama,Musical,Romance",127,74,2378,Vineeth Sreenivasan
 10694,The Perfect Storm,"Action,Adventure,Drama",130,64,134096,Wolfgang Petersen
 10695,Manipulated by Fingers,Short,20,82,17,Prasanth Vijay
 10696,Fatal Instinct,"Comedy,Crime,Mystery",91,57,5533,Carl Reiner
-10697,June 9,"Horror,Mystery",95,46,275,T. Michael Conway
+10697,June 9,"Horror,Mystery,Mystery",95,46,275,T. Michael Conway
 10698,The Veil,"Drama,Horror,Mystery",93,47,4513,Phil Joanou
 10699,The Ouija Experiment,Horror,92,34,1954,Israel Luna
 10700,Echoes,"Drama,Horror,Mystery",93,44,1175,Nils Timm
@@ -10739,11 +10739,11 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 10737,Conan the Barbarian,"Action,Adventure,Fantasy",113,52,83088,Marcus Nispel
 10738,Steel,Comedy,0,80,59,Doug Walker
 10739,Jonah Hex,"Action,Drama,Fantasy",81,47,46202,Jimmy Hayward
-10740,Mortuary,"Horror,Mystery",94,39,4676,Tobe Hooper
+10740,Mortuary,"Horror,Mystery,Mystery",94,39,4676,Tobe Hooper
 10741,The Legend of Billie Jean,Comedy,17,,,Allison Pregler
 10742,Shimmer and Shine,"Animation,Adventure,Fantasy",30,68,57,
 10743,Final Fantasy: The Spirits Within,"Animation,Action,Adventure",106,64,73190,"Hironobu Sakaguchi,Motonori Sakakibara"
-10744,Gone,"Drama,Mystery",94,59,35118,Heitor Dhalia
+10744,Gone,"Drama,Mystery,Mystery",94,59,35118,Heitor Dhalia
 10745,Duel in the Sun,"Drama,Romance,Western",129,69,6367,"King Vidor,Otto Brower"
 10746,RoboCop 3,,0,,,
 10747,Superman IV,,12,,,
@@ -10759,7 +10759,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 10757,Forbidden World,"Horror,Sci-Fi",77,53,2164,Allan Holzman
 10758,Galaxy of Terror,"Action,Adventure,Horror",81,51,4235,Bruce D. Clark
 10759,Humanoids from the Deep,"Action,Drama,Horror",86,40,550,Jeff Yonis
-10760,Splatter University,"Horror,Mystery",78,33,856,Richard W. Haines
+10760,Splatter University,"Horror,Mystery,Mystery",78,33,856,Richard W. Haines
 10761,C.H.U.D.,"Horror,Sci-Fi",88,55,7662,Douglas Cheek
 10762,Chopping Mall,"Comedy,Horror,Sci-Fi",77,56,5892,Jim Wynorski
 10763,The Deadly Spawn,"Horror,Sci-Fi",81,62,2938,Douglas McKeown
@@ -10768,7 +10768,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 10766,June,"Horror,Sci-Fi",84,42,1081,L. Gustavo Cooper
 10767,Deep Dark,"Fantasy,Horror",79,49,1390,Michael Medaglia
 10768,Kill Game,Horror,102,38,326,Robert Mearns
-10769,The Toolbox Murders,"Horror,Mystery",93,52,2381,Dennis Donnelly
+10769,The Toolbox Murders,"Horror,Mystery,Mystery",93,52,2381,Dennis Donnelly
 10770,Kung Fu Massacre,"Action,Drama",92,60,25,Tian-Lin Wang
 10771,Night School,"Horror,Mystery",88,51,1124,Ken Hughes
 10772,Unhinged,Horror,79,50,1087,Don Gronquist
@@ -10785,14 +10785,14 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 10783,The Living Dead at Manchester Morgue,"Horror,Sci-Fi",95,69,5682,Jorge Grau
 10784,Return of the Evil Dead,Horror,91,59,1767,Amando de Ossorio
 10785,Night of the Seagulls,Horror,89,59,1142,Amando de Ossorio
-10786,5 Dolls for an August Moon,Mystery,78,59,1748,Mario Bava
+10786,5 Dolls for an August Moon,"Mystery,Mystery",78,59,1748,Mario Bava
 10787,Black Sabbath,Horror,92,72,7231,Mario Bava
 10788,The Whip and the Body,Horror,87,69,2277,Mario Bava
 10789,Blood Brides,"Horror,Mystery",88,64,2307,Mario Bava
 10790,Baron Blood,Horror,90,60,2307,Mario Bava
-10791,Evil Eye,Mystery,86,71,2562,Mario Bava
-10792,Blood and Black Lace,"Horror,Mystery",84,73,5140,Mario Bava
-10793,A Bay of Blood,"Horror,Mystery",84,67,6146,Mario Bava
+10791,Evil Eye,"Mystery,Mystery",86,71,2562,Mario Bava
+10792,Blood and Black Lace,"Horror,Mystery,Mystery",84,73,5140,Mario Bava
+10793,A Bay of Blood,"Horror,Mystery,Mystery",84,67,6146,Mario Bava
 10794,Lisa and the Devil,Horror,95,64,2705,Mario Bava
 10795,Welcome to Woop Woop,"Adventure,Comedy,Fantasy",97,58,1542,Stephan Elliott
 10796,The Final Terror,Horror,82,50,1446,Andrew Davis
@@ -10800,8 +10800,8 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 10798,Turkey Shoot,"Drama,Horror,Sci-Fi",80,59,2044,Brian Trenchard-Smith
 10799,Fair Game,"Action,Horror,Mystery",90,61,410,Mario Andreacchio
 10800,Dark Age,"Adventure,Horror",91,62,408,Arch Nicholson
-10801,Road Games,"Horror,Mystery",101,67,3082,Richard Franklin
-10802,Long Weekend,"Horror,Mystery",97,67,2534,Colin Eggleston
+10801,Road Games,"Horror,Mystery,Mystery",101,67,3082,Richard Franklin
+10802,Long Weekend,"Horror,Mystery,Mystery",97,67,2534,Colin Eggleston
 10803,Sins of the Fleshapoids,"Short,Comedy,Sci-Fi",43,63,245,Mike Kuchar
 10804,Party Monster,"Documentary,Biography",57,72,1135,"Fenton Bailey,Randy Barbato"
 10805,Caged,"Crime,Drama,Film-Noir",96,78,2405,John Cromwell
@@ -10883,7 +10883,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 10881,The Devil Witch,Horror,91,59,1017,Corrado Farina
 10882,The Sword of the Fisherman,Short,4,,,
 10883,2019: After the Fall of New York,"Action,Horror,Sci-Fi",96,57,1893,Sergio Martino
-10884,What Have They Done to Your Daughters?,Mystery,96,70,1014,Massimo Dallamano
+10884,What Have They Done to Your Daughters?,"Mystery,Mystery",96,70,1014,Massimo Dallamano
 10885,Grizzly,"Adventure,Horror,Mystery",91,53,2571,William Girdler
 10886,The Fishmen and Their Queen,"Adventure,Horror,Sci-Fi",94,33,96,Sergio Martino
 10887,The Mountain of the Cannibal God,"Adventure,Horror",99,53,2743,Sergio Martino
@@ -11007,7 +11007,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 11005,Living on Tokyo Time,"Comedy,Drama",83,64,144,Steven Okazaki
 11006,Guess Who's Coming for Christmas?,"Comedy,Fantasy,Sci-Fi",95,48,68,Paul Schneider
 11007,Thalapathi,"Crime,Drama",157,87,4370,Mani Ratnam
-11008,Puthiya Niyamam,Mystery,132,64,746,A.K. Sajan
+11008,Puthiya Niyamam,"Mystery,Mystery",132,64,746,A.K. Sajan
 11009,Action Hero Biju,"Action,Comedy,Mystery",144,77,1381,Abrid Shine
 11010,Pathemari,Drama,118,85,1198,"Salim Ahmed,Salim Ahmed"
 11011,Charlie,"Drama,Musical,Mystery",130,77,2218,Martin Prakkat
@@ -11124,7 +11124,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 11122,22 Bullets,"Action,Crime,Mystery",117,67,25878,Richard Berry
 11123,La tour 2 contrle infernale,Comedy,88,41,332,Eric Judor
 11124,Empire of the Wolves,"Action,Crime,Drama",128,59,9607,Chris Nahon
-11125,The Crimson Rivers,"Crime,Mystery",106,69,49145,Mathieu Kassovitz
+11125,The Crimson Rivers,"Crime,Mystery,Mystery",106,69,49145,Mathieu Kassovitz
 11126,Crimson Rivers 2: Angels of the Apocalypse,"Action,Crime,Mystery",97,59,16131,Olivier Dahan
 11127,Mes meilleurs copains,"Comedy,Drama,Musical",110,69,699,Jean-Marie Poir
 11128,L'antidote,Comedy,107,53,652,Vincent De Brus
@@ -11157,7 +11157,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 11155,Reds,"Biography,Drama,History",195,75,16460,Warren Beatty
 11156,No Man's Land,"Crime,Drama,Mystery",106,60,3071,Peter Werner
 11157,The Big Easy,"Comedy,Crime,Drama",102,66,9590,Jim McBride
-11158,D.O.A.,Mystery,96,61,8054,"Annabel Jankel,Rocky Morton"
+11158,D.O.A.,"Mystery,Mystery",96,61,8054,"Annabel Jankel,Rocky Morton"
 11159,Sharpe's Honour,"Action,Adventure,History",101,78,1663,Tom Clegg
 11160,Internal Affairs,"Crime,Drama,Mystery",115,65,13277,Mike Figgis
 11161,The Carpetbaggers,Drama,150,65,1502,Edward Dmytryk
@@ -11170,7 +11170,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 11168,Starting Over,"Comedy,Romance",105,65,1689,Alan J. Pakula
 11169,Jayne Mansfield's Car,Drama,122,63,2221,Billy Bob Thornton
 11170,Cobb,"Biography,Drama,Sport",128,65,5975,Ron Shelton
-11171,The Big Fix,"Comedy,Mystery",108,64,1060,Jeremy Kagan
+11171,The Big Fix,"Comedy,Mystery,Mystery",108,64,1060,Jeremy Kagan
 11172,Aislados,Comedy,80,67,184,David Marqus
 11173,Johnny Handsome,"Crime,Drama,Mystery",94,61,6961,Walter Hill
 11174,Vigilante,"Action,Crime,Mystery",90,66,1918,William Lustig
@@ -11197,7 +11197,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 11195,You Don't Choose Your Family,"Adventure,Comedy",103,57,960,Christian Clavier
 11196,Iron Eagle,"Action,Mystery,War",117,53,10764,Sidney J. Furie
 11197,Tap,"Comedy,Drama,Musical",111,65,1145,Nick Castle
-11198,Thunderheart,"Crime,Mystery",119,68,11494,Michael Apted
+11198,Thunderheart,"Crime,Mystery,Mystery",119,68,11494,Michael Apted
 11199,Ben Affleck/Fiona Apple,"Comedy,Musical",90,71,44,"Beth McCarthy-Miller,Paul Thomas Anderson"
 11200,Pam Grier,"Documentary,Biography",45,43,102,Tiffany McLinn Lore
 11201,Remo Williams: The Adventure Begins,"Action,Adventure,Comedy",121,64,8789,Guy Hamilton
@@ -11208,7 +11208,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 11206,Bat*21,"Drama,War",105,64,6331,Peter Markle
 11207,Intermediate Documentary Filmmaking,Comedy,22,87,1357,Joe Russo
 11208,Stakeout,"Comedy,Mystery",117,66,19104,John Badham
-11209,Shattered,"Crime,Mystery",98,65,6375,Wolfgang Petersen
+11209,Shattered,"Crime,Mystery,Mystery",98,65,6375,Wolfgang Petersen
 11210,F/X: The Series,"Action,Crime,Drama",45,70,531,
 11211,Blue Thunder,"Action,Crime,Drama",109,63,12623,John Badham
 11212,Halloween: Harvest of Souls 1985,Horror,0,70,25,Jay Burleson
@@ -11225,9 +11225,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 11223,The Philadelphia Experiment,"Adventure,Mystery,Sci-Fi",89,40,1807,Paul Ziller
 11224,Philadelphia Experiment II,"Action,Adventure,Sci-Fi",97,45,1428,Stephen Cornwell
 11225,Better Late Than Never,Comedy,89,57,90,Bryan Forbes
-11226,Eyes of Laura Mars,Mystery,104,61,6233,Irvin Kershner
+11226,Eyes of Laura Mars,"Mystery,Mystery",104,61,6233,Irvin Kershner
 11227,The Resurrection of Broncho Billy,"Western,Short",23,66,143,James R. Rokos
-11228,Someone's Watching Me!,"Horror,Mystery",97,67,2229,John Carpenter
+11228,Someone's Watching Me!,"Horror,Mystery,Mystery",97,67,2229,John Carpenter
 11229,El Diablo,"Comedy,Western",115,64,533,Peter Markle
 11230,Silent Predators,"Horror,Sci-Fi,Mystery",91,42,715,Noel Nosseck
 11231,Stepfather II,"Horror,Mystery",93,56,2278,Jeff Burr
@@ -11286,7 +11286,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 11284,A Cry for Help: The Tracey Thurman Story,"Biography,Drama",96,79,754,Robert Markowitz
 11285,Agnes of God,"Drama,Mystery",98,66,5526,Norman Jewison
 11286,The Buddy Holly Story,"Biography,Drama,Musical",114,72,6504,Steve Rash
-11287,Slam Dance,Mystery,92,53,1068,Wayne Wang
+11287,Slam Dance,"Mystery,Mystery",92,53,1068,Wayne Wang
 11288,Thief of Hearts,"Drama,Mystery,Crime",100,57,1301,Douglas Day Stewart
 11289,"Love, Lies and Murder","Crime,Drama,Mystery",150,72,429,
 11290,The Burning Bed,"Crime,Drama",95,72,1765,Robert Greenwald
@@ -11749,7 +11749,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 11747,The General's Daughter: Behind the Secrets,"Documentary,Short",20,,,Kevin Gorman
 11748,Rules of Engagement,"Drama,Mystery,War",128,64,37918,William Friedkin
 11749,Mad City,"Crime,Drama,Mystery",115,62,16689,Costa-Gavras
-11750,Domestic Disturbance,"Crime,Mystery",89,55,21414,Harold Becker
+11750,Domestic Disturbance,"Crime,Mystery,Mystery",89,55,21414,Harold Becker
 11751,A Civil Action,Drama,115,65,23499,Steven Zaillian
 11752,The Double,"Action,Crime,Drama",98,59,23945,Michael Brandt
 11753,Hart's War,"Drama,War",125,63,44076,Gregory Hoblit
@@ -11883,7 +11883,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 11881,Les bronzs font du ski,Comedy,90,75,5427,Patrice Leconte
 11882,Une poque formidable...,"Comedy,Drama",96,68,906,Grard Jugnot
 11883,Black Widow,"Crime,Mystery",102,63,6613,Bob Rafelson
-11884,Hearts of Fire,"Drama,Musical",95,44,322,Richard Marquand
+11884,Hearts of Fire,"Drama,Musical,Musical",95,44,322,Richard Marquand
 11885,8 Million Ways to Die,"Action,Adventure,Crime",115,57,3376,Hal Ashby
 11886,The Vanishing,"Drama,Horror,Mystery",109,63,18667,George Sluizer
 11887,Eye of the Needle,"Romance,Mystery,War",112,71,7236,Richard Marquand
@@ -11978,7 +11978,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 11976,Tuff Turf,"Action,Drama",112,62,2819,Fritz Kiersch
 11977,Tempest,"Comedy,Drama,Fantasy",140,65,1802,Paul Mazursky
 11978,Office Killer,"Comedy,Horror,Mystery",82,49,1576,Cindy Sherman
-11979,The In Crowd,"Drama,Mystery",105,46,3693,Mary Lambert
+11979,The In Crowd,"Drama,Mystery,Mystery",105,46,3693,Mary Lambert
 11980,For Better and for Worse,Comedy,87,48,93,Paolo Barzman
 11981,Requiem for Murder,Mystery,95,51,249,Douglas Jackson
 11982,In the Weeds,"Comedy,Romance",91,62,347,Michael Rauch
@@ -12004,7 +12004,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 12002,Everybody's All-American/U2: Rattle and Hum/The Good Mother/Little Dorrit/A Cry in the Dark,Television,30,,,
 12003,School Ties,Drama,106,69,18276,Robert Mandel
 12004,Geronimo: An American Legend,"Drama,History,Western",115,65,6743,Walter Hill
-12005,The Other Man,"Drama,Mystery",88,55,9221,Richard Eyre
+12005,The Other Man,"Drama,Mystery,Mystery",88,55,9221,Richard Eyre
 12006,Holy Matrimony,"Comedy,Crime",93,51,1049,Leonard Nimoy
 12007,High Spirits,"Comedy,Fantasy,Horror",99,57,6556,Neil Jordan
 12008,Crossing the Line,"Crime,Drama,Sport",93,58,834,David Leland
@@ -12060,7 +12060,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 12058,The Backwoods,"Drama,Horror,Mystery",97,57,4517,Koldo Serra
 12059,Romeo Is Bleeding,"Action,Crime,Drama",100,66,10859,Peter Medak
 12060,Eyes of an Angel,Drama,95,53,864,Robert Harmon
-12061,Defenseless,Mystery,104,58,559,Martin Campbell
+12061,Defenseless,"Mystery,Mystery",104,58,559,Martin Campbell
 12062,Prick Up Your Ears,"Biography,Drama,Romance",105,74,4533,Stephen Frears
 12063,We Think the World of You,Comedy,90,62,274,Colin Gregg
 12064,Chattahoochee,"Biography,Drama",97,64,1423,Mick Jackson
@@ -12090,7 +12090,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 12088,Swing Shift,"Drama,Romance,War",100,59,3227,Jonathan Demme
 12089,CrissCross,"Crime,Drama",100,58,1298,Chris Menges
 12090,Wildcats,"Comedy,Sport",106,59,9547,Michael Ritchie
-12091,Foul Play,"Comedy,Mystery",116,68,10688,Colin Higgins
+12091,Foul Play,"Comedy,Mystery,Mystery",116,68,10688,Colin Higgins
 12092,Bird on a Wire,"Action,Comedy",110,59,31214,John Badham
 12093,Enormous Changes at the Last Minute,Comedy,30,,,Peter Noah
 12094,The Little Sister,Drama,103,62,47,Jan Egleson
@@ -12143,7 +12143,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 12141,Love Happens,"Drama,Romance",109,56,25612,Brandon Camp
 12142,She's the One,"Comedy,Drama,Romance",96,61,14038,Edward Burns
 12143,The Object of My Affection,"Comedy,Drama,Romance",111,60,15711,Nicholas Hytner
-12144,Search for Grace,"Drama,Mystery",96,58,88,Sam Pillsbury
+12144,Search for Grace,"Drama,Mystery,Mystery",96,58,88,Sam Pillsbury
 12145,Thunderbirds,"Animation,Action,Adventure",50,79,2840,"Sylvia Anderson,Gerry Anderson"
 12146,A Father for Charlie,"Drama,Western",90,72,265,Jeff Bleckner
 12147,Down Will Come Baby,"Drama,Mystery",87,59,306,Gregory Goodell
@@ -12162,7 +12162,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 12160,Imaginary Friend,Mystery,86,58,669,Richard Gabai
 12161,The Pleasure Drivers,"Drama,Mystery",99,46,530,Andrzej Sekula
 12162,Family for Christmas,Drama,0,65,491,Amanda Tapping
-12163,In My Sleep,"Drama,Mystery",104,56,1694,Allen Wolf
+12163,In My Sleep,"Drama,Mystery,Mystery",104,56,1694,Allen Wolf
 12164,Shadow of Fear,Mystery,88,52,1239,Rich Cowan
 12165,Be My Baby,"Comedy,Romance",86,47,262,Bryce Olson
 12166,Telling of the Shoes,Drama,94,56,24,Amanda Goodwin
@@ -12335,7 +12335,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 12333,Steve 2 (A Minecraft Movie),"Short,Adventure",18,63,6,Jayden Kern
 12334,Five Nights at Freddy's: The Fan Film,"Animation,Drama,Horror",0,,,
 12335,Feed A,"Short,Action,Horror",11,64,42,Clarke Mayer
-12336,Five Nights at Freddy's: Markiplier Playthrough,"Horror,Mystery",86,73,10,Mark Edward Fischbach
+12336,Five Nights at Freddy's: Markiplier Playthrough,"Horror,Mystery,Mystery",86,73,10,Mark Edward Fischbach
 12337,Five Nights at Freddy's: Cold Storage,"Short,Comedy,Horror",17,69,24,Sy Cody White
 12338,Five Nights at Freddy's,"Comedy,Horror",0,,,
 12339,Five Nights at Freddy's: The Interview,"Short,Comedy,Horror",3,87,64,"Mark Edward Fischbach,Daniel Kyre"
@@ -12431,7 +12431,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 12429,Maraton,"Biography,Drama,Sport",117,79,1772,Yoon-Chul Chung
 12430,The Cell,"Horror,Sci-Fi,Mystery",107,63,80584,Tarsem Singh
 12431,Tazza: The High Rollers,"Comedy,Crime",139,72,1302,Dong-hoon Choi
-12432,The Client,"Crime,Mystery",123,69,760,Young-Sung Sohn
+12432,The Client,"Crime,Mystery,Mystery",123,69,760,Young-Sung Sohn
 12433,Koyaanisqatsi,"Documentary,Musical",86,83,26718,Godfrey Reggio
 12434,Seasons,Documentary,97,69,361,"Jacques Perrin,Jacques Cluzaud"
 12435,Genesis,Documentary,81,71,1262,"Claude Nuridsany,Marie Prennou"
@@ -12570,7 +12570,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 12568,The China Syndrome,"Drama,Mystery",122,74,20903,James Bridges
 12569,"Here's Looking at You, Warner Bros.",Documentary,108,74,319,Robert Guenette
 12570,The Parallax View,"Drama,Mystery",102,72,11264,Alan J. Pakula
-12571,Night Moves,"Crime,Mystery",100,72,7816,Arthur Penn
+12571,Night Moves,"Crime,Mystery,Mystery",100,72,7816,Arthur Penn
 12572,Colossus: The Forbin Project,"Sci-Fi,Mystery",100,72,5819,Joseph Sargent
 12573,Space Station 76,"Comedy,Drama,Sci-Fi",93,49,6083,Jack Plotnick
 12574,Randy Get Your Gun,Comedy,22,74,102,Phil Traill
@@ -12847,7 +12847,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 12845,Days,"Animation,Drama,Sport",24,80,32,
 12846,Bachelor in Paradise,"Television,Romance",42,48,597,
 12847,The Bachelorette: Ashley and JP's Wedding,Documentary,60,55,54,Brett Register
-12848,The Bachelor,"Television,Romance",60,29,4456,Mike Fleiss
+12848,The Bachelor,"Television,Television,Romance",60,29,4456,Mike Fleiss
 12849,The Greeks,Documentary,0,72,20,
 12850,Episode #1.6,Television,0,,,
 12851,How the Avengers: Age of Ultron Should Have Ended - Part One,"Animation,Comedy",0,71,27,Daniel Baxter
@@ -12940,7 +12940,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 12938,Atmospheric Pressure: The Style and Palette,Short,9,58,8,
 12939,Leaving Las Vegas,"Drama,Romance",111,76,94811,Mike Figgis
 12940,Knowing,"Drama,Mystery,Sci-Fi",121,62,188559,Alex Proyas
-12941,8MM,Mystery,123,65,105325,Joel Schumacher
+12941,8MM,"Mystery,Mystery",123,65,105325,Joel Schumacher
 12942,Bangkok Dangerous,"Action,Crime,Mystery",99,54,48648,"Danny Pang,Oxide Chun Pang"
 12943,Matchstick Men,"Crime,Drama,Mystery",116,73,106884,Ridley Scott
 12944,City of Angels,"Drama,Fantasy,Romance",114,67,95350,Brad Silberling
@@ -12958,7 +12958,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 12956,Mad Cowgirl 2,Mystery,0,,,
 12957,Toxic Apocalypse,"Action,Mystery",87,72,122,Marc Hamill
 12958,Secrets of a Psychopath,Mystery,91,50,58,Bert I. Gordon
-12959,Murder Eleven,"Crime,Mystery",90,41,202,Jim Klock
+12959,Murder Eleven,"Crime,Mystery,Mystery",90,41,202,Jim Klock
 12960,Jekyll,"Drama,Horror,Sci-Fi",0,,,
 12961,Sketchers Comedy Special,Comedy,60,81,268,Justin Fair
 12962,Bitterroot,Drama,0,,,
@@ -13070,7 +13070,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 13068,And the Group Head,Comedy,21,76,290,Don Scardino
 13069,Evan Almighty,"Comedy,Family,Fantasy",96,54,116177,Tom Shadyac
 13070,Joe Dirt,"Adventure,Comedy,Drama",91,59,42077,Dennie Gordon
-13071,The Men in Black,"Mystery,Sci-Fi",100,78,31,Bradley Lee Lee
+13071,The Men in Black,"Mystery,Sci-Fi,Mystery",100,78,31,Bradley Lee Lee
 13072,The Believer's Heaven,Fantasy,58,62,8,Ron Ormond
 13073,39 Stripes,Drama,61,48,9,Ron Ormond
 13074,If Footmen Tire You What Will Horses Do?,Drama,52,46,198,Ron Ormond
@@ -13134,9 +13134,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 13132,The Mechanic,"Action,Crime,Mystery",100,70,8814,Michael Winner
 13133,Olympus Has Fallen,"Action,Mystery",119,65,206496,Antoine Fuqua
 13134,Episode #2.3,Television,21,,,J. Andrew Thames
-13135,In Poor Taste,"Horror,Mystery",54,72,386,David Semel
-13136,The Angel,"Horror,Mystery",48,74,517,Deran Sarafian
-13137,Hemlock Grove,"Horror,Mystery",46,73,28802,"Brian McGreevy,Lee Shipman"
+13135,In Poor Taste,"Horror,Mystery,Mystery",54,72,386,David Semel
+13136,The Angel,"Horror,Mystery,Mystery",48,74,517,Deran Sarafian
+13137,Hemlock Grove,"Horror,Mystery,Mystery",46,73,28802,"Brian McGreevy,Lee Shipman"
 13138,Assassination,"Action,Drama,Mystery",88,50,2079,Peter R. Hunt
 13139,Kinjite: Forbidden Subjects,"Action,Crime,Drama",97,54,1985,J. Lee Thompson
 13140,Messenger of Death,"Action,Crime,Mystery",91,55,1631,J. Lee Thompson
@@ -13326,7 +13326,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 13324,Red Heat/A World Apart/Rikky and Pete/Poltergeist III/Wings of Desire,Television,30,,,
 13325,Cannibal Guys: A Conversation with Ivan Reitman and Daniel Goldberg,Short,27,,,
 13326,Waxwork,"Comedy,Horror",95,62,8073,Anthony Hickox
-13327,Witchboard,"Horror,Mystery",98,57,4374,Kevin Tenney
+13327,Witchboard,"Horror,Mystery,Mystery",98,57,4374,Kevin Tenney
 13328,Blood Feast,Horror,67,50,4229,Herschell Gordon Lewis
 13329,This Old Town,"Comedy,Romance",22,78,84,John Putch
 13330,Planet of the Vampires,"Horror,Sci-Fi",88,63,3562,Mario Bava
@@ -13343,7 +13343,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 13341,The Hot Chick,"Comedy,Fantasy",104,55,75425,Tom Brady
 13342,The House Bunny,"Comedy,Romance",97,55,64557,Fred Wolf
 13343,Chemistry,"Drama,Mystery",30,52,424,
-13344,Femme Fatales,Mystery,30,61,1157,"Steven Kriozere,Mark A. Altman"
+13344,Femme Fatales,"Mystery,Mystery",30,61,1157,"Steven Kriozere,Mark A. Altman"
 13345,Lingerie,"Drama,Romance",30,68,317,John Quinn
 13346,Forbidden Science,"Sci-Fi,Mystery",30,58,449,Doug Brode
 13347,OC Confidential,Drama,80,55,34,Janine Gosselin
@@ -13403,7 +13403,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 13401,Choices,Drama,90,47,191,Silvio Narizzano
 13402,Passion of Mind,"Drama,Mystery,Romance",105,56,2763,Alain Berliner
 13403,Striptease,"Comedy,Crime,Drama",115,43,35236,Andrew Bergman
-13404,Mortal Thoughts,Mystery,102,57,6899,Alan Rudolph
+13404,Mortal Thoughts,"Mystery,Mystery",102,57,6899,Alan Rudolph
 13405,The Butcher's Wife,"Comedy,Fantasy",107,53,5519,Terry Hughes
 13406,The Scarlet Letter,"Drama,Romance",135,51,12153,Roland Joff
 13407,"New York, I Love You","Comedy,Drama,Romance",103,63,39916,"Fatih Akin,Yvan Attal"
@@ -13708,7 +13708,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 13706,Dead Calm,Mystery,96,68,29697,Phillip Noyce
 13707,Birthday Girl,"Comedy,Crime,Mystery",93,61,21678,Jez Butterworth
 13708,Paranoid Park,"Crime,Drama,Mystery",85,67,25474,Gus Van Sant
-13709,Malice,"Crime,Mystery",107,64,18423,Harold Becker
+13709,Malice,"Crime,Mystery,Mystery",107,64,18423,Harold Becker
 13710,Drugstore Cowboy,"Crime,Drama",102,74,25642,Gus Van Sant
 13711,Ronin/Pecker/Clay Pigeons/Urban Legend/Shadrach,Television,30,,,
 13712,At Risk,"Drama,Romance",95,53,33,Elana Krausz
@@ -13735,7 +13735,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 13733,The Prime Gig,Drama,98,61,1946,Gregory Mosher
 13734,Frenchie,"Romance,Western",81,63,185,Louis King
 13735,Contempt,Drama,102,77,20197,Jean-Luc Godard
-13736,Brokedown Palace,"Drama,Mystery",100,64,18831,Jonathan Kaplan
+13736,Brokedown Palace,"Drama,Mystery,Mystery",100,64,18831,Jonathan Kaplan
 13737,Pierrot le Fou,"Crime,Drama,Romance",110,77,19756,Jean-Luc Godard
 13738,Out There,Comedy,98,55,215,Sam Irvin
 13739,Jules and Jim,"Drama,Romance",105,79,27818,Franois Truffaut
@@ -13754,7 +13754,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 13752,Little Man Tate,Drama,99,66,11549,Jodie Foster
 13753,Valley Girl,"Comedy,Romance",99,63,10205,Martha Coolidge
 13754,Five Corners,"Crime,Drama,Mystery",90,63,2470,Tony Bill
-13755,The Little Girl Who Lives Down the Lane,"Drama,Mystery",91,71,9665,Nicolas Gessner
+13755,The Little Girl Who Lives Down the Lane,"Drama,Mystery,Mystery",91,71,9665,Nicolas Gessner
 13756,Times Square,"Drama,Musical",111,68,981,Allan Moyle
 13757,"Ladies and Gentlemen, the Fabulous Stains","Comedy,Drama,Musical",87,69,1813,Lou Adler
 13758,Carny,Drama,107,65,1459,Robert Kaylor
@@ -13777,7 +13777,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 13775,Straight to Hell,"Action,Comedy,Western",86,58,1839,Alex Cox
 13776,52 Pick-Up,"Crime,Mystery",110,64,3452,John Frankenheimer
 13777,Year of the Gun,"Action,Romance,Mystery",111,57,1888,John Frankenheimer
-13778,The American Friend,"Crime,Mystery",125,74,9142,Wim Wenders
+13778,The American Friend,"Crime,Mystery,Mystery",125,74,9142,Wim Wenders
 13779,River's Edge,"Crime,Drama",99,71,11935,Tim Hunter
 13780,Out of the Blue,"Crime,Drama",103,73,2803,Robert Sarkies
 13781,Heartbeat,"Drama,War,Musical",65,71,84,John Nicolella
@@ -13956,7 +13956,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 13954,Lows in the Mid-Eighties,"Comedy,Romance",42,88,163,James Burrows
 13955,Last Ex to Brooklyn,"Comedy,Romance",21,89,217,James Burrows
 13956,Soap,"Comedy,Romance",30,82,4485,Susan Harris
-13957,Agatha,"Drama,Mystery",105,64,2043,Michael Apted
+13957,Agatha,"Drama,Mystery,Mystery",105,64,2043,Michael Apted
 13958,Nurses,Comedy,30,69,204,Susan Harris
 13959,Marriage on the Rocks with a Twist,Comedy,30,83,15,Peter D. Beyt
 13960,Golden Girls,Comedy,25,29,53,
@@ -14113,11 +14113,11 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 14111,The Amityville Horror,"Drama,Horror,Mystery",90,60,82411,Andrew Douglas
 14112,Let Me In,"Drama,Fantasy,Horror",116,72,93524,Matt Reeves
 14113,Jennifer's Body,"Comedy,Fantasy,Horror",102,51,93771,Karyn Kusama
-14114,Nightmare on the 13th Floor,"Horror,Mystery",90,61,460,Walter Grauman
+14114,Nightmare on the 13th Floor,"Horror,Mystery,Mystery",90,61,460,Walter Grauman
 14115,Desi Rascals,Documentary,0,54,50,"Gurinder Chadha,Tony Wood"
 14116,The Tenant,"Drama,Mystery",126,78,28026,Roman Polanski
 14117,Freedom at Midnight,Drama,0,,,
-14118,Scared Silly,Television,43,78,19,
+14118,Scared Silly,"Television,Television",43,78,19,
 14119,East Is East,"Comedy,Drama",96,69,14629,Damien O'Donnell
 14120,Bend It Like Beckham,"Comedy,Drama,Romance",112,67,90619,Gurinder Chadha
 14121,Happy Ever Afters,Comedy,101,56,763,Stephen Burke
@@ -14649,7 +14649,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 14647,"But First, We Save the Galaxy","Drama,Sci-Fi,Mystery",43,87,236,Ron Murphy
 14648,Almost Human,"Action,Crime,Drama",60,81,41400,J.H. Wyman
 14649,I Almost Prayed,"Action,Drama,Sci-Fi",40,84,274,Michael Nankin
-14650,Heavenly Bodies,Television,43,75,22,
+14650,Heavenly Bodies,"Television,Television",43,75,22,
 14651,Upon the March We Fittest Die,"Action,Drama,Sci-Fi",43,88,278,Michael Nankin
 14652,"Aliens, UFOs & the Bible: Are We Alone in the Universe?",Documentary,65,,,Paul Varnum
 14653,My Name Is Datak Tarr and I Have Come to Kill You,"Action,Drama,Sci-Fi",44,90,306,Mairzee Almas
@@ -14733,7 +14733,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 14731,Sally Field/Jemima Kirke/Aubrie Sellers/Stanton Moore,"Comedy,Television",41,,,
 14732,Pillar of Salt,Television,42,82,8,Carrie Havel
 14733,The Horribly Slow Murderer with the Extremely Inefficient Weapon,"Short,Comedy,Horror",10,78,5161,Richard Gale
-14734,Don't Go to the Reunion,"Horror,Mystery",75,39,416,Steve Goltz
+14734,Don't Go to the Reunion,"Horror,Mystery,Mystery",75,39,416,Steve Goltz
 14735,The Iceman Confesses: Secrets of a Mafia Hitman,"Crime,Documentary",43,78,815,Arthur Ginsberg
 14736,Tyler Perry's a Madea Christmas,Comedy,28,80,9,Brad Jones
 14737,Kirk Cameron's Saving Christmas,Comedy,39,86,14,Brad Jones
@@ -15260,7 +15260,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 15258,"My Cousin, Art Carney",Comedy,30,83,6,Lee Lochhead
 15259,Florence of Arabia,Comedy,30,79,8,Kim Friedman
 15260,Close Encounters of the Worst Kind,Comedy,30,79,11,William Asher
-15261,4 Chefs Compete,Television,42,66,30,Mark Roden
+15261,4 Chefs Compete,"Television,Television",42,66,30,Mark Roden
 15262,David Plus Two,Comedy,26,92,8,Howard Morris
 15263,The Nearness of You,Comedy,30,93,7,"Selig Frank,Bonnie Franklin"
 15264,Hold the Mustard,Comedy,30,94,5,Alan Rafkin
@@ -15411,9 +15411,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 15409,Anastasia,"Biography,Drama,History",105,72,5877,Anatole Litvak
 15410,Appointment with Death,"Crime,Drama,Mystery",102,61,2286,Michael Winner
 15411,Murder on the Orient Express,"Crime,Drama,Mystery",100,51,752,Carl Schenkel
-15412,Murder by Death,"Comedy,Mystery",94,74,25248,Robert Moore
+15412,Murder by Death,"Comedy,Mystery,Mystery",94,74,25248,Robert Moore
 15413,And Then There Were None,"Crime,Drama,Mystery",97,76,9302,Ren Clair
-15414,The Mirror Crack'd,"Crime,Mystery",105,62,4833,Guy Hamilton
+15414,The Mirror Crack'd,"Crime,Mystery,Mystery",105,62,4833,Guy Hamilton
 15415,Evil Under the Sun,"Crime,Drama,Mystery",117,70,9404,Guy Hamilton
 15416,Death on the Nile,"Crime,Drama,Mystery",140,72,19880,John Guillermin
 15417,The Duke of Squigman,"Comedy,Family",30,72,13,Penny Marshall
@@ -15551,7 +15551,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 15549,The Battle of New Orleans,"Drama,Fantasy,Horror",42,95,1109,Jeffrey G. Hunt
 15550,Episode #4.2,"Drama,Fantasy,Horror",45,,,Bethany Rooney
 15551,Heart Shaped Box,"Drama,Fantasy,Horror",41,88,355,Chris Grismer
-15552,Scene of the Crime,Television,42,73,23,
+15552,Scene of the Crime,"Television,Television",42,73,23,
 15553,An Old Friend Calls,"Drama,Fantasy,Horror",42,91,406,Jeffrey G. Hunt
 15554,Beauty and the Beast,"Drama,Horror,Romance",60,72,30287,"Sherri Cooper-Landsman,Ron Koslow,Jennifer Levin"
 15555,Witches of East End,"Drama,Fantasy,Horror",60,77,19672,Maggie Friedman
@@ -15632,7 +15632,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 15630,The Longest Yard,"Comedy,Crime,Drama",121,71,13340,Robert Aldrich
 15631,Super Fly,"Action,Crime,Drama",93,65,4455,Gordon Parks Jr.
 15632,The Return of Billy Jack,"Action,Crime,Drama",60,73,15,Tom Laughlin
-15633,The Deep,"Adventure,Mystery",123,62,8681,Peter Yates
+15633,The Deep,"Adventure,Mystery,Mystery",123,62,8681,Peter Yates
 15634,Walking Tall,"Action,Crime,Drama",125,69,3530,Phil Karlson
 15635,The Master Gunfighter,"Drama,Western",121,47,283,Frank Laughlin
 15636,Semi-Tough,"Comedy,Romance,Sport",108,59,1911,Michael Ritchie
@@ -15870,7 +15870,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 15868,True Story,"Crime,Drama,Mystery",99,63,38578,Rupert Goold
 15869,The Face of Love,"Drama,Romance",92,62,3501,Arie Posin
 15870,A Brilliant Young Mind,Drama,111,72,19317,Morgan Matthews
-15871,Dark Places,"Drama,Mystery",113,62,28748,Gilles Paquet-Brenner
+15871,Dark Places,"Drama,Mystery,Mystery",113,62,28748,Gilles Paquet-Brenner
 15872,I'll See You in My Dreams,"Comedy,Drama,Romance",92,67,4567,Brett Haley
 15873,Cop Car,"Crime,Mystery",88,62,21260,Jon Watts
 15874,Veronika,"Short,Drama,Romance",12,72,22,Borja lvarez Ramrez
@@ -15922,7 +15922,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 15920,Mad's 100th Episode Special,"Animation,Comedy",23,66,8,Ethan Marak
 15921,#FresnoGirl,"Comedy,Drama,Family",23,72,40,Steve Hoefer
 15922,#FirstClassProblems,"Comedy,Drama,Family",22,73,42,Steve Hoefer
-15923,"New York, New York","Drama,Musical",155,67,13728,Martin Scorsese
+15923,"New York, New York","Drama,Musical,Musical",155,67,13728,Martin Scorsese
 15924,The Making of 'Cape Fear',Documentary,80,62,138,Laurent Bouzereau
 15925,Bringing Out the Dead,"Drama,Mystery",121,68,53521,Martin Scorsese
 15926,The Last Temptation of Christ,Drama,164,76,40153,Martin Scorsese
@@ -16003,7 +16003,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16001,Feel the Motion,"Comedy,Musical",97,45,110,Wolfgang Bld
 16002,Staying Alive,"Drama,Musical,Romance",93,45,11392,Sylvester Stallone
 16003,Dirty Dancing,"Drama,Musical,Romance",100,69,143791,Emile Ardolino
-16004,Fame,"Drama,Musical",134,66,16530,Alan Parker
+16004,Fame,"Drama,Musical,Musical",134,66,16530,Alan Parker
 16005,The Hardest Word: Part 1,"Crime,Drama,Mystery",59,79,78,Philippa Langdale
 16006,Haunted Castle,"Animation,Action,Adventure",23,78,26,"Dave Cox,Edouard David"
 16007,Gadget and the Red Rose,"Animation,Action,Adventure",23,78,18,Bruno Bianchi
@@ -16066,7 +16066,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16064,Hired to Kill,"Action,Mystery",91,49,529,"Nico Mastorakis,Peter Rader"
 16065,Return of the Killer Tomatoes!,"Comedy,Horror,Sci-Fi",98,51,5597,John De Bello
 16066,You'll Like My Mother,"Drama,Horror,Mystery",92,69,357,Lamont Johnson
-16067,Psycho IV: The Beginning,"Horror,Mystery",96,55,5205,Mick Garris
+16067,Psycho IV: The Beginning,"Horror,Mystery,Mystery",96,55,5205,Mick Garris
 16068,Hellhole,"Action,Drama,Horror",90,51,255,Pierre De Moro
 16069,Episode #17.27,"Comedy,Musical,Television",60,,,Allan Kartun
 16070,Camp Rock 2: The Final Jam,"Comedy,Family,Musical",97,52,10788,Paul Hoen
@@ -16192,12 +16192,12 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16190,Those Who Can't,Comedy,30,72,503,"Adam Cayton-Holland,Andrew Orvedahl,Ben Roy"
 16191,Pixee Fox,Comedy,22,66,25,"John Elerick,James Patton"
 16192,Those Who Can't,Comedy,23,72,597,"Adam Nix,Evan Nix"
-16193,The Jeselnik Offensive,"Comedy,Television",30,75,1037,"Anthony Jeselnik,Tom Johnson"
+16193,The Jeselnik Offensive,"Comedy,Television,Television",30,75,1037,"Anthony Jeselnik,Tom Johnson"
 16194,This Is Not Happening,Comedy,0,81,219,
 16195,Nikki & Sara Live,Comedy,0,55,69,
-16196,Is This Forever?,"Comedy,Television",21,81,10,"Isaac Feder,Brian McAloon"
-16197,Is That Your Belt?,"Comedy,Television",21,83,6,"Lindsay Crystal,Isaac Feder"
-16198,I Broke My Dick,"Comedy,Television",22,86,5,Lindsay Crystal
+16196,Is This Forever?,"Comedy,Television,Television",21,81,10,"Isaac Feder,Brian McAloon"
+16197,Is That Your Belt?,"Comedy,Television,Television",21,83,6,"Lindsay Crystal,Isaac Feder"
+16198,I Broke My Dick,"Comedy,Television,Television",22,86,5,Lindsay Crystal
 16199,Mysteries at the Museum,"Documentary,Mystery",60,82,550,"Stephanie Angelides,Kurt Tondorf"
 16200,Mysteries at the Monument,"Biography,History,Mystery",60,77,187,
 16201,truTV Top Funniest,Comedy,60,65,74,
@@ -16225,10 +16225,10 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16223,Aftershock from Work,Comedy,22,78,30,Linda Mendoza
 16224,Tyler Perry/Billy Eichner/Juanes,"Comedy,Musical,Television",60,83,17,Dave Diomedi
 16225,Who's Your Friend from Work,Comedy,22,81,59,Victor Nelli Jr.
-16226,"For a Dollar, It's Chris Pratt!","Comedy,Television",22,89,9,
+16226,"For a Dollar, It's Chris Pratt!","Comedy,Television,Television",22,89,9,
 16227,Eagleheart,"Action,Comedy",0,75,1410,"Michael Koman,Andrew Weinberg"
-16228,Anna Kendrick's Tinder in Real Life Lightning Round,"Comedy,Television",22,89,9,
-16229,Episode #4.5,"Comedy,Television",21,86,5,Benjamin Salka
+16228,Anna Kendrick's Tinder in Real Life Lightning Round,"Comedy,Television,Television",22,89,9,
+16229,Episode #4.5,"Comedy,Television,Television",21,86,5,Benjamin Salka
 16230,I Love the '30s,"Short,Comedy",5,,,"Brian Donovan,Nick Kroll,John Mulaney"
 16231,Martin Short/Gabrielle Union/Mary J. Blige,"Comedy,Musical,Television",41,75,16,
 16232,Good Neighbors,"Drama,Mystery",99,59,4342,Jacob Tierney
@@ -16247,7 +16247,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16245,Ethan Hawke/Freddie Prinze Jr./Ingrid Michaelson,"Comedy,Musical,Television",41,77,6,
 16246,Love Rollercoaster,"Animation,Comedy",30,67,149,"Ronald Rubio,Albert Calleros"
 16247,Liam Hemsworth/Nick Jonas,"Comedy,Musical,Television",40,72,9,Dave Diomedi
-16248,Dragons' Den,Television,60,75,663,
+16248,Dragons' Den,"Television,Television",60,75,663,
 16249,Cheerleader Camp,"Comedy,Horror,Mystery",89,47,2272,John Quinn
 16250,Cinema 500 km,Documentary,45,75,105,Abdullah Al-Eyaf
 16251,I Am Comic,Documentary,87,66,618,Jordan Brady
@@ -16385,7 +16385,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16383,Heights,"Drama,Romance",93,70,4210,Chris Terrio
 16384,Strangers on a Train,"Crime,Film-Noir,Mystery",101,81,98122,Alfred Hitchcock
 16385,Slice of Death,"Comedy,Crime,Drama",43,82,635,Steve Boyum
-16386,The Third Man,"Film-Noir,Mystery",93,83,115580,Carol Reed
+16386,The Third Man,"Film-Noir,Mystery,Mystery",93,83,115580,Carol Reed
 16387,Strange Interlude,Drama,109,59,449,Robert Z. Leonard
 16388,The Heart of New York,Comedy,73,62,89,Mervyn LeRoy
 16389,Delicious,"Comedy,Musical,Romance",106,59,161,David Butler
@@ -16433,7 +16433,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16431,Bubbies Gone Bad,"Drama,Television",45,84,5,
 16432,Water Under the Table,"Drama,Television",45,86,5,
 16433,Reunion: Watch What Happens Part 2,"Drama,Television",45,88,6,Manny Rodriguez
-16434,Kathy Griffin,Television,42,65,21,"Tony Croll,Claudia Frank"
+16434,Kathy Griffin,"Television,Television",42,65,21,"Tony Croll,Claudia Frank"
 16435,Love & Hip Hop: Atlanta,Television,0,58,485,
 16436,Mob Wives,Television,43,49,1244,Jennifer Graziano
 16437,The Real Housewives of D.C.,Television,60,24,404,
@@ -16447,7 +16447,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16445,The Real Housewives of Dallas,Television,0,56,88,Scott Dunlop
 16446,Episode #19.118,"Comedy,Musical,Television",62,,,"Liz Plonka,Anthony Caleca"
 16447,Million Dollar Listing NY,Television,0,73,863,
-16448,The Challenge,"Adventure,Television",60,75,1270,"Jonathan Murray,Mary-Ellis Bunim"
+16448,The Challenge,"Adventure,Television,Television",60,75,1270,"Jonathan Murray,Mary-Ellis Bunim"
 16449,Million Dollar Listing,Television,60,56,738,
 16450,Real World,"Drama,Television",30,50,3374,"Jonathan Murray,Mary-Ellis Bunim"
 16451,Episode #19.174,"Comedy,Musical,Television",62,,,Anthony Caleca
@@ -16538,7 +16538,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16536,Chris Farley/The Mighty Mighty Bosstones,"Comedy,Musical",90,68,42,Beth McCarthy-Miller
 16537,Tripping the Rift,"Animation,Short,Comedy",5,73,562,Chris Moeller
 16538,Cleopatra 2525,"Sci-Fi,Action,Fantasy",60,60,1528,"R.J. Stewart,Rob Tapert"
-16539,Roustabout,"Drama,Musical",101,59,1921,John Rich
+16539,Roustabout,"Drama,Musical,Musical",101,59,1921,John Rich
 16540,Alien Nation: Body and Soul,Sci-Fi,87,66,760,Kenneth Johnson
 16541,Lexx,"Adventure,Sci-Fi,Fantasy",0,74,4828,Paul Donovan
 16542,Lexx,"Short,Action",26,72,28,David Lussier
@@ -16575,7 +16575,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16573,Mr. Wrong,Comedy,96,37,4338,Nick Castle
 16574,Wanda Sykes: I'ma Be Me,Comedy,87,78,335,Beth McCarthy-Miller
 16575,A Russell Peters Christmas Special,Comedy,60,39,189,Henry Sarwer-Foner
-16576,The Bachelorette,"Television,Romance",60,30,3493,Mike Fleiss
+16576,The Bachelorette,"Television,Television,Romance",60,30,3493,Mike Fleiss
 16577,Kevin Hart: Let Me Explain,"Documentary,Comedy",75,67,6215,"Leslie Small,Tim Story"
 16578,Episode dated 24 June 2008,Television,60,44,11,
 16579,Chris Rock: Big Ass Jokes,"Documentary,Comedy",27,73,716,Keith Truesdell
@@ -16689,7 +16689,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16687,Finale: Part 2,Comedy,30,87,6,Andrew Tsao
 16688,Veronica's Closet,Comedy,30,57,1406,"David Crane,Marta Kauffman"
 16689,Liebmann,Drama,82,64,30,Jules Herrmann
-16690,Triple Crossed,"Mystery,Romance",99,52,398,Sean Paul Lockhart
+16690,Triple Crossed,"Mystery,Romance,Mystery",99,52,398,Sean Paul Lockhart
 16691,A Day in the Life,Comedy,30,76,14,Alan Rafkin
 16692,Idol,"Short,Drama",9,,,Daniel Palacio
 16693,Hunter,Drama,88,72,46,Ian Samplin
@@ -16727,7 +16727,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16725,Dame Joan Collins/Richard Madden/Lily James/Paul Hollywood/DNCE,"Comedy,Television",44,71,13,Steve Smith
 16726,Hard Target 2,"Action,Mystery",104,52,1214,Roel Rein
 16727,The Phenom,"Drama,Sport",90,52,972,Noah Buschel
-16728,Blood in the Water,"Crime,Mystery",91,42,152,"Ben Cummings,Orson Cummings"
+16728,Blood in the Water,"Crime,Mystery,Mystery",91,42,152,"Ben Cummings,Orson Cummings"
 16729,Spaceman: A Baseball Odyssey,Documentary,7,75,59,Brett Rapkin
 16730,The Brooklyn Banker,"Action,Crime,Drama",95,56,172,Federico Castelluccio
 16731,Healing Voices,"Documentary,Drama",90,77,17,PJ Moynihan
@@ -16813,9 +16813,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16811,The Swedish Theory of Love,Documentary,90,66,314,Erik Gandini
 16812,Starless Dreams,Documentary,76,82,100,Mehrdad Oskouei
 16813,Arianna,Drama,84,68,95,Carlo Lavagna
-16814,Inkarnacija,"Action,Mystery",82,73,32,Filip Kovacevic
+16814,Inkarnacija,"Action,Mystery,Mystery",82,73,32,Filip Kovacevic
 16815,King Dave,"Drama,Mystery",100,80,172,Daniel Grou
-16816,Interruption,"Drama,Mystery",109,63,205,Yorgos Zois
+16816,Interruption,"Drama,Mystery,Mystery",109,63,205,Yorgos Zois
 16817,Belladonna of Sadness,"Animation,Fantasy",93,75,1036,Eiichi Yamamoto
 16818,She's Allergic to Cats,"Comedy,Horror,Romance",82,64,17,Michael Reich
 16819,Viva,"Comedy,Drama,Musical",120,58,550,Anna Biller
@@ -16962,7 +16962,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16960,Graveland,Mystery,0,,,
 16961,King Harald,Drama,0,,,
 16962,American Wolf,Drama,0,,,
-16963,The Havana Affair,"Drama,Mystery",0,,,
+16963,The Havana Affair,"Drama,Mystery,Mystery",0,,,
 16964,Hellmouth,Horror,95,54,162,John Geddes
 16965,The Corporation,"Biography,Crime",0,,,
 16966,Don't Look in the Basement 2,"Horror,Mystery",88,39,205,Tony Brownrigg
@@ -16971,11 +16971,11 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16969,Thirty Two Short Films About Glenn Gould,"Biography,Drama,Musical",98,75,3118,Franois Girard
 16970,Manhattan Night,"Crime,Drama,Mystery",113,62,4874,Brian DeCubellis
 16971,Shawn4Ever,"Short,Drama,Fantasy",9,84,11,Shawn Watson
-16972,The Canal,"Horror,Mystery",92,59,9346,Ivan Kavanagh
-16973,Honeymoon,"Horror,Mystery",87,56,17616,Leigh Janiak
+16972,The Canal,"Horror,Mystery,Mystery",92,59,9346,Ivan Kavanagh
+16973,Honeymoon,"Horror,Mystery,Mystery",87,56,17616,Leigh Janiak
 16974,The Conspiracy,"Horror,Mystery",84,64,7153,Christopher MacBride
-16975,Afflicted,"Horror,Mystery",85,63,16879,"Derek Lee,Clif Prowse"
-16976,The Den,"Horror,Mystery",81,61,9290,Zachary Donohue
+16975,Afflicted,"Horror,Mystery,Mystery",85,63,16879,"Derek Lee,Clif Prowse"
+16976,The Den,"Horror,Mystery,Mystery",81,61,9290,Zachary Donohue
 16977,The Sacrament,"Horror,Mystery",99,61,12290,Ti West
 16978,Standoff,"Drama,Mystery",80,60,3774,Adam Alleca
 16979,Cassanova Was a Woman,Comedy,113,88,10,Kevin Arbouet
@@ -16985,8 +16985,8 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 16983,The Watchman,"Crime,Mystery",48,63,251,David Nath
 16984,American Conjuring,Horror,86,26,302,"Dan Walton,Dan Zachary"
 16985,Chupacabra Territory,Horror,90,32,50,Matt McWilliams
-16986,The Unbidden,"Horror,Mystery",84,37,38,Quentin Lee
-16987,The Unfolding,"Horror,Mystery",90,38,340,Eugene McGing
+16986,The Unbidden,"Horror,Mystery,Mystery",84,37,38,Quentin Lee
+16987,The Unfolding,"Horror,Mystery,Mystery",90,38,340,Eugene McGing
 16988,Kenny & Company,"Comedy,Drama",90,77,370,Don Coscarelli
 16989,The Actress,"Short,Drama",20,86,32,Ben Charles Edwards
 16990,Animal Charm,"Short,Comedy,Horror",27,88,30,Ben Charles Edwards
@@ -17051,7 +17051,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 17049,Batman v Superman: Dawn of Justice/My Big Fat Greek Wedding 2,"Comedy,Television",69,,,
 17050,Loft,Horror,115,56,738,Kiyoshi Kurosawa
 17051,Penance,Mystery,270,71,680,
-17052,Seventh Code,Mystery,60,57,242,Kiyoshi Kurosawa
+17052,Seventh Code,"Mystery,Mystery",60,57,242,Kiyoshi Kurosawa
 17053,Jerusalem Countdown,Mystery,85,40,980,Harold Cronk
 17054,Episode dated 20 March 2015,"News,Television",0,,,
 17055,Revelation Road: The Black Rider,"Action,Drama,Fantasy",112,59,432,Gabriel Sabloff
@@ -17112,7 +17112,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 17110,Supernatural,"Action,Adventure,Drama",100,84,2008,Jim Fitzpatrick
 17111,Blood Ranch,Horror,90,64,2062,Corbin Timbrook
 17112,Curse of the Starving Class,Drama,102,60,2285,J. Michael McClary
-17113,The Code Conspiracy,"Action,Mystery",97,72,2040,Hank Whetstone
+17113,The Code Conspiracy,"Action,Mystery,Mystery",97,72,2040,Hank Whetstone
 17114,An American Reunion,"Comedy,Drama,Romance",93,77,1946,Jim Fitzpatrick
 17115,U.S. Seals,"Action,Mystery",90,49,2794,Yossi Wein
 17116,Operation Delta Force 3: Clear Target,Action,94,65,2272,Mark Roper
@@ -17147,7 +17147,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 17145,"Clinton, Inc.",Documentary,87,48,13,Bill Baber
 17146,The Wake of Dick Johnson,Drama,74,,,Luke H. Walker
 17147,To Have and to Hold,Adventure,0,77,6,Ray Bengston
-17148,The Scribbler,"Mystery,Sci-Fi",88,54,3736,John Suits
+17148,The Scribbler,"Mystery,Sci-Fi,Mystery",88,54,3736,John Suits
 17149,Wishmaster 2: Evil Never Dies,"Fantasy,Horror",96,50,5645,Jack Sholder
 17150,Dragonfyre,"Action,Adventure,Fantasy",97,34,1547,Kohl Glass
 17151,Unsullied,"Action,Horror,Mystery",93,47,131,Simeon Rice
@@ -17173,7 +17173,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 17171,Bikini Mayhem,Mystery,78,75,58,Eric Williford
 17172,Monsterland,"Fantasy,Horror,Mystery",108,47,79,"Jack Fields,Erik Gardner"
 17173,Ritual,Horror,90,37,531,Mickey Keating
-17174,Pod,"Horror,Mystery",76,43,2233,Mickey Keating
+17174,Pod,"Horror,Mystery,Mystery",76,43,2233,Mickey Keating
 17175,The Hatching,"Comedy,Fantasy,Horror",90,41,262,Michael Anderson
 17176,Beautiful Prison,"Drama,Horror,Romance",83,45,161,Joel Vallie
 17177,Bastard,Horror,82,47,476,"Powell Robinson,Patrick Robert Young"
@@ -17247,7 +17247,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 17245,Spellbound,"Film-Noir,Mystery,Romance",111,76,33355,Alfred Hitchcock
 17246,The Trouble with Harry,"Comedy,Mystery",99,72,25230,Alfred Hitchcock
 17247,The Man Who Knew Too Much,"Drama,Mystery",120,75,42759,Alfred Hitchcock
-17248,Suspicion,Mystery,99,74,23941,Alfred Hitchcock
+17248,Suspicion,"Mystery,Mystery",99,74,23941,Alfred Hitchcock
 17249,I Confess,"Crime,Drama,Film-Noir",95,73,14677,Alfred Hitchcock
 17250,Eminence,"Animation,Action,Adventure",23,87,377,Kyle Dunlevy
 17251,Sabotage,Mystery,76,71,11177,Alfred Hitchcock
@@ -17259,7 +17259,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 17257,What's My Line,,30,73,33,
 17258,The Impossible Planet,"Adventure,Drama,Family",45,88,3834,James Strong
 17259,My Top 10 Favorite Moments from Animation Lookback: Walt Disney Animation Studios,"Documentary,Animation,Television",0,,,Mat Brunet
-17260,Something Wicked This Way Comes,"Fantasy,Mystery",95,68,6459,Jack Clayton
+17260,Something Wicked This Way Comes,"Fantasy,Mystery,Mystery",95,68,6459,Jack Clayton
 17261,Saving Mr. Banks,"Animation,Television",0,,,Mat Brunet
 17262,Revenge of the Cybermen: Part Three,"Adventure,Drama,Family",25,72,159,Michael E. Briant
 17263,Chapter 22,"Animation,Action,Adventure",15,83,125,Genndy Tartakovsky
@@ -17703,7 +17703,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 17701,Chiller Diller Movie Thriller,"Animation,Comedy",24,83,24,
 17702,Caroline and Richard's Mom,"Comedy,Romance",22,67,9,James Burrows
 17703,Garfield in Paradise,"Animation,Short,Comedy",24,76,298,Phil Roman
-17704,Episode #1.42,Television,44,58,6,"Terry Donohue,Quinn Saunders"
+17704,Episode #1.42,"Television,Television",44,58,6,"Terry Donohue,Quinn Saunders"
 17705,Cartoon Sushi,"Animation,Comedy",30,69,36,Banx
 17706,Jackass,"Action,Comedy,Television",535,72,17723,"Spike Jonze,Johnny Knoxville,Jeff Tremaine"
 17707,Where Is Stallone?,"Animation,Action,Comedy",21,77,6,Eric Fogel
@@ -18334,9 +18334,9 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 18332,Two Deaths,"Drama,War",99,67,377,Nicolas Roeg
 18333,Insignificance,"Drama,Comedy",110,67,2396,Nicolas Roeg
 18334,The Wicker Man Enigma,"Documentary,Short",35,76,167,David Gregory
-18335,Deep Red,"Horror,Mystery",126,77,21550,Dario Argento
+18335,Deep Red,"Horror,Mystery,Mystery",126,77,21550,Dario Argento
 18336,Carnival of Souls,"Fantasy,Horror,Mystery",78,72,13732,Herk Harvey
-18337,The Wicker Man,"Horror,Mystery",88,76,48696,Robin Hardy
+18337,The Wicker Man,"Horror,Mystery,Mystery",88,76,48696,Robin Hardy
 18338,Eyes Without a Face,"Drama,Horror",90,78,17139,Georges Franju
 18339,Repulsion,"Drama,Horror,Mystery",105,78,35861,Roman Polanski
 18340,Reefer Madness: DVD,Comedy,23,82,36,Doug Walker
@@ -18378,7 +18378,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 18376,Overheard 3,"Crime,Mystery",131,60,638,"Felix Chong,Alan Mak"
 18377,Two Thumbs Up,"Action,Drama",103,63,388,Ho Leung Lau
 18378,Don't Go Breaking My Heart 2,Romance,0,55,348,Johnnie To
-18379,Insanity,Mystery,96,57,295,Kwong-yiu Lee
+18379,Insanity,"Mystery,Mystery",96,57,295,Kwong-yiu Lee
 18380,Murmur of the Hearts,Drama,119,64,257,Sylvia Chang
 18381,Paris Holiday,Romance,114,57,87,James Yuen
 18382,Girlfriend Boyfriend,"Drama,Romance",106,70,975,Ya-che Yang
@@ -18437,7 +18437,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 18435,Mr. Dough and the Egg Princess,"Animation,Short,Fantasy",12,77,446,Hayao Miyazaki
 18436,Conan the Future Boy: The Big Giant Robot's Resurrection,Animation,49,72,116,Hayao Miyazaki
 18437,The Island of Dr. Moreau,"Horror,Sci-Fi,Mystery",96,44,26280,"John Frankenheimer,Richard Stanley"
-18438,The Return,"Drama,Mystery",105,80,32030,Andrey Zvyagintsev
+18438,The Return,"Drama,Mystery,Mystery",105,80,32030,Andrey Zvyagintsev
 18439,Lost Soul: The Doomed Journey of Richard Stanley's Island of Dr. Moreau,Documentary,97,75,1902,David Gregory
 18440,Big Bird in Japan,Family,60,75,124,Jon Stone
 18441,Video Nasties: Draconian Days,Documentary,97,81,163,Jake West
@@ -18620,12 +18620,12 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 18618,Darlings!,Comedy,101,64,1761,Ruud van Hemert
 18619,Diary of a Hooker,Comedy,90,58,797,Paul Verhoeven
 18620,Soldier of Orange,"Drama,Romance,Mystery",165,78,9121,Paul Verhoeven
-18621,The 4th Man,"Drama,Mystery",102,73,5372,Paul Verhoeven
+18621,The 4th Man,"Drama,Mystery,Mystery",102,73,5372,Paul Verhoeven
 18622,Turkish Delight,"Drama,Romance",108,72,7890,Paul Verhoeven
 18623,Katie Tippel,Drama,100,67,1789,Paul Verhoeven
 18624,Joe,Drama,117,69,37091,David Gordon Green
 18625,Episode #2.24,Television,30,,,
-18626,The Village,"Drama,Mystery",108,65,195685,M. Night Shyamalan
+18626,The Village,"Drama,Mystery,Mystery",108,65,195685,M. Night Shyamalan
 18627,The Tree of Life,"Drama,Fantasy",139,67,138284,Terrence Malick
 18628,Down Terrace,"Comedy,Crime,Drama",89,65,2723,Ben Wheatley
 18629,The Iceman,"Biography,Crime,Drama",106,69,56514,Ariel Vromen
@@ -18739,7 +18739,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 18737,Lessons from a Calf,,0,78,36,Hirokazu Koreeda
 18738,The Beekeeper,Drama,122,74,1410,Theodoros Angelopoulos
 18739,inaru gen'ei,"Drama,Romance,Sci-Fi",95,68,220,Kiyoshi Kurosawa
-18740,Sakebi,"Horror,Mystery",104,64,1924,Kiyoshi Kurosawa
+18740,Sakebi,"Horror,Mystery,Mystery",104,64,1924,Kiyoshi Kurosawa
 18741,Pulse,"Horror,Mystery,Sci-Fi",118,66,11832,Kiyoshi Kurosawa
 18742,Real,"Drama,Sci-Fi",127,57,650,Kiyoshi Kurosawa
 18743,Doppelganger,"Comedy,Fantasy,Mystery",107,66,1015,Kiyoshi Kurosawa
@@ -18753,7 +18753,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 18751,Har! Jun'ichi,Comedy,91,72,11,"Katsuhito Ishii,Kanoko Kawaguchi"
 18752,Survive Style 5+,"Fantasy,Mystery,Romance",120,77,8016,Gen Sekiguchi
 18753,Adrift in Tokyo,Comedy,101,75,1783,Satoshi Miki
-18754,Shark Skin Man and Peach Hip Girl,"Mystery,Action",108,69,1820,Katsuhito Ishii
+18754,Shark Skin Man and Peach Hip Girl,"Mystery,Action,Mystery",108,69,1820,Katsuhito Ishii
 18755,Funky Forest: The First Contact,Comedy,150,69,1833,"Katsuhito Ishii,Hajime Ishimine"
 18756,However...,,0,65,22,Hirokazu Koreeda
 18757,Love Letter,"Drama,Romance",117,80,4866,Shunji Iwai
@@ -18773,7 +18773,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 18771,The First Movie,Documentary,76,74,182,Mark Cousins
 18772,The Story of Film: An Odyssey,"Documentary,History",60,84,2914,
 18773,No Tears for the Dead,"Action,Drama",116,68,3411,Jeong-beom Lee
-18774,End Roll,"Horror,Mystery",72,56,54,"Giacomo Gabrielli,Daniele Misischia"
+18774,End Roll,"Horror,Mystery,Mystery",72,56,54,"Giacomo Gabrielli,Daniele Misischia"
 18775,New World,Mystery,0,,,
 18776,Sympathy for Mr. Vengeance,"Crime,Drama,Mystery",0,,,
 18777,Snowpiercer,"Action,Drama,Sci-Fi",126,70,185797,Joon-ho Bong
@@ -18812,7 +18812,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 18810,Visionado obligado,Comedy,0,78,5,"David Daz,Iaki Reyna"
 18811,Bone Tomahawk,"Adventure,Drama,Horror",132,71,37986,S. Craig Zahler
 18812,Killers,"Crime,Drama,Mystery",137,65,3775,"Kimo Stamboel,Timo Tjahjanto"
-18813,The Treatment,Mystery,131,72,5124,Hans Herbots
+18813,The Treatment,"Mystery,Mystery",131,72,5124,Hans Herbots
 18814,Big Bad Wolf,"Comedy,Horror",95,54,1945,Lance W. Dreesen
 18815,Footnote,"Comedy,Drama",107,71,4622,Joseph Cedar
 18816,Borgman,"Drama,Mystery",113,68,11929,Alex van Warmerdam
@@ -19056,7 +19056,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 19054,Tyrannosaur,Drama,92,76,25060,Paddy Considine
 19055,The Making of Spike Island,"Documentary,Short,Musical",0,,,
 19056,Set It Up,Comedy,0,,,Claire Scanlon
-19057,Voice from the Stone,"Drama,Mystery",0,,,Eric D. Howell
+19057,Voice from the Stone,"Drama,Mystery,Mystery",0,,,Eric D. Howell
 19058,Common,"Crime,Drama",90,73,966,David Blair
 19059,Dom Hemingway,"Comedy,Crime,Drama",93,62,21617,Richard Shepard
 19060,Weekender,"Drama,Musical",90,55,1526,Karl Golden
@@ -19068,13 +19068,13 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 19066,The Football Factory,"Crime,Drama,Sport",91,69,24148,Nick Love
 19067,The Making of 'Carlito's Way',"Documentary,Short",35,38,142,Laurent Bouzereau
 19068,Casualties of War,"Crime,Drama,War",113,71,33621,Brian De Palma
-19069,Snake Eyes,"Crime,Mystery",98,59,64671,Brian De Palma
+19069,Snake Eyes,"Crime,Mystery,Mystery",98,59,64671,Brian De Palma
 19070,Kick-Ass/Death at a Funeral/The Joneses,Comedy,30,,,
 19071,Passion,"Crime,Drama,Mystery",102,53,16947,Brian De Palma
 19072,Wise Guys,"Comedy,Crime",100,56,4362,Brian De Palma
 19073,Redacted,"Crime,Mystery,War",90,61,8911,Brian De Palma
 19074,Femme Fatale,"Crime,Drama,Mystery",114,63,28832,Brian De Palma
-19075,Dressed to Kill,Mystery,105,71,24483,Brian De Palma
+19075,Dressed to Kill,"Mystery,Mystery",105,71,24483,Brian De Palma
 19076,Phantom of the Paradise,"Comedy,Drama,Fantasy",92,74,11358,Brian De Palma
 19077,The Fury,"Drama,Mystery",118,64,9731,Brian De Palma
 19078,1900,"Crime,Drama,History",317,77,17741,Bernardo Bertolucci
@@ -19358,7 +19358,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 19356,California Split,"Comedy,Drama",108,73,3714,Robert Altman
 19357,Thieves Like Us,"Crime,Drama,Romance",123,71,3259,Robert Altman
 19358,Short Cuts,"Comedy,Drama",187,77,35509,Robert Altman
-19359,3 Women,"Drama,Mystery",124,79,9583,Robert Altman
+19359,3 Women,"Drama,Mystery,Mystery",124,79,9583,Robert Altman
 19360,McCabe & Mrs. Miller,"Drama,Western",120,77,16281,Robert Altman
 19361,The Long Goodbye,"Comedy,Crime,Drama",112,77,18588,Robert Altman
 19362,More American Graffiti,"Comedy,Drama,War",110,52,3171,Bill Norton
@@ -19397,7 +19397,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 19395,Fort Apache,Western,125,76,12743,John Ford
 19396,Chariots of Fire,"Biography,Drama,Sport",125,72,41121,Hugh Hudson
 19397,Episode #1.8,"Crime,Drama,Mystery",60,88,300,John Alexander
-19398,The Conversation,"Drama,Mystery",113,79,75648,Francis Ford Coppola
+19398,The Conversation,"Drama,Mystery,Mystery",113,79,75648,Francis Ford Coppola
 19399,In the Heat of the Night,"Crime,Drama,Mystery",109,80,50064,Norman Jewison
 19400,Live at the Rainbow,,83,85,63,
 19401,The Wall: Live in Berlin,"Documentary,Musical",115,87,1629,"Ken O'Neill,Roger Waters"
@@ -19467,7 +19467,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 19465,The Odyssey,"Documentary,Short",30,80,32,Asif Kapadia
 19466,Silver Ghost,Drama,0,,,
 19467,Senna,"Documentary,Biography,Sport",106,86,46477,Asif Kapadia
-19468,The Return,"Horror,Mystery",85,48,10118,Asif Kapadia
+19468,The Return,"Horror,Mystery,Mystery",85,48,10118,Asif Kapadia
 19469,Maradona by Kusturica,"Documentary,Sport",90,67,4647,Emir Kusturica
 19470,The Warrior,"Adventure,Drama",86,68,2193,Asif Kapadia
 19471,Far North,"Crime,Drama,Romance",89,62,2445,Asif Kapadia
@@ -19624,7 +19624,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 19622,Stephen Merchant: Hello Ladies... Live!,Comedy,78,72,606,Matt Askem
 19623,The Dinner,Comedy,28,80,193,Stephen Merchant
 19624,Long Beach,Comedy,29,80,174,Julian Farino
-19625,Big Brother,Television,60,43,2325,
+19625,Big Brother,"Television,Television",60,43,2325,
 19626,The Drive,Comedy,28,81,165,Stephen Merchant
 19627,Episode #16.31,Television,115,,,Nick Pinn
 19628,Thorpe Park,Comedy,22,82,444,Gordon Anderson
@@ -19829,8 +19829,8 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 19827,Night Chase,"Drama,Mystery",95,76,66,Jack Starrett
 19828,The Surreal Life: Fame Games,Television,60,56,134,"Mark Cronin,Cris Abrego"
 19829,The Two Coreys,"Comedy,Television",30,63,964,
-19830,Rock of Love with Bret Michaels,"Television,Musical",0,50,1464,"Mark Cronin,Cris Abrego"
-19831,Flavor of Love,"Television,Romance",60,45,1727,"Cris Abrego,Mark Cronin"
+19830,Rock of Love with Bret Michaels,"Television,Musical,Television",0,50,1464,"Mark Cronin,Cris Abrego"
+19831,Flavor of Love,"Television,Television,Romance",60,45,1727,"Cris Abrego,Mark Cronin"
 19832,Strange Love,"Comedy,Television,Romance",60,26,106,"Cris Abrego,Mark Cronin"
 19833,Mel's Dinner,"Comedy,Television",22,53,7,
 19834,The Children's Play,"Comedy,Television",22,60,6,
@@ -20029,7 +20029,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20027,Fiza,"Drama,Romance",170,62,2839,Khalid Mohamed
 20028,Baazi,"Action,Mystery,Crime",183,66,1482,Ashutosh Gowariker
 20029,Cocktail,"Comedy,Drama,Romance",146,62,10088,Homi Adajania
-20030,Pehla Nasha,"Mystery,Drama",131,53,242,Ashutosh Gowariker
+20030,Pehla Nasha,"Mystery,Drama,Mystery",131,53,242,Ashutosh Gowariker
 20031,Dum Maaro Dum,"Action,Crime,Drama",128,62,3286,Rohan Sippy
 20032,Karthik Calling Karthik,"Drama,Romance,Mystery",135,70,6336,Vijay Lalwani
 20033,What's Your Raashee?,"Comedy,Drama,Romance",195,47,2060,Ashutosh Gowariker
@@ -20093,7 +20093,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20091,Waiting,Drama,92,73,708,Anu Menon
 20092,Traffic,Mystery,104,68,1586,Rajesh Pillai
 20093,Ishq Vishk,"Comedy,Romance",134,61,3157,Ken Ghosh
-20094,36 China Town,"Comedy,Mystery",140,56,2907,"Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla"
+20094,36 China Town,"Comedy,Mystery,Mystery",140,56,2907,"Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla"
 20095,Dil Maange More!!!,Romance,0,51,1319,Ananth Narayan Mahadevan
 20096,Dil Bole Hadippa!,"Comedy,Drama,Sport",148,46,2791,Anurag Singh
 20097,Phata Poster Nikhla Hero,"Action,Comedy",146,49,3101,Rajkumar Santoshi
@@ -20105,7 +20105,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20103,Queen,"Adventure,Comedy,Drama",146,84,42310,Vikas Bahl
 20104,Teri Meri Kahaani,"Comedy,Drama,Romance",117,47,3164,Kunal Kohli
 20105,Swades,Drama,189,83,59418,Ashutosh Gowariker
-20106,Kahaani,"Drama,Mystery",122,82,39844,Sujoy Ghosh
+20106,Kahaani,"Drama,Mystery,Mystery",122,82,39844,Sujoy Ghosh
 20107,Lage Raho Munna Bhai,"Comedy,Drama,Romance",144,81,28860,Rajkumar Hirani
 20108,A Wednesday,"Crime,Drama,Mystery",104,85,43623,Neeraj Pandey
 20109,Munna Bhai M.B.B.S.,"Comedy,Drama",156,84,42976,Rajkumar Hirani
@@ -20143,7 +20143,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20141,Akhiyon Se Goli Maare,"Comedy,Romance",146,48,456,Harmesh Malhotra
 20142,Vennila Kabadi Kuzhu,"Drama,Romance,Sport",145,72,162,Suseenthiran
 20143,Amma Nanna O Tamila Ammayi,"Drama,Sport",154,73,426,Puri Jagannadh
-20144,Karthikeya,Mystery,113,74,1050,Chandoo Mondeti
+20144,Karthikeya,"Mystery,Mystery",113,74,1050,Chandoo Mondeti
 20145,Swamy Ra Ra,Crime,120,75,739,Sudheer Varma
 20146,Happy Days,Drama,153,79,2392,Sekhar Kammula
 20147,Yevade Subramanyam,"Adventure,Comedy,Drama",150,77,993,Nag Ashwin
@@ -20197,7 +20197,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20195,Killing Veerappan,"Biography,Crime",151,78,483,Ram Gopal Varma
 20196,Vangaveeti,Crime,0,,,Ram Gopal Varma
 20197,Ice Cream,Romance,144,46,77,Ram Gopal Varma
-20198,Montage,"Crime,Mystery",120,75,2232,Geun-seop Jeong
+20198,Montage,"Crime,Mystery,Mystery",120,75,2232,Geun-seop Jeong
 20199,Ganga Devi,Drama,0,57,32,Abhishek Chhadha
 20200,Madaari,"Adventure,Crime,Drama",133,79,4996,Nishikant Kamat
 20201,Anand,Drama,122,89,12824,Hrishikesh Mukherjee
@@ -20231,7 +20231,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20229,Holiday,"Action,Drama,Mystery",170,74,16793,A.R. Murugadoss
 20230,Tom Horn and Petrus Romanus,"News,Television",89,,,
 20231,The Blob,"Comedy,Horror,Sci-Fi",120,,,
-20232,Come Back to Me,"Horror,Mystery",90,59,3734,Paul Leyden
+20232,Come Back to Me,"Horror,Mystery,Mystery",90,59,3734,Paul Leyden
 20233,Dark Water,"Drama,Horror,Mystery",105,56,45410,Walter Salles
 20234,Gumshoe,"Short,Comedy,Crime",5,80,268,Matt Steinauer
 20235,Boogeyman,"Drama,Horror,Mystery",89,41,26179,Stephen Kay
@@ -20272,7 +20272,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20270,Episode #2.5,"Comedy,Drama",40,79,57,Annie Griffin
 20271,Episode #2.7,"Comedy,Drama",40,79,60,Annie Griffin
 20272,The Great Gatsby,"Drama,Romance",144,64,19566,Jack Clayton
-20273,Live Reunion,Television,42,65,20,
+20273,Live Reunion,"Television,Television",42,65,20,
 20274,Cloud Atlas,"Drama,Sci-Fi",172,75,288306,"Tom Tykwer,Lana Wachowski"
 20275,Episode dated 25 November 2006,Television,30,,,
 20276,Spy vs. Spy Kids/The Superhero Millionaire Matchmaker,"Animation,Comedy",12,62,18,Aaron Horvath
@@ -20388,8 +20388,8 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20386,Masss,"Action,Comedy,Horror",151,62,2226,Venkat Prabhu
 20387,Anything for Her,"Crime,Drama,Mystery",96,72,7200,Fred Cavay
 20388,Maattrraan,"Action,Sci-Fi,Mystery",165,58,3495,Anand K.V.
-20389,The Maniac 2:The Hell Is Back,"Fantasy,Mystery",120,,,Prashant Passy Pilley
-20390,The Maniac 3D: What the Hell on Mind,Mystery,125,,,Prashant Passy Pilley
+20389,The Maniac 2:The Hell Is Back,"Fantasy,Mystery,Mystery",120,,,Prashant Passy Pilley
+20390,The Maniac 3D: What the Hell on Mind,"Mystery,Mystery",125,,,Prashant Passy Pilley
 20391,Saheb Biwi Aur Gangster,"Action,Crime,Drama",118,72,2970,Tigmanshu Dhulia
 20392,Luv Shuv Tey Chicken Khurana,Comedy,140,66,2924,Sameer Sharma
 20393,Veeram: Macbeth,"Action,Drama,History",100,,,Jayaraaj
@@ -20485,7 +20485,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20483,Hungry Wives,Drama,130,54,1461,George A. Romero
 20484,Bruiser,"Comedy,Horror",99,53,4696,George A. Romero
 20485,Two Evil Eyes,Horror,120,61,4372,"Dario Argento,George A. Romero"
-20486,The Dark Half,"Horror,Mystery",122,59,12021,George A. Romero
+20486,The Dark Half,"Horror,Mystery,Mystery",122,59,12021,George A. Romero
 20487,The Crazies,"Action,Horror,Sci-Fi",103,61,8131,George A. Romero
 20488,Knightriders,"Action,Drama",146,64,3237,George A. Romero
 20489,Dashonda Jackson Vs the Killer Robots,"Animation,Short,Comedy",5,,,Kelvin Beer
@@ -20527,7 +20527,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20525,The Quick and the Dead,"Action,Romance,Mystery",107,64,69991,Sam Raimi
 20526,Grumpy Cat's Worst Christmas Ever,Comedy,29,81,7,Brad Jones
 20527,The Jazz Age,"Short,History",1,,,
-20528,Flowers in the Attic,"Drama,Mystery",93,56,7637,Jeffrey Bloom
+20528,Flowers in the Attic,"Drama,Mystery,Mystery",93,56,7637,Jeffrey Bloom
 20529,J. Edgar,"Biography,Crime,Drama",137,66,103999,Clint Eastwood
 20530,What's Eating Gilbert Grape,Drama,118,78,173899,Lasse Hallstrm
 20531,The Basketball Diaries,"Biography,Crime,Drama",102,73,81498,Scott Kalvert
@@ -20596,10 +20596,10 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20594,Rise of the Fellowship,"Adventure,Comedy,Fantasy",92,44,579,Ron Newcomb
 20595,The Sign of Four,Mystery,90,62,415,Rodney Gibbons
 20596,The Hound of the Baskervilles: Part Two,"Horror,Crime,Drama",50,71,65,
-20597,Terror by Night,Mystery,60,70,3926,Roy William Neill
+20597,Terror by Night,"Mystery,Mystery",60,70,3926,Roy William Neill
 20598,Dressed to Kill,Mystery,76,70,3969,Roy William Neill
 20599,Pursuit to Algiers,"Adventure,Crime,Mystery",65,72,2446,Roy William Neill
-20600,The Scarlet Claw,"Crime,Mystery",74,76,3541,Roy William Neill
+20600,The Scarlet Claw,"Crime,Mystery,Mystery",74,76,3541,Roy William Neill
 20601,The Hound of the Baskervilles,"Crime,Horror,Mystery",74,64,238,Barry Crane
 20602,The Hound of the Baskervilles,"Comedy,Crime,Horror",78,45,811,Paul Morrissey
 20603,The Hound of the Baskervilles,"Horror,Mystery",87,70,6699,Terence Fisher
@@ -20610,13 +20610,13 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20608,The Hound of the Baskervilles,"Crime,Drama,Horror",105,80,2988,Brian Mills
 20609,Sherlock Holmes and the Secret Weapon,"Adventure,Crime,Drama",68,68,4040,Roy William Neill
 20610,Sherlock Holmes and the Case of the Silk Stocking,"Crime,Drama,Mystery",99,68,2100,Simon Cellan Jones
-20611,The House of Fear,"Crime,Mystery",69,75,3213,Roy William Neill
+20611,The House of Fear,"Crime,Mystery,Mystery",69,75,3213,Roy William Neill
 20612,The Pearl of Death,"Crime,Drama,Mystery",69,75,2861,Roy William Neill
-20613,The Spider Woman,Mystery,63,74,3030,Roy William Neill
+20613,The Spider Woman,"Mystery,Mystery",63,74,3030,Roy William Neill
 20614,Sherlock Holmes in Washington,Mystery,71,70,2814,Roy William Neill
 20615,Sherlock Holmes Faces Death,"Crime,Mystery,Romance",68,72,3092,Roy William Neill
-20616,The Hound of the Baskervilles,"Horror,Mystery",80,76,7342,Sidney Lanfield
-20617,Sherlock Holmes and the Voice of Terror,"Crime,Mystery",65,68,2992,John Rawlins
+20616,The Hound of the Baskervilles,"Horror,Mystery,Mystery",80,76,7342,Sidney Lanfield
+20617,Sherlock Holmes and the Voice of Terror,"Crime,Mystery,Mystery",65,68,2992,John Rawlins
 20618,French Kiss,"Comedy,Drama,Romance",111,65,39037,Lawrence Kasdan
 20619,San Andreas,"Action,Adventure,Drama",114,61,151620,Brad Peyton
 20620,Heston's Roman Feast,Documentary,60,,,Jay Taylor
@@ -20647,7 +20647,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20645,The Man with One Red Shoe,"Comedy,Mystery",92,56,11769,Stan Dragoti
 20646,A Good Old Fashioned Orgy,"Comedy,Romance",95,62,18352,"Alex Gregory,Peter Huyck"
 20647,Major League II,"Comedy,Sport",105,55,20700,David S. Ward
-20648,The 'Burbs,"Comedy,Mystery",101,68,51913,Joe Dante
+20648,The 'Burbs,"Comedy,Mystery,Mystery",101,68,51913,Joe Dante
 20649,Joe Versus the Volcano,"Comedy,Romance",102,57,28303,John Patrick Shanley
 20650,The Money Pit,Comedy,91,63,38481,Richard Benjamin
 20651,Major League,"Comedy,Sport",107,72,49514,David S. Ward
@@ -20696,10 +20696,10 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20694,Regarding Henry,"Drama,Romance",108,67,23615,Mike Nichols
 20695,Hide and Seek,"Drama,Horror,Mystery",101,59,70877,John Polson
 20696,Firewall,"Crime,Mystery",105,58,50455,Richard Loncraine
-20697,Presumed Innocent,Mystery,127,69,29686,Alan J. Pakula
+20697,Presumed Innocent,"Mystery,Mystery",127,69,29686,Alan J. Pakula
 20698,The Gift,"Drama,Fantasy,Horror",111,67,52575,Sam Raimi
-20699,The Skeleton Key,"Horror,Mystery",104,65,88613,Iain Softley
-20700,Gothika,"Horror,Mystery",98,58,90477,Mathieu Kassovitz
+20699,The Skeleton Key,"Horror,Mystery,Mystery",104,65,88613,Iain Softley
+20700,Gothika,"Horror,Mystery,Mystery",98,58,90477,Mathieu Kassovitz
 20701,The Mothman Prophecies,"Drama,Horror,Mystery",119,65,64292,Mark Pellington
 20702,The Pianist,"Biography,Drama,War",150,85,509027,Roman Polanski
 20703,Robin Williams Remembered,"Documentary,History",53,76,250,Steve Boettcher
@@ -20733,7 +20733,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20731,Soccer AM,"Comedy,Sport,Television",180,69,648,
 20732,Tipping Point,Television,60,57,100,
 20733,Potjera,Television,60,83,31,
-20734,Come Dine with Me,Television,48,68,299,
+20734,Come Dine with Me,"Television,Television",48,68,299,
 20735,Review of the Year 2007,"Documentary,Comedy",30,83,12,Al Campbell
 20736,Heartbeat,"Drama,Comedy,Crime",50,68,1801,
 20737,"Auf Wiedersehen, Pet","Comedy,Drama",60,86,1929,Franc Roddam
@@ -20843,7 +20843,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20841,The Sonny and Cher Show,"Comedy,Musical",60,70,270,
 20842,Inside,Short,8,75,683,Trevor Sands
 20843,Paradox,"Short,Mystery",19,70,261,Jeremy Haccoun
-20844,Inner Demons,"Horror,Mystery",85,52,1694,Seth Grossman
+20844,Inner Demons,"Horror,Mystery,Mystery",85,52,1694,Seth Grossman
 20845,R'ha,"Animation,Short,Sci-Fi",6,71,860,Kaleb Lechowski
 20846,The Devil Inside,Horror,83,42,30849,William Brent Bell
 20847,Apartment 143,"Horror,Mystery",80,51,9682,Carles Torrens
@@ -20918,7 +20918,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20916,Jude,"Drama,Romance",123,70,8725,Michael Winterbottom
 20917,Kathy Griffin,Comedy,28,58,6,Keith Truesdell
 20918,Louis C.K.,Comedy,27,76,55,Keith Truesdell
-20919,Detective Byomkesh Bakshy!,"Action,Mystery",139,77,10218,Dibakar Banerjee
+20919,Detective Byomkesh Bakshy!,"Action,Mystery,Mystery",139,77,10218,Dibakar Banerjee
 20920,Dohchay,Action,138,60,268,Sudheer Varma
 20921,Pavitra Rishta,Drama,24,38,151,
 20922,HBO Comedy Half-Hour,Comedy,28,82,157,
@@ -20929,7 +20929,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 20927,Vaisakhi List,Comedy,143,66,172,Smeep Kang
 20928,Miss Congeniality 2: Armed and Fabulous,"Action,Comedy,Crime",115,50,52056,John Pasquin
 20929,Chandramukhi,"Comedy,Fantasy,Horror",166,70,3525,P. Vasu
-20930,Dhruva Natchathiram,"Crime,Mystery",0,,,
+20930,Dhruva Natchathiram,"Crime,Mystery,Mystery",0,,,
 20931,Madha Gaja Raja,"Action,Comedy",146,,,Sundar C.
 20932,Peda Rayudu,Drama,165,76,419,Ravi Raja Pinisetty
 20933,Bulandi,"Drama,Musical,Romance",175,53,462,Rama Rao Tatineni
@@ -21074,7 +21074,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 21072,Wake Up Sid,"Comedy,Drama,Romance",138,76,18826,Ayan Mukherjee
 21073,Tanu Weds Manu Returns,"Comedy,Drama,Romance",128,78,18013,Aanand Rai
 21074,Jaane Tu... Ya Jaane Na,"Comedy,Drama,Romance",155,75,18462,Abbas Tyrewala
-21075,Rockstar,"Drama,Musical",159,76,26362,Imtiaz Ali
+21075,Rockstar,"Drama,Musical,Musical",159,76,26362,Imtiaz Ali
 21076,Kai po che!,"Drama,Sport",120,77,19829,Abhishek Kapoor
 21077,Yuvvraaj,"Comedy,Drama,Romance",151,41,3006,Subhash Ghai
 21078,Akele Hum Akele Tum,"Drama,Romance",160,71,3313,Mansoor Khan
@@ -21128,7 +21128,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 21126,Jab We Met,"Comedy,Drama,Romance",138,80,31560,Imtiaz Ali
 21127,Vicky Donor,"Comedy,Romance",126,78,27907,Shoojit Sircar
 21128,Goliyon Ki Rasleela Ram-Leela,"Drama,Musical,Romance",150,63,13030,Sanjay Leela Bhansali
-21129,Aashiqui 2,"Drama,Musical",132,70,20518,Mohit Suri
+21129,Aashiqui 2,"Drama,Musical,Musical",132,70,20518,Mohit Suri
 21130,Heropanti,"Action,Romance",146,53,6125,Sabir Khan
 21131,Ek Duuje Ke Liye,"Drama,Musical,Romance",167,75,780,K. Balachander
 21132,Virasat,"Drama,Family,Musical",165,75,1911,Priyadarshan
@@ -21169,7 +21169,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 21167,Ghajini,"Action,Drama,Mystery",183,73,38399,A.R. Murugadoss
 21168,Sarkar Raj,"Action,Crime,Drama",125,68,5348,Ram Gopal Varma
 21169,Tadka,Romance,0,,,Prakash Raj
-21170,Welcome M1LL10NS,Mystery,0,,,Milroy Goes
+21170,Welcome M1LL10NS,"Mystery,Mystery",0,,,Milroy Goes
 21171,Veergatha,History,0,,,Sanjeev Sharma Ronkel
 21172,Young Stalin,Drama,0,,,
 21173,Mahim Fatak Ke Baju Mein,"Adventure,Comedy,Crime",0,,,
@@ -21319,7 +21319,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 21317,Havana,"Drama,Romance,War",144,60,5700,Sydney Pollack
 21318,The Electric Horseman,"Comedy,Western,Drama",121,62,5596,Sydney Pollack
 21319,The Great Waldo Pepper,"Adventure,Drama",107,66,4280,George Roy Hill
-21320,Three Days of the Condor,Mystery,117,75,35941,Sydney Pollack
+21320,Three Days of the Condor,"Mystery,Mystery",117,75,35941,Sydney Pollack
 21321,Brubaker,"Crime,Drama",131,71,11833,Stuart Rosenberg
 21322,"Mr. Turner/Nativity 3: Dude, Where's My Donkey?!",,20,,,Mathew Buck
 21323,Stalag 17,"Drama,War",120,81,43598,Billy Wilder
@@ -21604,7 +21604,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 21602,The Woman,"Crime,Drama,Mystery",88,88,794,Seith Mann
 21603,Episode #5.5,"Crime,Drama,Mystery",60,,,
 21604,A Difference in Kind,"Crime,Drama,Mystery",42,85,268,John Polson
-21605,"The Final Three, Hunty",Television,43,83,37,Nick Murray
+21605,"The Final Three, Hunty","Television,Television",43,83,37,Nick Murray
 21606,Call of Silence,"Action,Comedy,Crime",60,89,887,Thomas J. Wright
 21607,Scope,"Action,Comedy,Crime",43,90,352,Tony Wharmby
 21608,Family First,"Action,Comedy,Crime",42,92,561,Tony Wharmby
@@ -21650,7 +21650,7 @@ Id,Title,Category,Duration,Rating,Rating_Count,Director
 21648,Episode #7.24,"Comedy,Television",22,,,
 21649,Episode #7.22,"Comedy,Television",22,,,
 21650,Rizzoli & Isles,"Crime,Drama,Mystery",60,76,24090,Janet Tamaro
-21651,12 Chefs Compete,Television,45,67,20,Mark Roden
+21651,12 Chefs Compete,"Television,Television",45,67,20,Mark Roden
 21652,Black Market,"Crime,Drama,Mystery",43,82,44,James Hanlon
 21653,The Queen's Gambit,"Crime,Drama,Mystery",43,84,65,Dennis Smith
 21654,Ghost Gun,"Crime,Drama,Mystery",43,,,Benny Boom

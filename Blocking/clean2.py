@@ -19,20 +19,22 @@ def convert(x):
 		return x
 
 def main():
-	with open('setD3.csv', 'r') as in_f:
+	with open('setD.csv', 'r') as in_f:
 		with open('setD4.csv', 'w') as out_f:
 			cr = csv.reader(in_f)
 			otr = csv.writer(out_f)
 			
 			for row in cr:
-				# print(row[5])
-				row[5] = row[5].replace(',','')
-				# if row[4].strip() == 'N/A' or not row[4]:
-				# 	row[4] = None
-				# else:
-				# 	x = row[4].strip().split('/')
-				# 	y = float(x[0]) * 20
-				# 	row[4] = int(y)
+				genre = row[2].split(',')
+				genre = [convert(i) for i in genre]
+				new_genre = []
+				has = {}
+				for i in genre:
+					if not i in has:
+						new_genre += [i]
+						has[i] = None
+
+				row[2] = ','.join(new_genre)
 				otr.writerow(row)
 
 if __name__ == '__main__':
