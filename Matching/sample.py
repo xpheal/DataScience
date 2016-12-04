@@ -10,7 +10,6 @@ def main():
 
 			random.seed(10)
 			in_r = list(in_r)
-			in_r = in_r[1:]
 			sample = random.sample(in_r, 800)
 
 			for row in sample:

@@ -1,501 +1,501 @@
 label,_id,ltable_Id,rtable_Id,ltable_Title,ltable_Category,ltable_Duration,ltable_Rating,ltable_Rating_Count,ltable_Director,ltable_Year,rtable_Title,rtable_Category,rtable_Duration,rtable_Rating,rtable_Rating_Count,rtable_Director,rtable_Year
-0,9362,13312,6740,Day of the Dove,"Action,Adventure,Mystery",51,80,1143,Marvin J. Chomsky,1968,Bed of the Dead,"Art House,International,Horror",88,,9,,2016
-1,534,514,8503,Look Who's Talking Too,"Comedy,Family,Romance",81,45,37174,Amy Heckerling,1990,"Look Who's Talking, Too",Comedy,81,52,196630,"Amy Heckerling,",1990
-0,7027,9308,10211,American Gladiators,"Action,Television,Sport",60,66,1516,,1989,American History X,Drama,118,84,478191,"Tony Kaye,",1998
-1,7907,10731,644,Quest for Fire,"Adventure,Drama,History",100,74,16502,Jean-Jacques Annaud,1982,Quest for Fire,"Action,Adventure,Art House,International,Drama",100,72,8558,"Jean-Jacques Annaud,",1981
-1,9472,13449,8535,The Russia House,"Drama,Romance,Mystery",123,61,11542,Fred Schepisi,1990,The Good House,"Comedy,Drama",,,159,,2015
-0,244,248,8858,Halloween,"Horror,Mystery",91,79,160565,John Carpenter,1978,Halloween,"Horror,Mystery",93,72,300749,"John Carpenter,",1978
-0,3377,4117,1843,The Black Adder,Comedy,195,82,27200,,1982,The Black Dahlia,"Drama,Mystery",121,52,97570,"Brian DePalma,",2006
-0,7579,10101,2972,Superman,Short,0,,,,,Superman II,"Action,Adventure,Science Fiction,Fantasy",127,64,239281,"Richard Lester,Richard Donner,",1981
-0,13326,21331,18474,The Book of Pooh,Family,30,63,352,,2001,The Medal of Honor,"Documentary,Special Interest",90,88,83,"Roger M. Sherman,",2008
-0,8050,10995,18524,The Year of the Mouse,"Animation,Family,Short",6,68,191,"Chuck Jones,Maurice Noble",1965,The Best of Mandy Moore,"Musical,Performing Arts",,,26,,2001
-1,13494,21673,14180,The Karate Kid,"Action,Drama,Family",140,62,121641,Harald Zwart,2010,The Karate Kid 2,Drama,,66,353,"Breck Eisner,",2016
-0,4547,5960,19134,The Shannara Chronicles,"Adventure,Fantasy,Sci-Fi",42,75,33270,"Alfred Gough,Miles Millar",2016,Space Rangers Chronicles 2,"Science Fiction,Fantasy",100,,1,,1993
-0,10707,16206,14763,Comedy Central Roast of Denis Leary,Comedy,99,67,828,John Fortenberry,2003,Comedy Central Roast of Denis Leary,"Comedy,Television",90,66,252,"John Fortenberry,",2004
-0,13282,21302,18963,Home Makeover,"Animation,Short,Comedy",5,71,900,"Kyle Balda,Samuel Tourneux",2010,Hostile Makeover,"Comedy,Mystery,Television",,56,55,"Jerry Ciccoritti,",2009
-0,2626,2803,12589,The Black Hen,Drama,90,76,252,Min Bahadur Bham,2015,Great Black Women,Special Interest,52,,10,,
-0,564,544,6049,The Amazing Spider-Man,"Action,Adventure",136,70,457122,Marc Webb,2012,The Amazing Spider-Man,"Action,Adventure,Science Fiction,Fantasy",136,78,813205,"Marc Webb,",2012
-1,8531,11923,16015,Bad Dreams,"Horror,Mystery",80,56,2441,Andrew Fleming,1988,Bad Dreams,Horror,84,62,1044,"Andrew Fleming,",1988
-0,8030,10932,10503,Lucifer Rising,"Short,Fantasy",29,72,1884,Kenneth Anger,1974,Hate Rising,,60,,8,"Catherine Tambini,",2016
-0,5371,6914,9830,25th Hour,Drama,135,77,151030,Spike Lee,2003,25th Hour,Drama,134,74,79805,"Spike Lee,",2003
-1,1247,1401,8535,The Loud House,"Animation,Action,Comedy",22,79,676,Chris Savino,2016,The Good House,"Comedy,Drama",,,159,,2015
-1,4096,5186,14555,Saturday Night Live: The Best of Eddie Murphy,"Documentary,Comedy",77,75,850,"Andy Breckman,Dave Wilson",,Saturday Night Live: The Best of Saturday TV Funhouse,"Comedy,Television",84,78,71,,2006
-1,12216,18966,2934,For the Love of Spock,"Documentary,Biography",111,78,473,Adam Nimoy,2016,For the Love of Spock,Documentary,111,84,526,"Adam Nimoy,",2016
-0,5918,7585,8787,It's a Wonderful Life,"Drama,Family,Fantasy",130,86,280147,Frank Capra,1947,It's a Wonderful Life,"Classics,Comedy,Drama,Kids,Family,Science Fiction,Fantasy",135,80,216955,"Frank Capra,",1946
-0,731,687,8875,Poltergeist,"Fantasy,Horror",114,74,107698,Tobe Hooper,1982,Poltergeist,Horror,114,68,181435,"Tobe Hooper,",1982
-0,6888,9129,11694,Wrath of the Titans,News,30,,,,2012,Weight of the Nation,Documentary,,84,24,"Dan Chaykin,",2012
-0,2273,2560,11840,The Young Ones,Comedy,410,82,10633,,1982,The Young Visiters,"Comedy,Drama,Kids,Family,Television,Romance",90,70,261,,2003
-0,9883,14168,3937,Conjunction Junction,"Animation,Family,Musical",4,93,38,,1973,Cemetery Junction,Comedy,95,68,13654,"Ricky Gervais,Stephen Merchant,",2010
-1,5818,7490,16544,Gladiator,"Action,Adventure,Drama",155,85,999279,Ridley Scott,2000,Gladiator,"Action,Adventure,Drama",102,68,9758,"Rowdy Herrington,",1992
-0,6253,8020,13765,Gods Behaving Badly,"Comedy,Drama",90,63,72,Marc Turtletaub,2013,Gods Behaving Badly,"Comedy,Drama",,,70,"Marc Turtletaub,",2012
-0,6902,9144,17784,Main Street,Drama,92,47,2170,John Doyle,2012,Main Street,Drama,93,42,1817,"John Doyle,John W. Doyle,",2011
-0,4647,6126,16383,George of the Jungle,"Animation,Adventure,Comedy",0,43,618,,2007,Secret of the Wings,"Action,Adventure,Animation,Kids,Family",92,82,2154,"Peggy Holmes,Robert Gannaway,",2012
-0,11059,16912,7030,The Omega Man,"Action,Sci-Fi",98,66,22884,Boris Sagal,1971,The Wrong Man,"Drama,Mystery,Television,Romance",98,66,107,"Jim McBride,",1993
-1,4298,5550,8759,The Fluffer of Seville,"Comedy,Musical,Television",60,75,11,,2011,The Triplets of Belleville,"Animation,Art House,International,Comedy,Drama",81,80,39976,"Sylvain Chomet,",2003
-0,7485,9941,648,Untitled Hugh Jackman Project,"Action,Adventure",0,,,,,Untitled Wikileaks/HBO Project,Drama,128,60,66,"Bill Condon,",2013
-0,2862,3209,17103,Birds of America,"Comedy,Drama",85,62,4864,Craig Lucas,2010,Pride of Africa,Drama,,,5,"Herman Binge,",2009
-0,11238,17160,17521,Love Me,Mystery,97,54,730,Rick Bota,2013,He Loves Me,"Drama,Television",,46,12,"Jeff Renfroe,",2011
-0,4967,6474,1560,Iron Man,Comedy,0,74,40,,2015,Rain Man,Drama,133,76,312982,"Barry Levinson,",1988
-0,10844,16495,465,Holes,"Adventure,Comedy,Drama",117,71,59030,Andrew Davis,2003,Holes,"Action,Adventure,Comedy,Kids,Family,Mystery",118,66,211357,"Andrew Davis,",2003
-0,5941,7608,8369,Last Knights,"Action,Adventure",115,62,27935,Kazuaki Kiriya,2015,Last Fight,"Action,Adventure",88,,4,"Fred Williamson,",1983
-1,2179,2447,664,Captain America: Civil War,,17,,,Mathew Buck,2016,Captain America: The First Avenger,"Action,Adventure,Mystery",124,74,183944,"Joe Johnston,",2011
-0,7487,9941,4626,Untitled Hugh Jackman Project,"Action,Adventure",0,,,,,Untitled Woody Allen Project,Comedy,,,13,"Woody Allen,",2017
-0,12581,19626,13089,The Drive,Comedy,28,81,165,Stephen Merchant,2013,Sex Drive,Comedy,129,68,74161,"Sean Anders,",2008
-1,3923,5054,1140,The Fits,Drama,72,64,810,Anna Rose Holmer,2016,The Fits,Drama,72,68,1370,"Anna Rose Holmer,",2016
-0,7204,9528,4626,Untitled Bill & Ted Project,Comedy,0,,,Dean Parisot,,Untitled Woody Allen Project,Comedy,,,13,"Woody Allen,",2017
-0,10049,14606,5558,The Young Turks,"Comedy,News,Television",120,70,799,Cenk Uygur,2005,The Young Messiah,"Musical,Performing Arts",,,139,,2007
-1,6148,7894,96,The Accountant,"Comedy,Television",43,,,,2016,The Accountant,Drama,128,80,33264,"Gavin O'Connor,",2016
-0,726,681,5675,The New Adventures of Superman,"Animation,Sci-Fi",30,76,415,,1966,The Adventures of Brer Rabbit,"Animation,Kids,Family",72,68,191,"Byron Vaughns,",2006
-0,9551,13627,7191,CBS This Morning,"News,Television",120,54,40,,1987,April Morning,"Action,Adventure,Drama,Television",93,68,253,"Delbert Mann,",1988
-0,67,63,11292,Untitled Max Landis Project,Adventure,0,,,,,Untitled Secret Service Project ,"Drama,Television",,,64,"Rupert Wainwright,",2002
-0,3861,4933,507,The Kelly File,"News,Television",60,52,253,,2013,The Odessa File,"Action,Adventure,Art House,International,Classics,Drama,Mystery",130,68,3165,"Ronald Neame,",1974
-0,2196,2474,2648,Ghostbusters 2016,"Comedy,Television",51,,,,2016,Ghostbusters 2,"Comedy,Science Fiction,Fantasy",102,64,405977,"Ivan Reitman,",1989
-0,3195,3753,7173,Match of the Day 2,Sport,45,78,518,,2004,Man of the House,"Action,Adventure,Comedy",100,60,61553,"Stephen Herek,",2005
-0,4963,6471,17260,Assassin's Creed 2,"Action,Adventure,History",0,,,,,Assassin's Bullet,"Action,Adventure,Drama,Mystery",89,38,421,"Isaac Florentine,",2012
-1,8788,12263,5125,The Man Who Wasn't There,"Crime,Drama",116,76,86916,"Joel Coen,Ethan Coen",2001,The Man Who Wasn't There,"Comedy,Drama,Romance",117,74,40889,"Joel Coen,",2001
-1,5999,7664,3744,One True Thing,Drama,127,70,9403,Carl Franklin,1998,One Eyed King,Drama,105,56,90,"Robert Moresco,Nathaniel Ryan,",2001
-0,12650,19776,14865,Street Hawk,"Action,Crime,Mystery",60,69,1919,"Paul M. Belous,Robert Wolterstorff,Bruce Lansbury",1985,Street Poet,Drama,87,,0,"E. Paul Edwards,",2010
-0,3936,5069,7936,The Love Witch,"Comedy,Horror",120,67,146,Anna Biller,2016,The Love Inside,,90,,1,"Andy Irvine,Mark Smoot,",2015
-0,5151,6677,3676,The Adventures of Nick,Animation,0,78,26,,2013,The Adventures of Pluto Nash,"Action,Adventure,Comedy,Science Fiction,Fantasy",94,40,32635,"Ron Underwood,",2002
-1,10924,16637,13036,Spy Game,"Action,Crime,Mystery",126,70,122430,Tony Scott,2001,Poet Game,"Art House,International,Drama,Television",,,7,"Silvio Narizzano,",1972
-0,8995,12636,1763,After Lately,Comedy,0,70,490,,2011,After Darkness,"Drama,Horror",104,,13,"Dominique Othenin-Girard,",1985
-0,7384,9803,12298,The Invisible Man,"Comedy,Mystery,Sci-Fi",120,76,2436,,2000,The Invisible Circus,"Drama,Mystery",92,60,3688,"Adam Brooks,",2001
-0,7144,9433,5125,The Man Who Forgot His Wife,Drama,0,,,,,The Man Who Wasn't There,"Comedy,Drama,Romance",117,74,40889,"Joel Coen,",2001
-0,7701,10323,15988,"George Lopez: It's Not Me, It's You","Documentary,Comedy",56,56,174,Troy Miller,2012,"George Lopez: It's Not Me, It's You",Television,56,72,39,"Troy Miller,",2012
-0,1065,1149,1242,Still Walking,Drama,115,80,7618,Hirokazu Koreeda,2008,Still Mine,Drama,102,80,8060,"Michael McGowan,",2013
-0,10699,16200,3550,Mysteries at the Monument,"Biography,History,Mystery",60,77,187,,2013,Mysteries Of The Unseen World,"Documentary,Special Interest",40,80,188,"Louis Schwartzberg,",2013
-1,9578,13656,7720,American Me,"Biography,Crime,Drama",125,72,5967,Edward James Olmos,1992,American Me,Drama,126,82,10214,"Edward James Olmos,",1992
-0,5320,6843,15387,Father of the Bride Part II,"Comedy,Family,Romance",106,59,27000,Charles Shyer,1995,Mother of the Bride,Comedy,95,,77,"Charles Correll,",1993
-0,8224,11349,13437,Shadow Conspiracy,"Action,Mystery",103,49,3827,George P. Cosmatos,1997,Shadow Conspiracy,"Action,Adventure,Drama,Mystery",103,52,2937,"George P. Cosmatos,",1997
-0,2563,2764,237,Alien: Covenant,"Action,Adventure,Horror",0,,,Ridley Scott,2017,Alien: Covenant,"Action,Adventure,Mystery,Science Fiction,Fantasy",120,,17243,"Ridley Scott,",2017
-0,3675,4610,18871,A Bride for Rip Van Winkle,"Drama,Mystery,Romance",179,74,263,Shunji Iwai,2016,Rabbit Ears - Rip Van Winkle,"Animation,Kids,Family,Special Interest",30,,5,,1993
-0,6765,8907,18373,Captain America,"Action,Sci-Fi,War",97,33,8717,Albert Pyun,1990,Captain America,"Action,Adventure,Mystery,Science Fiction,Fantasy",103,42,10609,"Albert Pyun,",1990
-0,3906,5002,15042,My America,Drama,0,63,119,Marcello Daciano,2010,Our America,Drama,95,70,451,"Ernest R. Dickerson,",2002
-1,605,593,4293,The Bourne Ultimatum,"Action,Mystery",115,81,500818,Paul Greengrass,2007,The Bourne Ultimatum,"Action,Adventure,Drama,Mystery",115,82,1921607,"Paul Greengrass,",2007
-1,521,500,13646,Just Visiting,"Comedy,Fantasy,Sci-Fi",88,58,15317,Jean-Marie Poir,2001,Just Visiting,Comedy,87,58,9454,"Jean-Marie Poir,Jean-Marie Gaubert,",2001
-1,8137,11192,3970,Taxi 4,"Action,Comedy",91,56,20224,Grard Krawczyk,2007,Taxi 3,"Action,Adventure",84,64,9323,"Grard Krawczyk,",2003
-0,4935,6443,9823,Pirates of the Caribbean: At World's End,"Action,Adventure,Fantasy",169,71,477886,Gore Verbinski,2007,Pirates of the Caribbean: The Curse of the Black Pearl,"Action,Adventure,Science Fiction,Fantasy",143,78,33123343,"Gore Verbinski,",2003
-0,13402,21502,4563,All Night,"Comedy,Drama",58,61,46,Paul Powell,1918,Prom Night,Horror,91,58,20022,"Paul Lynch,",1980
-0,9940,14283,2955,That Darn Cat,"Action,Comedy,Crime",89,46,3356,Bob Spiers,1997,That Darn Cat,"Action,Adventure,Art House,International,Comedy,Kids,Family",89,50,15345,"Bob Spiers,",1997
-1,10779,16362,2138,You've Been Trumped,Documentary,95,76,1818,Anthony Baxter,2012,You've Been Trumped Too,Documentary,78,62,36,"Anthony Baxter,",2016
-0,1181,1333,11292,Untitled Shimit Amin/YRF Project,Drama,0,,,,,Untitled Secret Service Project ,"Drama,Television",,,64,"Rupert Wainwright,",2002
-0,8741,12218,2374,The Return of Sabata,Western,100,57,1251,Gianfranco Parolini,1971,The Wizard of Malta,"Documentary,Special Interest",,,31,"Alex Roshuk,",1981
-0,1327,1517,2461,The Delivery Man,Comedy,30,73,470,,2015,The Ladies Man,Comedy,84,52,21146,"Reginald Hudlin,",2000
-0,2453,2705,18478,American Blood,"Crime,Drama",0,,,,,American Legends,"Animation,Kids,Family",56,62,5910,"Mark Henn,",2001
-1,6299,8068,280,Miss Julie,"Drama,Romance",129,56,3030,Liv Ullmann,2014,Miss Julie,Drama,133,50,570,"Liv Ullmann,",2014
-0,9294,13119,15955,The Great Gatsby,News,30,,,,2013,The Great Outdoors,Comedy,91,66,47995,"Howard Deutch,",1988
-1,6131,7874,2156,The Intervention,"Comedy,Drama",90,61,1426,Clea DuVall,2016,The Intervention,"Comedy,Drama",90,68,1560,"Clea DuVall,",2016
-1,9852,14112,18613,Let Me In,"Drama,Fantasy,Horror",116,72,93524,Matt Reeves,2010,Lift Me Up,Drama,,,6,"Mark S. Cartier,",2015
-0,1851,2097,8226,In Search of...,"Documentary,Sci-Fi",30,86,598,,1976,In Search of America,Drama,75,58,16,"Paul Bogart,",1971
-0,12707,19873,18594,The Other,Drama,83,60,455,Ariel Rotter,2007,The Other Man,Drama,80,50,4498,"Richard Eyre,",2008
-0,12668,19812,1617,Mississippi Grind,Drama,108,63,10842,"Anna Boden,Ryan Fleck",2015,Mississippi Grind,Drama,108,66,8015,"Ryan Fleck,Anna Boden,",2015
-1,1583,1716,5979,Austin Powers: The Spy Who Shagged Me,"Action,Adventure,Comedy",95,66,182887,Jay Roach,1999,Austin Powers: The Spy Who Shagged Me,"Comedy,Romance",105,66,941702,"Jay Roach,",1999
-1,7235,9565,1833,Erased,"Action,Mystery",100,61,23936,Philipp Stlzl,2012,Erased,"Action,Adventure,Mystery",104,60,10728,"Philipp Stlzl,",2013
-0,2726,2979,3317,Wyrd Sisters,"Animation,Comedy,Fantasy",140,72,703,,1997,Speed Sisters,Documentary,80,,38,"Amber Fares,Amber Fares,",2017
-1,13230,21160,12002,The Music Teacher,Drama,0,,,,,The Music Machine,"Drama,Musical,Performing Arts",90,,60,"Ian Sharp,",1979
-0,3129,3626,16669,Aankhen 2,Mystery,0,,,Anees Bazmee,,Taken 2,Mystery,92,68,212002,"Olivier Megaton,",2012
-1,5713,7394,449,Transformers,"Action,Adventure,Sci-Fi",144,71,517565,Michael Bay,2007,Transformers,"Action,Adventure,Science Fiction,Fantasy",143,82,2383416,"Michael Bay,",2007
-0,7099,9373,6252,Fool's Gold,"Action,Adventure,Comedy",112,57,60163,Andy Tennant,2008,Fool's Gold,"Action,Adventure,Comedy,Romance",112,62,356450,"Andy Tennant,",2008
-0,6785,8919,12247,Captain America,"Animation,Comedy",0,73,40,,2011,Battlefield America,"Drama,Musical,Performing Arts",106,64,4305,"Christopher B. Stokes,",2012
-1,7301,9678,8411,Roll Bounce,"Comedy,Drama,Musical",112,60,5617,Malcolm D. Lee,2005,Roll Bounce,"Comedy,Drama",118,68,56429,"Malcolm D. Lee,",2005
-0,4022,5169,14013,Saturday Night Live: Weekend Update Thursday,Comedy,0,72,514,,2008,Saturday Night Live: The Best of Eddie Murphy,Comedy,86,76,4633,"Dave Wilson,",1998
-1,11155,16973,6955,Honeymoon,"Horror,Mystery",87,56,17616,Leigh Janiak,2014,Honeymoon,Drama,87,60,5596,"Leigh Janiak,",2014
-0,4501,5923,3417,Last Day on Earth,Television,42,61,49,,2016,August 32nd on Earth,"Art House,International,Comedy,Drama,Romance",88,76,135,"Denis Villeneuve,",1998
-1,2352,2635,5814,Hidden in the Woods,Mystery,98,42,289,Patricio Valladares,2016,A Walk In The Woods,"Action,Adventure,Comedy,Drama",98,66,12410,"Ken Kwapis,",2015
-0,10114,14723,15490,Pond Life,"Short,Comedy,Sci-Fi",5,82,671,,2012,Country Life,"Art House,International,Comedy,Drama,Romance",114,62,1064,"Michael Blakemore,",1995
-1,8551,11953,3629,Bank Robber,"Comedy,Crime,Romance",91,44,248,Nick Mead,1993,Bank Robber,Comedy,91,,167,"Nick Mead,",1993
-1,2924,3284,4587,Me ests matando Susana,"Comedy,Drama,Romance",100,73,426,Roberto Sneider,2016,Me ests matando Susana,,102,76,44,"Roberto Sneider,",2016
-0,1958,2199,2794,American Psycho,"Crime,Drama",102,76,363447,Mary Harron,2000,American Psycho,"Comedy,Drama,Horror,Mystery",97,72,302616,"Mary Harron,",2000
-0,4375,5742,18776,First Blood,"Action,Adventure,Drama",93,77,174826,Ted Kotcheff,1982,First Blood,"Action,Adventure",96,70,138269,"Ted Kotcheff,",1982
-0,7467,9931,12601,Nick Fury,"Action,Adventure,Sci-Fi",0,,,,,Alien Fury,"Mystery,Science Fiction,Fantasy",120,,6,"Rob Hedden,",2000
-1,4958,6468,10282,The Weather Man,"Comedy,Drama",102,66,69683,Gore Verbinski,2005,The Best Man,"Comedy,Drama",120,74,30884,"Malcolm D. Lee,",1999
-0,2703,2954,11431,The Smoking Room,Comedy,30,80,632,,2004,Breathing Room,"Comedy,Drama,Romance",90,,9,"Jon Sherman,",1996
-0,10821,16447,3524,Million Dollar Listing NY,Television,0,73,863,,2012,Million Dollar Arm,"Comedy,Drama",124,74,35452,"Craig Gillespie,",2014
-0,10629,16003,1072,Dirty Dancing,"Drama,Musical,Romance",100,69,143791,Emile Ardolino,1987,Dirty Dancing,Drama,180,,11,,2016
-0,13453,21563,12824,The Chase,Television,60,77,308,,2013,The Paper Chase,"Classics,Drama",111,70,4445,"James Bridges,",1973
-0,2856,3209,840,Birds of America,"Comedy,Drama",85,62,4864,Craig Lucas,2010,Birds of America,"Comedy,Drama",85,62,2472,"Craig Lucas,",2008
-0,12739,19971,4250,The Land of the Enlightened,"Documentary,Drama,War",87,74,226,Pieter-Jan De Pue,2016,The Last of England,"Art House,International,Drama,Special Interest,Adult",87,70,1097,"Derek Jarman,",1987
-0,2886,3233,7916,American Crime,Drama,43,77,5848,John Ridley,2015,American Blood,Mystery,,,191,,2016
-1,7867,10611,501,Money Train,"Action,Comedy,Crime",110,56,32538,Joseph Ruben,1995,Runaway Train,"Action,Adventure,Drama",110,70,8024,"Andrey Konchalovskiy,",1985
-0,12663,19807,18230,The Way of the Dragon,"Action,Comedy,Crime",90,73,23359,Bruce Lee,1972,The End of the Line,"Documentary,Special Interest",90,70,3757,"Rupert Murray,",2009
-1,5695,7379,17287,The Haunted Mansion,Comedy,24,71,51,Doug Walker,2015,The Haunted Mansion Mystery,"Kids,Family,Mystery",42,,10,,1983
-1,5375,6928,3463,Blood River,"Drama,Western",92,57,113,Mel Damski,1991,Wind River,Mystery,,,30,"Taylor Sheridan,",2017
-0,7123,9397,4694,The New Boss,Comedy,30,68,31,Nancy Hower,2006,The New Guy,Comedy,82,60,66168,"Ed Decter,Edward Decter,",2002
-1,3665,4590,17963,A Kiss in the Snow,"Short,Drama,Romance",22,55,285,Frank Mosvold,1997,Kiss of the Sun,Horror,,,51,,2006
-1,83,94,119,Queen of Katwe,"Biography,Drama,Sport",124,72,1225,Mira Nair,2016,Queen of Katwe,Drama,124,84,8198,"Mira Nair,",2016
-0,8927,12501,16225,Secret Garden,"Comedy,Drama,Fantasy",60,85,2413,,2010,Secret Smile,"Art House,International,Drama,Mystery,Television",137,78,542,"Christopher Menaul,",2005
-1,11675,17734,16601,Hider in the House,Mystery,104,59,865,Matthew Patrick,1991,House in the South,"Action,Adventure,Drama",95,,0,,1974
-1,716,675,10736,Why Did I Get Married?,"Comedy,Drama",113,56,9908,Tyler Perry,2007,Why Did I Get Married?,"Comedy,Drama,Musical,Performing Arts",118,80,18165,"Tyler Perry,",2007
-0,5434,7004,6641,Sorority Row,"Horror,Mystery",101,51,24284,Stewart Hendler,2009,Sorority Row,Horror,101,46,525244,"Stewart Hendler,",2009
-0,5234,6762,6126,Big Business,Comedy,97,63,9155,Jim Abrahams,1988,Crooked Business,Comedy,95,58,24,"Chris Nyst,",2008
-1,3976,5114,11381,The Standoff,Comedy,90,51,146,Ilyssa Goodman,2016,The Standoff,Comedy,90,,6,"Ilyssa Goodman,",2016
-0,1310,1506,6148,Mission: Impossible,"Action,Adventure,Mystery",110,71,304750,Brian De Palma,1996,Mission: Impossible 2,"Action,Adventure,Mystery",123,60,450940,"John Woo,",2000
-0,4289,5527,12750,The Adventures of Supergirl,"Action,Adventure,Drama",42,87,1041,Glen Winter,2016,New Adventures of Mother Goose,"Kids,Family",42,,3,,1995
-0,7341,9746,17963,Tears of the Sea,"Action,Adventure,Fantasy",43,72,8,Michael Pattinson,2000,Kiss of the Sun,Horror,,,51,,2006
-0,6633,8654,10774,Almost Human,"Horror,Sci-Fi,Mystery",80,46,2328,Joe Begos,2014,Almost Salinas,"Comedy,Drama",92,,11,,2003
-0,9550,13627,2867,CBS This Morning,"News,Television",120,54,40,,1987,Son Of Morning,"Comedy,Drama",81,42,72,"Yanviz Raz,Yaniv Raz,",2011
-0,2593,2780,11292,Untitled Nash Edgerton Project,"Action,Comedy,Drama",0,,,Nash Edgerton,2017,Untitled Secret Service Project ,"Drama,Television",,,64,"Rupert Wainwright,",2002
-0,6400,8246,708,Breaking Point,"Crime,Drama",92,57,191,Bob Clark,1976,Boiling Point,"Action,Adventure,Art House,International,Drama,Mystery",92,54,10261,"James B. Harris,",1993
-1,8123,11168,2724,Starting Over,"Comedy,Romance",105,65,1689,Alan J. Pakula,1979,Starting Over,"Comedy,Romance",105,64,1345,"Alan J. Pakula,",1979
-1,11033,16866,17170,Lonely Boys,"Comedy,Drama,Romance",90,,,Dan Simon,2016,Ghouly Boys,Comedy,,,2,,
-0,3956,5094,17956,Dirty 30,Comedy,86,56,1002,Andrew Bush,2016,Dirty Lies,,94,,1,"Jamie Marshall,",2016
-0,12064,18599,11951,My American Uncle,"Comedy,Drama,Romance",125,80,3453,Alain Resnais,1980,American Made,Mystery,,,176,"Doug Liman,",2017
-1,8608,12031,10039,The Freshman,"Comedy,Crime",102,65,15982,Andrew Bergman,1990,The Freshman,"Comedy,Drama",102,62,11729,"Andrew Bergman,",1990
-0,4452,5863,12199,The Last Kingdom,"Action,History,Romance",60,83,20230,,2015,The Last Sign,"Horror,Mystery",85,54,1474,"Douglas Law,",2004
-1,8522,11915,9890,Being Human,"Comedy,Drama",122,54,3331,Bill Forsyth,1994,Being Julia,"Comedy,Drama",103,70,7507,"Istvn Szab,",2004
-1,9865,14127,5926,What's Cooking?,"Comedy,Drama,Romance",109,71,2277,Gurinder Chadha,2000,What's Cooking?,"Comedy,Drama",118,68,1508,"Gurinder Chadha,",2000
-0,8191,11314,7242,Demetrius and the Gladiators,"Action,Drama,History",101,66,2328,Delmer Daves,1954,Demetrius and the Gladiators,"Action,Adventure,Classics,Drama",101,64,4978,"Delmer Daves,",1954
-0,1029,1085,6640,X-Men: Evolution,"Animation,Action,Drama",23,79,6992,,2000,Dragonball Evolution,"Action,Adventure,Science Fiction,Fantasy",85,48,209898,"James Wong,",2009
-0,2725,2979,2103,Wyrd Sisters,"Animation,Comedy,Fantasy",140,72,703,,1997,Go For Sisters,Drama,122,64,336,"John Sayles,",2013
-0,8019,10922,16013,TV Nation,"Documentary,Comedy,News",60,63,460,,1994,Alien Nation,"Science Fiction,Fantasy",90,60,15844,"Graham Baker,",1988
-0,11048,16896,8365,Inhuman Condition,"Drama,Fantasy",0,84,21,,2016,Critical Condition,"Comedy,Documentary",99,56,2780,"Michael Apted,",1987
-1,7561,10071,10424,Smokin' Aces 2: Assassins' Ball,"Action,Comedy,Crime",86,51,10967,P.J. Pesce,2010,Smokin' Aces 2: Assassin's Ball,"Action,Adventure,Comedy,Drama",89,52,3366,"P.J. Pesce,",2010
-0,6573,8576,10912,Megan Is Missing,"Crime,Drama,Horror",85,49,6312,Michael Goi,2011,Megan Is Missing,Drama,86,54,1136,"Michael Goi,Michael K. Goi,",2011
-1,2225,2512,6847,Jeepers Creepers II,Horror,104,56,45829,Victor Salva,2003,Jeepers Creepers,"Horror,Mystery",89,58,391553,"Victor Salva,",2001
-0,6889,9129,13478,Wrath of the Titans,News,30,,,,2012,Band of the Hand,"Action,Adventure,Drama,Mystery",109,66,2711,"Paul Michael Glaser,",1986
-1,8869,12455,8959,The Class,Drama,128,75,29507,Laurent Cantet,2009,The Class,"Art House,International,Drama",128,76,12447,"Laurent Cantet,",2008
-0,9584,13658,4348,Bad Boys,"Crime,Drama,Mystery",123,72,10973,Rick Rosenthal,1983,Nasty Boys,"Drama,Mystery,Television",96,,38,"Rick Rosenthal,",1989
-0,5722,7397,3358,Transformers: Age of Extinction,"Action,Adventure,Sci-Fi",165,57,245694,Michael Bay,2014,Transformers: Age of Extinction,"Action,Adventure,Science Fiction,Fantasy",157,64,222895,"Michael Bay,",2014
-0,8826,12343,5300,King Kong,"Adventure,Fantasy,Horror",134,58,22712,John Guillermin,1976,King Kong Lives,"Action,Adventure,Horror",105,54,11914,"John Guillermin,",1986
-1,6355,8164,1414,Fading Gigolo,Comedy,90,62,19761,John Turturro,2014,Fading Gigolo,Comedy,90,62,7063,"John Turturro,",2014
-0,8027,10926,17710,The Big One,"Documentary,Comedy,Crime",91,71,7055,Michael Moore,1998,The Big Sleep,"Art House,International,Drama,Mystery",99,58,1444,"Michael Winner,",1978
-0,11498,17485,13986,American Greed,Documentary,0,82,194,,2007,American Crude,"Comedy,Drama",98,44,652,"Craig Sheffer,",2008
-0,2717,2964,16844,Uncle,Comedy,30,78,1460,,2012,Uncle P,"Comedy,Kids,Family",88,82,721,"Bernard Gourley,Master P,",2005
-0,9155,12901,11292,Untitled Marvel Project,,0,,,,2020,Untitled Secret Service Project ,"Drama,Television",,,64,"Rupert Wainwright,",2002
-0,7232,9562,6919,The Raven,"Crime,Mystery",110,64,73507,James McTeigue,2012,The Raven,Mystery,110,64,102450,"James McTeigue,",2012
-1,1617,1746,3381,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure,Family,Fantasy",143,69,290297,Andrew Adamson,2005,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe","Kids,Family,Science Fiction,Fantasy",139,62,34104183,"Andrew Adamson,",2005
-0,6803,8948,7793,Mark of the Devil,"Drama,History,Horror",90,62,2158,"Michael Armstrong,Adrian Hoven",1972,Year of the Dragon,"Drama,Television",90,,20,,2003
-1,579,565,3650,X-Men: Days of Future Past,"Action,Adventure,Sci-Fi",132,80,522396,Bryan Singer,2014,X-Men: Days of Future Past (Rogue Cut),"Action,Adventure",149,88,869,"Bryan Singer,",2014
-0,47,52,3545,The Good Neighbor,Mystery,98,62,3361,Kasra Farahani,2016,Good Neighbors,"Drama,Mystery",98,58,2541,"Jacob Tierney,",2011
-0,7186,9488,10037,Bill & Ted's Excellent Adventures,"Animation,Sci-Fi,Comedy",30,65,1265,,1990,Bill and Ted's Excellent Adventure,"Action,Adventure,Comedy,Science Fiction,Fantasy",105,66,375522,"Stephen Herek,",1989
-0,8773,12253,7197,Broken Trail,Western,184,78,4739,,2006,Broken Vows,"Drama,Mystery",100,,91,"Jud Taylor,",1986
-1,1064,1149,412,Still Walking,Drama,115,80,7618,Hirokazu Koreeda,2008,Still Waters,Mystery,,,3,"Ray Burdis,",2015
-0,829,889,3896,Max to the Future,"Action,Comedy,Family",23,,,,2016,Back to the Future,"Action,Adventure,Comedy,Science Fiction,Fantasy",116,76,1091155,"Robert Zemeckis,",1985
-1,5729,7407,6507,The Wolverine,"Action,Adventure,Sci-Fi",126,67,332781,James Mangold,2013,The Wolverine,"Action,Adventure",136,74,251683,"James Mangold,",2013
-1,1520,1642,2924,The Conjuring 2,"Horror,Mystery",134,76,102551,James Wan,2016,The Conjuring,"Horror,Mystery",112,80,156632,"James Wan,",2013
-0,2491,2736,4626,Untitled Will Smith TV Project,Comedy,0,,,,,Untitled Woody Allen Project,Comedy,,,13,"Woody Allen,",2017
-1,1782,2011,1599,Chronic,Drama,93,67,1106,Michel Franco,2015,Chronic,Drama,93,70,430,"Michel Franco,",2016
-0,9966,14398,5005,Time Chasers,Sci-Fi,89,23,2601,David Giancola,1994,The Dream Chasers,Drama,,,25,"Arthur R. Dubs,",1982
-0,7440,9890,10060,Teenage Mutant Ninja Turtles: Out of the Shadows,,17,,,Mathew Buck,2016,Teenage Mutant Ninja Turtles II - The Secret of the Ooze,"Action,Adventure,Comedy,Kids,Family",88,62,191625,"Michael Pressman,",1991
-0,13100,20836,1841,The Flying Man,Action,0,,,,,The Wicker Man,"Action,Adventure,Drama,Horror,Mystery",106,46,88493,"Neil LaBute,",2006
-0,7948,10784,7742,Return of the Evil Dead,Horror,91,59,1767,Amando de Ossorio,1975,Return of the Thundering Herd,"Documentary,Drama,Special Interest",44,50,34,,2007
-1,2283,2574,6207,The Matrix Revolutions,"Action,Sci-Fi",129,67,368980,"Lana Wachowski,Lilly Wachowski",2003,The Matrix Revolutions,"Mystery,Science Fiction,Fantasy",129,68,790957,"Lana Wachowski,Andy Wachowski,The Wachowski Brothers,",2003
-0,7515,9959,10371,Metal Men,Action,0,,,,,Metal Skin,"Action,Adventure,Drama",112,68,291,"Chris Odgers,Geoffrey Wright,",1994
-1,7152,9444,12457,Beauty Shop,Comedy,105,55,13366,Bille Woodruff,2005,Beauty Shop,Comedy,105,66,65104,"Bille Woodruff,",2005
-0,12692,19843,840,The Manions of America,Drama,290,70,179,,1981,Birds of America,"Comedy,Drama",85,62,2472,"Craig Lucas,",2008
-0,8211,11331,13001,Selected Exits,"Biography,Drama",0,75,37,Tristram Powell,1993,Selected Exits,"Drama,Television",68,,12,"Tristram Powell,",1993
-0,7326,9709,13508,Pinocchio,Animation,93,75,95,Giuliano Cenci,1978,Pinocchio,"Action,Adventure,Drama,Science Fiction,Fantasy",,58,161,"Alberto Sironi,",2008
-1,5624,7295,7737,The Wolf of Wall Street,"Biography,Comedy,Crime",180,82,801468,Martin Scorsese,2013,The Wolf of Wall Street,Drama,179,80,177831,"Martin Scorsese,",2013
-1,11899,18299,9777,Before Night Falls,"Biography,Drama,Romance",133,73,20981,Julian Schnabel,2001,Before Night Falls,Drama,125,76,22088,"Julian Schnabel,",2001
-0,4246,5371,4404,The Yogi Bear Show,"Animation,Family,Comedy",30,67,6348,,1961,The War Show,Documentary,100,,1,"Andreas Dalsgaard,Obaidah Zytoon,",2016
-1,12923,20586,12951,Black Mask,"Short,Horror",20,80,16,Alex Colonna,2014,Black Oasis,"Drama,Horror",,,102,"Stephan Elliott,",2010
-0,11434,17483,5282,American Restoration,Television,0,67,2263,,2010,American Virgin,Comedy,105,44,1193,"Jean-Pierre Marois,",2000
-0,7508,9957,9324,Sister Act,Comedy,0,,,,,Sister,Drama,97,74,2610,"Brenda Davis,",2012
-1,6936,9210,7667,15 Minutes,"Action,Crime,Drama",120,61,42851,John Herzfeld,2001,15 Minutes,"Action,Adventure,Drama,Mystery,Television",110,58,50564,"John Herzfeld,",2001
-0,5381,6935,3973,Taxi,"Action,Comedy,Crime",86,69,62275,Grard Pirs,1998,Taxi 2,"Action,Adventure,Art House,International,Comedy,Drama",85,68,16017,"Grard Krawczyk,",2000
-0,10642,16053,15322,High School Musical,"Comedy,Drama,Family",98,52,60133,Kenny Ortega,2006,High School Musical,"Comedy,Drama,Musical,Performing Arts",98,68,470501,"Kenny Ortega,",2006
-0,8515,11910,14627,Beyond the Stars,"Sci-Fi,Drama",88,53,839,David Saperstein,1989,Beyond the Pole,"Comedy,Documentary,Drama,Special Interest",87,68,188,"David L. Williams,",2009
-1,8576,11998,14089,Ruthless People,"Comedy,Crime",93,69,21649,"Jim Abrahams,David Zucker",1986,Ruthless People,Comedy,93,64,20955,"Jim Abrahams,David Zucker,Jerry Zucker,",1986
-0,2518,2740,8151,The Wild Bunch,Western,0,,,,,The Wild Angels,"Action,Adventure,Classics,Cult Movies,Drama",124,62,1829,"Roger Corman,",1966
-0,12119,18762,6645,The Yellow Balloon,Drama,76,70,139,J. Lee Thompson,1953,The Yellow Birds,Drama,,,17,"Alexandre Moors,",2016
-0,3889,4966,18878,The Boy and the Beast,"Animation,Action,Adventure",119,77,5502,Mamoru Hosoda,2016,Beauty and the Beast,"Kids,Family",50,68,30,,1984
-0,5294,6830,16895,The Devil and Miss Jones,"Comedy,Romance",92,78,2695,Sam Wood,1941,The Pastor and Mrs. Jones,Drama,90,,0,,2012
-0,10144,14759,7911,Lost Survivor Guide,"Documentary,Drama",60,78,64,,2007,Lone Survivor,"Action,Adventure,Drama",122,84,112352,"Peter Berg,",2014
-1,540,520,17782,For Keeps?,"Comedy,Drama,Romance",90,58,3080,John G. Avildsen,1988,For Keeps,"Comedy,Drama",98,68,9252,"John G. Avildsen,",1988
-0,11257,17199,7720,American Nudist,Drama,93,29,369,Clinton H. Wallace,2011,American Me,Drama,126,82,10214,"Edward James Olmos,",1992
-0,3205,3753,15899,Match of the Day 2,Sport,45,78,518,,2004,Out of the Past,"Documentary,Special Interest",64,64,876,"Jeff Dupre,",1998
-1,10529,15762,11916,The Lady in the Lake,"Action,Adventure,Sci-Fi",42,84,1192,Lawrence Trilling,2016,The Lady Vanishes,"Drama,Mystery,Television",90,60,54,"Diarmuid Lawrence,",2013
-0,9643,13733,5419,The Prime Gig,Drama,98,61,1946,Gregory Mosher,2002,The Prime Gig,Drama,96,60,1510,"Gregory Mosher,",2000
-1,9427,13407,5174,"New York, I Love You","Comedy,Drama,Romance",103,63,39916,"Fatih Akin,Yvan Attal",2009,P.S. I Love You,"Comedy,Drama,Romance",127,78,253831,"Richard LaGravenese,",2007
-0,10297,15170,12244,The X Files: I Want to Believe,"Drama,Mystery,Sci-Fi",104,59,78793,Chris Carter,2008,The X-Files: I Want to Believe (The X Files 2),"Drama,Mystery,Science Fiction,Fantasy",104,56,253597,"Chris Carter,",2008
-1,7848,10599,16557,Brawl in the Family,Television,30,,,,2014,It Runs in the Family,"Comedy,Drama",109,54,5792,"Fred Schepisi,",2003
-0,409,364,16498,Captain America,"Animation,Action,Adventure",0,64,471,"Jack Kirby,Joe Simon",1966,Africans in America,Documentary,,,75,,1998
-0,13232,21160,17238,The Music Teacher,Drama,0,,,,,The Music in Me,"Television,Romance",120,,3,"John Bradshaw,",2015
-0,1907,2146,802,Strictly Come Dancing,"Television,Musical",85,59,809,,2004,Strictly Confidential,"Classics,Comedy,Drama,Mystery",300,64,200,"Roberto Bangura,Keith Boak,",2006
-0,4855,6330,8595,Falling in Love Again,"Drama,Romance",103,53,284,Steven Paul,1984,Falling in Love,"Drama,Romance",107,70,6689,"Ulu Grosbard,",1984
-0,7133,9419,11299,The Promotion,Comedy,86,57,16652,Steve Conrad,2008,The Promotion,Comedy,86,56,84723,"Steven Conrad,",2008
-0,4040,5178,17274,Saturday Night Live: The Best of Chris Farley,"Documentary,Comedy",50,82,1925,"Beth McCarthy-Miller,Dave Wilson",,Saturday Night Live - Game Show Parodies,"Comedy,Television",73,80,94,,1999
-0,11768,18015,6565,The Five-Year Engagement,"Comedy,Romance",124,62,79701,Nicholas Stoller,2012,The Five-Year Engagement,Comedy,124,66,266779,"Nicholas Stoller,",2012
-1,4741,6234,7798,The Sure Thing,"Comedy,Drama,Romance",100,70,15678,Rob Reiner,1985,The Best Bad Thing,Television,,,3,"Peter Rowe,",1997
-1,1459,1593,10107,Stargate,"Action,Adventure,Sci-Fi",116,71,150313,Roland Emmerich,1994,Stargate,"Action,Adventure,Science Fiction,Fantasy",125,66,192206,"Roland Emmerich,",1994
-0,758,697,16383,George of the Jungle,"Animation,Family,Comedy",30,71,584,,1967,Secret of the Wings,"Action,Adventure,Animation,Kids,Family",92,82,2154,"Peggy Holmes,Robert Gannaway,",2012
-0,9786,13942,3650,X-Men: Days of Future Past/Blended,"Comedy,Television",78,,,,2014,X-Men: Days of Future Past (Rogue Cut),"Action,Adventure",149,88,869,"Bryan Singer,",2014
-0,9022,12722,17221,Opening Night,"Drama,Musical",43,86,85,Michael Morris,2013,One Night,Drama,97,,83,"Michael Knowles,",2007
-0,12564,19585,18242,Earth to America,Comedy,120,58,84,"Ron de Moraes,Jay Roach",2005,Made in America,Comedy,110,50,42346,"Richard Benjamin,",1993
-0,1731,1918,13270,Little Wing,Drama,100,70,96,Selma Vilhunen,2016,Little Boxes,Drama,84,,10,"Rob Meyer,",2016
-0,13382,21439,17206,Shrek Stories,,72,69,98,,2013,Stockholm Stories,Drama,97,62,16,"Karin Fahln,",2014
-0,4678,6156,11172,Final Destination,"Horror,Mystery",98,67,183368,James Wong,2000,Final Destination,"Horror,Mystery",98,68,482901,"James Wong,",2000
-0,2665,2890,2840,Looking: The Movie,"Comedy,Drama",85,78,2792,Andrew Haigh,2016,Garfield - The Movie,"Action,Adventure,Comedy,Kids,Family",85,58,460493,"Peter Hewitt,",2004
-1,10978,16753,4777,Camp Takota,Comedy,95,69,4090,"Chris Riedell,Nick Riedell",2014,Camp Takota,Comedy,95,76,465,"Chris Riedell,Nick Riedell,",2014
-0,7821,10566,7720,The American West,"History,Western",0,72,446,,2016,American Me,Drama,126,82,10214,"Edward James Olmos,",1992
-0,2315,2597,14202,Shanghai Knights,"Action,Adventure,Comedy",114,62,82577,David Dobkin,2003,Shanghai Knights,"Action,Adventure,Comedy",114,62,334601,"David Dobkin,",2003
-0,5915,7582,2329,5 Flights Up,Drama,92,61,5301,Richard Loncraine,2015,5 Flights Up,Drama,92,62,2758,"Richard Loncraine,",2015
-0,9751,13883,16362,True Stories,"Musical,Comedy",90,70,3571,David Byrne,1986,Toronto Stories,"Art House,International,Drama",89,54,200,"David Weaver,Aaron Woodley,Sook Yin Lee,David Sutherland,",2008
-0,6565,8564,8862,Dracula,Horror,173,43,369,,2002,Dracula,"Classics,Horror",75,74,44317,"Tod Browning,",1931
-1,12892,20530,10079,What's Eating Gilbert Grape,Drama,118,78,173899,Lasse Hallstrm,1994,What's Eating Gilbert Grape,Drama,117,74,300848,"Lasse Hallstrom,",1993
-0,3146,3704,6768,Jane Eyre,"Drama,Romance",120,74,64200,Cary Joji Fukunaga,2011,Jane Eyre,"Drama,Romance",121,76,32858,"Cary Joji Fukunaga,",2011
-0,5733,7410,3805,X-Men 2,"Action,Adventure,Fantasy",134,75,411630,Bryan Singer,2003,X-Men,"Action,Adventure,Science Fiction,Fantasy",104,74,1065554,"Bryan Singer,",2000
-1,2991,3432,13743,White Collar,"Comedy,Crime,Drama",40,83,95606,"Jeff Eastin,Travis Romero",2009,White Male Heart,Mystery,,,95,"Peter Mackie Burns,",2009
-1,1307,1506,491,Mission: Impossible,"Action,Adventure,Mystery",110,71,304750,Brian De Palma,1996,Mission: Impossible,"Action,Adventure,Mystery",110,66,866130,"Brian DePalma,",1996
-0,9691,13801,17227,Original Sin,"Drama,Mystery,Romance",116,60,45410,Michael Cristofer,2001,Original Sin,"Drama,Mystery",112,62,52706,"Michael Cristofer,",2001
-0,3190,3752,13429,The Chase,Television,0,71,557,,2009,The Chase,"Classics,Drama",135,72,2694,"Arthur Penn,",1966
-1,6992,9277,774,Blue Ice,"Action,Mystery",105,51,1245,Russell Mulcahy,1992,Blue Ice,"Action,Adventure,Mystery",96,56,1952,"Russell Mulcahy,",1993
-0,3404,4142,13047,The Moaning of Life,"Adventure,Comedy,Television",0,82,3584,,2014,The Face of Love,"Comedy,Drama,Romance",92,58,1864,"Arie Posin,",2014
-0,1573,1704,5461,Bruce Almighty,"Comedy,Drama,Fantasy",101,67,301455,Tom Shadyac,2003,Evan Almighty,"Comedy,Science Fiction,Fantasy",96,64,839327,"Tom Shadyac,",2007
-0,11213,17100,16426,The Passion of the Christ,Drama,127,71,180617,Mel Gibson,2004,The Return of the Native,Drama,104,60,611,"Jack Gold,",1994
-1,5055,6576,10803,Mean Girls,Comedy,97,70,250156,Mark Waters,2004,Modern Girls,Comedy,82,70,710,"Jerry Kramer,Joel Lang,",1986
-1,7599,10119,6176,Wrath of the Titans,"Action,Adventure,Fantasy",99,58,154392,Jonathan Liebesman,2012,Wrath of the Titans,"Action,Adventure,Science Fiction,Fantasy",99,66,157819,"Jonathan Liebesman,",2012
-0,12185,18885,16438,Louis C.K.: Shameless,"Documentary,Comedy",57,87,5676,Steven J. Santos,2007,Louis C.K.: Shameless,"Comedy,Television",60,86,552,,2007
-1,12312,19115,15265,Print the Legend,"Documentary,Biography,Drama",100,72,1254,"Luis Lopez,Clay Tweel",2014,Sharpe: The Legend ,"Action,Adventure,Drama",90,86,468,,1997
-0,11391,17455,2857,Diesel Brothers,Television,0,76,98,,2016,7 Chinese Brothers,Comedy,76,64,500,"Bob Byington,",2015
-1,8560,11970,17957,Loser Takes All,Comedy,88,53,51,Ken Annakin,1956,Losers Take All,Comedy,95,76,80,"Alex Steyermark,",2013
-0,11838,18164,17417,April Story,Romance,67,73,1893,Shunji Iwai,1998,Amber's Story,"Drama,Television",120,76,279,,2006
-1,6939,9213,17286,The Making of 'Killing Season',Short,2,,,,2013,The Legend of Billie Jean,"Action,Adventure,Drama",92,70,9421,"Matthew Robbins,",1985
-1,7334,9739,7068,Chaos,"Action,Adventure,Drama",60,71,2354,Tom Spezialy,2011,Chaos,"Action,Adventure,Drama",106,68,21060,"Tony Giglio,",2005
-0,10881,16551,7060,Gnomeo & Juliet,"Animation,Comedy,Family",84,60,42946,Kelly Asbury,2011,Gnomeo and Juliet,"Action,Adventure,Animation,Comedy,Kids,Family,Musical,Performing Arts,Romance",84,68,104485,"Kelly Aysbury,Kelly Asbury,",2011
-0,12181,18882,16435,Talking Funny,"Comedy,Television",49,80,1050,John Moffitt,2011,Talking Funny,"Comedy,Documentary",49,82,125,"John Moffitt,",2011
-0,9102,12863,491,M:I 6 - Mission Impossible,"Action,Adventure,Mystery",0,,,Christopher McQuarrie,,Mission: Impossible,"Action,Adventure,Mystery",110,66,866130,"Brian DePalma,",1996
-0,3417,4166,18671,The Thick of It,Comedy,29,88,12705,,2005,The Book of Ruth,"Drama,Television",120,60,51,"Bill Eagles,",2004
-0,4357,5675,10564,Murder on the Orient Express,"Crime,Drama,Mystery",128,73,36949,Sidney Lumet,1974,Murder On The Orient Express,"Drama,Mystery",,,54,"Kenneth Branagh,",2017
-0,9790,13944,2538,Big Daddy's Little Lady,"Comedy,Drama",30,78,141,David Steinberg,1986,Daddy's Little Girls,"Comedy,Drama",100,78,225867,"Tyler Perry,",2007
-1,5970,7634,7167,The Family,"Comedy,Crime,Mystery",111,63,89239,Luc Besson,2013,The Family,"Action,Adventure,Comedy,Drama,Mystery",112,62,51023,"Luc Besson,",2013
-0,1900,2131,4223,The Chronicles of Narnia:: Big Movie Comes to a Small Town,Short,23,,,,2008,The Chronicles of Narnia: Prince Caspian,"Action,Adventure,Kids,Family,Science Fiction,Fantasy",144,74,552409,"Andrew Adamson,David Strangmuller,",2008
-0,10278,15061,4764,Life with Louie,"Animation,Family,Comedy",30,83,4948,,1995,Life with Mikey,Comedy,95,56,8819,"James Lapine,",1993
-0,12825,20408,16695,Tariq and His Daughters,Drama,0,,,,,Agnes and His Brothers,"Art House,International,Drama",116,62,3986,"Oskar Roehler,",2006
-0,10275,15053,13316,The Life and Times of Juniper Lee,"Animation,Adventure,Comedy",30,65,671,Judd Winick,2005,Life and Times of Vivienne Vyle,"Comedy,Television",178,,10,,2009
-1,127,143,952,David Brent: Life on the Road,"Comedy,Musical",96,68,2832,Ricky Gervais,2017,David Brent: Life on the Road,Comedy,100,,1322,"Ricky Gervais,",2017
-0,3434,4191,2636,The Brothers' Story,"Documentary,Musical",0,,,,1996,The Universal Story,"Documentary,Special Interest,Television",125,86,76,"David Heeley,",1996
-0,6945,9219,684,Quicksand,"Drama,Mystery",92,49,184,Sam Firstenberg,2002,Quicksand,"Action,Adventure,Drama,Mystery",92,52,390,"Sam Firstenberg,",2002
-0,9991,14453,11962,Rocket Robin Hood,"Animation,Fantasy,Sci-Fi",22,63,133,,1967,Robin Hood,"Action,Adventure,Drama",148,70,264819,"Ridley Scott,",2010
-0,6693,8784,18506,Wolf Creek,"Drama,Horror,Mystery",0,71,1262,,2016,Cross Creek,Drama,122,68,937,"Martin Ritt,",1983
-0,6257,8023,934,Double Dare,"Comedy,Family,Television",30,76,630,,1986,Double Dragon,"Action,Adventure,Science Fiction,Fantasy",96,44,29917,"James Yukich,",1994
-0,13306,21331,4529,The Book of Pooh,Family,30,63,352,,2001,The Joy of Life,"Documentary,Special Interest",63,62,295,"Jenni Olson,",2005
-0,10687,16165,17062,28 Minutes Later,"Comedy,Horror,Television",22,97,12,,2009,88 Minutes,"Drama,Mystery",107,62,103882,"Jon Avnet,",2008
-1,3273,3807,5294,Eating Out,"Comedy,Drama,Romance",90,59,5096,Q. Allan Brocka,2012,Spin Out,"Comedy,Romance",,76,27,,2016
-0,1150,1290,14556,American Sniper,"Action,Biography,Drama",133,73,331894,Clint Eastwood,2015,American Storage,"Comedy,Special Interest",,,34,"Andrew Jay Cohen,",2006
-0,12653,19779,7704,Top of the Pops 2,Musical,30,74,36,,1994,Top of the World,"Action,Adventure,Drama,Mystery",105,56,92,"Sidney J. Furie,",1999
-0,13061,20767,18878,Flesh for the Beast,"Fantasy,Horror",89,32,1053,Terry M. West,2003,Beauty and the Beast,"Kids,Family",50,68,30,,1984
-1,13499,21678,451,National Treasure: Book of Secrets,"Action,Adventure,Comedy",124,65,184474,Jon Turteltaub,2007,National Treasure: Book of Secrets,"Action,Adventure",123,72,1438629,"Jon Turtletaub,Jon Turteltaub,",2007
-1,906,964,8590,Saturday Night Live: The Best of Will Ferrell - Volume 2,"Documentary,Comedy",82,75,997,Beth McCarthy-Miller,2004,Saturday Night Live - The Best of Jon Lovitz,"Comedy,Television",,76,81,,1985
-1,5702,7384,6290,Superman Returns,"Action,Adventure,Sci-Fi",154,61,242058,Bryan Singer,2006,Superman Returns,"Action,Adventure,Drama,Science Fiction,Fantasy",154,66,516264,"Bryan Singer,",2006
-0,4173,5290,7790,Comedy Central Roast of William Shatner,Comedy,90,74,1980,Joel Gallen,2006,Comedy Central Roast of William Shatner,"Comedy,Television",,72,1994,"Joel Gallen,",2006
-0,5902,7572,13987,Feast of Love,"Drama,Romance",97,67,14139,Robert Benton,2007,Feast of Love,"Drama,Romance",102,62,117421,"Robert Benton,",2007
+0,9361,13312,482,Day of the Dove,"Action,Adventure,Mystery",51,80,1143,Marvin J. Chomsky,1968,Enemy of the State,"Action,Adventure,Mystery",150,70,372512,"Tony Scott,",1998
+1,533,512,7988,Grumpy Old Men,"Comedy,Drama,Romance",103,69,34973,Donald Petrie,1993,Grumpy Old Men,"Comedy,Drama",103,64,154021,"Donald Petrie,",1993
+0,7026,9308,8970,American Gladiators,"Action,Television,Sport",60,66,1516,,1989,American Splendor,"Art House,International,Comedy,Drama",100,74,44354,"Robert Pulcini,Shari Springer Berman,",2003
+1,7906,10728,5738,Iceman,"Drama,Sci-Fi",100,61,4148,Fred Schepisi,1984,Iceman,"Drama,Science Fiction,Fantasy",101,60,3130,"Fred Schepisi,",1984
+1,9471,13447,2805,Tom & Viv,"Biography,Drama,Romance",115,65,1304,Brian Gilbert,1994,Tom & Viv,"Drama,Romance",125,66,1304,"Brian Gilbert,",1994
+0,243,247,9845,Challenge of the Superfriends,"Animation,Action,Family",30,78,965,,1978,Revenge of the Nerds,Comedy,90,66,56267,"Jeff Kanew,",1984
+0,3376,4117,995,The Black Adder,Comedy,195,82,27200,,1982,The Black Cauldron,"Action,Adventure,Animation,Kids,Family,Science Fiction,Fantasy",82,62,45423,"Ted Berman,Richard Rich,",1985
+0,7578,10099,8072,Wonder Woman,"Action,Adventure,Fantasy",45,45,1440,Jeffrey Reiner,,Wonder Woman,"Action,Adventure,Science Fiction,Fantasy",,,5555,"Patty Jenkins,",2017
+0,13325,21331,17555,The Book of Pooh,Family,30,63,352,,2001,The Sign of Four,"Action,Adventure,Mystery",90,62,16,"Rodney Gibbons,",2001
+0,8049,10995,14813,The Year of the Mouse,"Animation,Family,Short",6,68,191,"Chuck Jones,Maurice Noble",1965,Trial of the Moke,Drama,90,,15,,2002
+1,13493,21673,12898,The Karate Kid,"Action,Drama,Family",140,62,121641,Harald Zwart,2010,The Karate Kid,"Action,Adventure,Drama,Kids,Family",140,70,282304,"Harald Zwart,",2010
+0,4546,5960,19133,The Shannara Chronicles,"Adventure,Fantasy,Sci-Fi",42,75,33270,"Alfred Gough,Miles Millar",2016,Space Rangers Chronicles 3,"Science Fiction,Fantasy",100,,0,,1993
+0,10706,16206,7871,Comedy Central Roast of Denis Leary,Comedy,99,67,828,John Fortenberry,2003,Comedy Central Roast of James Franco,"Comedy,Television",70,80,223,,2013
+0,13281,21302,11595,Home Makeover,"Animation,Short,Comedy",5,71,900,"Kyle Balda,Samuel Tourneux",2010,The Makeover,"Comedy,Television",,52,76,,2013
+0,2625,2803,9454,The Black Hen,Drama,90,76,252,Min Bahadur Bham,2015,The Black Balloon,Drama,102,78,4643,"Elissa Down,",2008
+0,563,544,4377,The Amazing Spider-Man,"Action,Adventure",136,70,457122,Marc Webb,2012,The Amazing Spider-Man 2,"Action,Adventure,Drama,Science Fiction,Fantasy",142,72,220340,"Marc Webb,",2014
+1,8530,11918,12523,The Best of Times,"Comedy,Drama,Sport",104,59,5215,Roger Spottiswoode,1986,The Best of Times,"Comedy,Drama",105,58,6474,"Roger Spottiswoode,",1986
+0,8029,10931,6966,The Other Side of Madness,"Crime,Drama",82,48,149,Frank Howard,1971,The Other Side,Comedy,,,0,,2016
+0,5370,6912,14826,The Tenth Man,"Drama,War",100,71,974,Jack Gold,1988,The Meteor Man,"Action,Adventure,Comedy,Science Fiction,Fantasy",100,50,6375,"Robert Townsend,",1993
+1,1246,1400,26,The BFG,"Adventure,Family,Fantasy",117,67,17175,Steven Spielberg,2016,The BFG,"Kids,Family,Science Fiction,Fantasy",115,70,33388,"Steven Spielberg,",2016
+1,4095,5186,14013,Saturday Night Live: The Best of Eddie Murphy,"Documentary,Comedy",77,75,850,"Andy Breckman,Dave Wilson",,Saturday Night Live: The Best of Eddie Murphy,Comedy,86,76,4633,"Dave Wilson,",1998
+1,12215,18963,1618,Presenting Princess Shaw,"Documentary,Musical",83,67,248,Ido Haar,2016,Presenting Princess Shaw,"Art House,International,Documentary,Musical,Performing Arts",80,84,343,"Ido Haar,",2016
+0,5917,7585,3571,It's a Wonderful Life,"Drama,Family,Fantasy",130,86,280147,Frank Capra,1947,What a Wonderful World,Drama,,,20,,2012
+0,730,681,17712,The New Adventures of Superman,"Animation,Sci-Fi",30,76,415,,1966,The Bawdy Adventures Of Tom Jones,"Action,Adventure,Comedy,Musical,Performing Arts",94,,45,"Cliff Owen,",1976
+0,6887,9129,9653,Wrath of the Titans,News,30,,,,2012,War of the Worlds,"Action,Adventure,Science Fiction,Fantasy",117,58,32518096,"Steven Spielberg,",2005
+0,2272,2560,9606,The Young Ones,Comedy,410,82,10633,,1982,The Young Victoria,Drama,105,70,164477,"Jean-Marc Valle,",2009
+0,9882,14164,12884,Henry: Portrait of a Serial Killer,"Biography,Crime,Drama",83,70,23592,John McNaughton,1990,Portrait of a Stripper,Drama,100,,11,"John A. Alonzo,",1979
+1,5817,7490,9299,Gladiator,"Action,Adventure,Drama",155,85,999279,Ridley Scott,2000,Gladiator,"Action,Adventure,Classics,Drama",171,76,34126525,"Ridley Scott,",2000
+0,6252,8020,3360,Gods Behaving Badly,"Comedy,Drama",90,63,72,Marc Turtletaub,2013,Behaving Badly,"Comedy,Drama",98,50,3896,"Tim Garrick,",2014
+0,6901,9144,9963,Main Street,Drama,92,47,2170,John Doyle,2012,Wall Street,Drama,126,72,50196,"Oliver Stone,",1987
+0,4646,6126,16004,George of the Jungle,"Animation,Adventure,Comedy",0,43,618,,2007,Welcome to the Jungle,Horror,82,52,1791,"Jonathan Hensleigh,",2007
+0,11058,16909,9382,Computer Space,"Action,Sci-Fi",0,68,10,,1971,Computer Chess,Comedy,92,64,2840,"Andrew Bujalski,",2013
+1,4297,5544,5100,Parkland,"Drama,History,Mystery",93,63,11887,Peter Landesman,2013,Parkland,Drama,93,64,9622,"Peter Landesman,",2013
+0,7484,9938,14272,Untitled Stan Lee Project,"Action,Adventure",0,,,,,Untitled Wes Anderson Project,,,,21,"Wes Anderson,",2018
+0,2861,3209,16499,Birds of America,"Comedy,Drama",85,62,4864,Craig Lucas,2010,Africans in America,"Documentary,Special Interest",90,,3,,1998
+0,11237,17160,16996,Love Me,Mystery,97,54,730,Rick Bota,2013,Love Matters,"Drama,Romance",97,,15,"Eb Lottimer,",1993
+0,4966,6474,254,Iron Man,Comedy,0,74,40,,2015,Early Man,,,,10,"Nick Park,",2018
+0,10843,16494,14023,Best Defense,"Comedy,War",94,36,4701,Willard Huyck,1984,Best Defense,"Action,Adventure,Comedy,Mystery",94,48,5596,"Willard Huyck,",1984
+0,5940,7607,14766,Double Team,"Action,Comedy,Sci-Fi",93,47,25503,Hark Tsui,1997,Double Whammy,"Comedy,Drama",93,58,1601,"Tom DiCillo,",2002
+1,2178,2446,3913,House on Haunted Hill,Horror,75,69,16325,William Castle,1959,House on Haunted Hill,"Horror,Mystery",96,58,89287,"William Malone,",1999
 0,7486,9941,2592,Untitled Hugh Jackman Project,"Action,Adventure",0,,,,,Untitled Neill Blomkamp/Alien Project,,,,32,"Neill Blomkamp,",2017
-0,6950,9224,11175,The Last Time,"Comedy,Drama,Mystery",96,62,3040,Michael Caleo,2007,The Last Mimzy,"Action,Adventure,Drama,Kids,Family",96,62,258623,"Robert Shaye,",2007
-0,12443,19337,8200,American Heart,"Crime,Drama,Romance",113,68,2466,Martin Bell,1993,American Heart,Drama,113,68,1531,"Martin Bell,",1992
-0,3173,3733,19114,Silver Streak,"Action,Comedy,Crime",114,69,13548,Arthur Hiller,1976,Silver Skies,,96,,12,"Rosemary Rodriguez,",2016
-0,10303,15194,6541,The Fifth Race,"Action,Adventure,Drama",44,92,771,David Warry-Smith,1999,The Last Race,Drama,,,20,"Stephen Shin,",2016
-1,12279,19079,8605,Bang the Drum Slowly,"Drama,Sport",96,70,4565,John D. Hancock,1978,Bang The Drum Slowly,"Classics,Comedy,Drama,Sports,Fitness",96,68,3762,"John D. Hancock,John Hancock,",1973
-0,4629,6077,1305,Arthur,"Animation,Comedy,Family",30,74,8642,,1996,Arthur,Comedy,109,62,45446,"Jason Winer,",2011
-0,7647,10184,5475,Saving Christmas,"Comedy,Family",80,15,11643,Darren Doane,2014,A Baby for Christmas,,120,,3,"Rhonda Baraka,",2015
-0,11389,17450,1584,Citizen Soldier,"Documentary,Action",105,51,208,"David Salzberg,Christian Tureaud",2016,Citizen Soldier,Documentary,95,84,229,"David Salzberg,Christian Tureaud,",2016
-0,4817,6289,2867,CBS This Morning,News,120,65,124,,2012,Son Of Morning,"Comedy,Drama",81,42,72,"Yanviz Raz,Yaniv Raz,",2011
-0,8299,11509,19063,Absence of Malice,"Drama,Romance,Mystery",116,69,9383,Sydney Pollack,1981,Absence Of Malice,"Drama,Mystery,Romance",116,66,4514,"Sydney Pollack,",1981
-0,8183,11296,2622,Mighty Heroes,"Animation,Family",30,80,84,,1966,Imaginary Heroes,"Comedy,Drama,Kids,Family",112,76,9168,"Daniel Harris,Dan Harris,",2005
-1,8316,11522,5693,Real Life,Comedy,99,72,1865,Albert Brooks,1979,Real Eve,"Special Interest,Television",100,,6,,2002
-0,4320,5584,4878,Back to School,"Comedy,Romance,Sport",96,65,21945,Alan Metter,1986,Back to School,Comedy,96,60,32978,"Alan Metter,",1986
-1,6629,8650,9947,Frida,"Biography,Drama,Romance",123,74,62587,Julie Taymor,2002,Frida,"Drama,Romance",122,74,53619,"Julie Taymor,",2002
-1,7236,9567,8336,Cradle Will Rock,Drama,132,69,8081,Tim Robbins,2000,Cradle Will Rock,Drama,133,68,6912,"Tim Robbins,",1999
-0,10478,15660,16497,Made in America,"Crime,Drama",59,90,4134,David Chase,2007,Africans in America,"Documentary,Special Interest",90,,2,,1998
-0,5596,7232,4494,"Believe Me, Part 1",Comedy,20,75,29,Don Scardino,2016,Believe Me,Comedy,93,74,424,"Will Bakke,",2014
-1,5718,7396,3053,Transformers: Dark of the Moon,"Action,Adventure,Sci-Fi",154,63,329257,Michael Bay,2011,Transformers: Revenge of the Fallen,"Action,Adventure,Science Fiction,Fantasy",149,70,4080302,"Michael Bay,",2009
-0,11904,18305,7641,Strange Days,"Action,Crime,Drama",145,72,54799,Kathryn Bigelow,1995,Strange Days,"Drama,Mystery,Science Fiction,Fantasy",145,66,34923,"Kathryn Bigelow,",1995
-0,4540,5958,6541,The Last Ship,"Action,Drama,Sci-Fi",60,75,39447,"Steven Kane,Hank Steinberg",2014,The Last Race,Drama,,,20,"Stephen Shin,",2016
-0,7320,9703,9936,Better Luck Tomorrow,"Crime,Drama,Romance",101,72,8040,Justin Lin,2003,Better Luck Tomorrow,"Action,Adventure,Drama",99,74,8134,"Justin Lin,",2002
-0,7816,10556,12774,Burning Love,"Comedy,Romance",23,80,2708,,2012,Making Love,Drama,111,68,1640,"Arthur Hiller,",1982
-1,9621,13700,3714,The Human Stain,"Drama,Romance,Mystery",106,63,25726,Robert Benton,2003,The Human Stain,"Drama,Mystery",106,62,15606,"Robert Benton,",2003
-0,7863,10608,16744,The Best of Me,"Drama,Romance",118,67,44814,Michael Hoffman,2014,The Best Man Wedding,"Comedy,Romance",,84,348,"Malcolm D. Lee,",2016
-0,1376,1546,7704,Best of the Worst,Comedy,0,93,801,,2013,Top of the World,"Action,Adventure,Drama,Mystery",105,56,92,"Sidney J. Furie,",1999
-0,11300,17261,8233,Saving Mr. Banks,"Animation,Television",0,,,Mat Brunet,2013,Saving Grace,"Drama,Television",,72,2723,"Artie Mandleberg,",2008
-0,8845,12390,5191,Titanic 2,Comedy,0,,,,2011,Titanic,"Drama,Romance",194,66,35794996,"James Cameron,",1997
-0,11794,18044,19009,Dead 7,"Comedy,Horror,Western",89,32,705,Danny Roew,2016,Dead Air,"Horror,Mystery,Science Fiction,Fantasy",89,54,13186,"Corbin Bernsen,",2009
-1,6014,7675,18174,Shanghai Kiss,"Comedy,Drama,Romance",106,68,4881,"Kern Konwiser,David Ren",2007,Shanghai Calling,"Comedy,Drama,Romance",98,70,281,"Daniel Hsia,",2013
-0,13126,20849,8109,The Possession of Michael King,Horror,83,57,9127,David Jung,2014,The Possession of Michael King,Mystery,83,56,846,"David S. Jung,David Jung,",2014
-1,11831,18118,4978,Get Well Soon,,81,58,465,Jean Becker,2014,Get Well Soon,"Comedy,Drama,Romance",95,64,747,"Justin McCarthy,",2002
-0,6640,8675,10371,Metal Saw,"Action,Adventure,Drama",43,62,231,Jerry Levine,2016,Metal Skin,"Action,Adventure,Drama",112,68,291,"Chris Odgers,Geoffrey Wright,",1994
-1,13002,20679,12704,Bride & Prejudice,"Comedy,Drama,Musical",122,62,17588,Gurinder Chadha,2005,Bride & Prejudice,"Comedy,Musical,Performing Arts",111,68,130,"Gurinder Chadha,",2005
-0,2761,3000,16889,Golden Oldies,"Crime,Drama,Mystery",48,80,25,Robert Bierman,2005,Golden Shoes,,90,64,32,"Lance Kawas,Lance KR Kawas,",2013
-1,9879,14159,1483,No Country for Old Dogs,"Animation,Comedy",11,76,62,,2011,No Country for Old Men,"Action,Adventure,Drama,Mystery",122,80,395902,"Joel Coen,Ethan Coen,",2007
-0,6812,8984,12044,Head of the Family,"Comedy,Horror",82,52,932,Charles Band,2005,Curse of the Bambino,"Documentary,Sports,Fitness",59,80,37,,2003
-0,11808,18074,728,The Price of Fame,"Comedy,Drama",110,57,514,Xavier Beauvois,2015,The Tailor of Panama,"Action,Adventure,Art House,International,Comedy,Drama,Mystery",110,60,12444,"John Boorman,",2001
-0,9245,13052,10454,American Heist,"Action,Crime,Drama",94,52,13150,Sarik Andreasyan,2015,American Crime,Mystery,94,50,473,"Dan Mintz,",2004
-1,1073,1159,568,The Devil's Candy,Horror,90,67,455,Sean Byrne,2015,The Devil's Tomb,"Action,Adventure,Horror,Mystery,Science Fiction,Fantasy",90,42,2074,"Jason Connery,",2008
-1,9758,13890,18414,Kill Theory,"Horror,Mystery",85,56,5867,Chris Moore,2009,Kill Theory,"Horror,Mystery",82,56,1044,"Chris Moore,",2009
-0,12019,18543,14612,The Perfect Blue,"Comedy,Drama,Romance",0,75,46,Kieron J. Walsh,,The Perfect Murder,Mystery,,60,87,"Zafar Hai,",1990
-0,5017,6502,16225,Secret Agent,"Action,Adventure,Crime",49,83,751,,1965,Secret Smile,"Art House,International,Drama,Mystery,Television",137,78,542,"Christopher Menaul,",2005
-0,268,259,7849,Delta House,Comedy,30,63,77,,1979,Frat House,"Documentary,Special Interest",60,72,89,"Todd Phillips,Andrew Gurland,",1998
-1,9696,13809,10070,The Hand That Rocks the Cradle,Mystery,110,66,29920,Curtis Hanson,1992,The Hand that Rocks the Cradle,"Drama,Mystery",110,62,47063,"Curtis Hanson,",1992
-1,5369,6912,14146,The Tenth Man,"Drama,War",100,71,974,Jack Gold,1988,The Thin Man,Mystery,,,158,,2013
-0,10674,16136,11959,Katy Perry: Part of Me,"Documentary,Musical",93,59,12440,"Dan Cutforth,Jane Lipsitz",2012,Katy Perry: Part of Me,"Documentary,Musical,Performing Arts",93,76,47068,"Dan Cutforth,Jane Lipsitz,",2012
-1,5278,6817,4329,The Last Boy Scout,"Action,Mystery",105,69,76623,Tony Scott,1991,The Last Producer,,120,,16,"Burt Reynolds,",2002
-1,1211,1366,5111,Inside Out,"Animation,Adventure,Comedy",95,83,364137,"Pete Docter,Ronnie Del Carmen",2015,Fade Out,,,,13,"Michael Cristofer,",2005
-0,12132,18775,2410,New World,Mystery,0,,,,,New Moon,"Action,Adventure,Classics,Drama,Musical,Performing Arts,Romance",106,62,786,"Robert Z. Leonard,",1940
-1,6497,8460,6358,Battle of the Damned,"Action,Adventure,Horror",88,45,2987,Christopher Hatton,2014,Battle of the Sexes,,,,43,"Jonathan Dayton,Valerie Faris,",2016
-0,10000,14474,1562,The Visiting Witch,"Adventure,Family,Fantasy",21,70,8,Hollingsworth Morse,1969,The Noonday Witch,Horror,90,,1,,2016
-0,6128,7869,10329,The Rocky Horror Show,Action,0,60,12,,1985,The Rocky Horror Picture Show,"Classics,Comedy,Cult Movies,Horror,Musical,Performing Arts,Science Fiction,Fantasy",100,72,365433,"Jim Sharman,",1975
-0,4626,6058,9970,Superman IV: The Quest for Peace,"Action,Adventure,Family",90,36,33959,Sidney J. Furie,1987,Superman IV: The Quest for Peace,"Action,Adventure,Science Fiction,Fantasy",91,48,65683,"Sidney J. Furie,",1987
-0,9925,14252,16156,Game of Death,"Action,Crime,Drama",85,60,12528,"Robert Clouse,Bruce Lee",1979,Days of Wrath,Drama,,,144,"Celia Fox,",2008
-1,3054,3508,1032,The Lion King,"Animation,Adventure,Drama",89,85,657760,"Roger Allers,Rob Minkoff",1994,The Lion King,"Action,Adventure,Animation,Drama,Kids,Family,Musical,Performing Arts",87,80,1267081,"Roger Allers,Rob Minkoff,",1994
-1,3947,5086,18746,Fender Bender,"Horror,Mystery",91,54,335,Mark Pavia,2016,Farewell Bender,"Art House,International",,52,71,"Matt Oates,",2006
-0,2762,3012,16643,Death in Paradise,"Crime,Drama,Mystery",60,79,6974,Robert Thorogood,2011,Jesse Stone: Death in Paradise,"Drama,Mystery,Television",87,76,452,"Robert Harmon,",2006
-1,5042,6561,8937,Forbidden Planet,"Action,Adventure,Sci-Fi",98,77,34503,Fred M. Wilcox,1956,Forbidden Planet,"Classics,Drama,Mystery,Science Fiction,Fantasy",98,76,21049,"Fred Wilcox,Fred McLeod Wilcox,",1956
-0,1564,1697,7845,Project Mc,Family,26,62,222,,2015,Project X,"Comedy,Drama,Science Fiction,Fantasy",88,70,94700,"Nima Nourizadeh,",2012
-0,9112,12869,6167,Sabotage,"Action,Mystery",0,,,,,Sabotage,"Action,Adventure,Mystery",110,58,22170,"David Ayer,",2014
-0,12953,20626,2881,The Ladykillers,"Comedy,Crime,Mystery",104,62,84961,"Ethan Coen,Joel Coen",2004,The Ladykillers,"Comedy,Drama",104,56,65465,"Joel Coen,Ethan Coen,",2004
-0,13388,21449,5042,Epic Mickey,"Animation,Television",0,,,,2010,Epic Movie,"Action,Adventure,Comedy",84,48,560309,"Aaron Seltzer,Jason Friedberg,",2007
-0,874,960,15968,Saturday Night Live: The Best of Dana Carvey,Comedy,89,73,751,,,Saturday Night Live - Best of Clinton & Lewinsky,"Comedy,Television",,,21,,2000
-0,3603,4472,7734,Welcome to the NHK!,"Animation,Comedy,Drama",0,85,3279,,2006,Welcome to September,Drama,89,,9,"Phil Scarpaci,",2004
-0,9340,13228,2103,The Sisters,Drama,99,72,1270,Anatole Litvak,1938,Go For Sisters,Drama,122,64,336,"John Sayles,",2013
-0,12205,18926,5102,Lemmy,"Documentary,Biography,Musical",116,78,6172,"Greg Olliver,Wes Orshoski",2010,Lemmy,"Documentary,Musical,Performing Arts",116,80,1073,"Wes Orshoski,Greg Olliver,",2011
-1,6909,9155,6053,Sophie's Choice,"Drama,Romance",150,77,29753,Alan J. Pakula,1983,The Choice,"Drama,Romance",100,70,11964,"Ross Katz,",2016
-1,3142,3700,10279,Mansfield Park,"Comedy,Drama,Romance",112,71,16812,Patricia Rozema,1999,Mansfield Park,"Comedy,Drama,Romance",98,72,21922,"Patricia Rozema,",1999
-1,9332,13210,8294,El Bola,Drama,88,73,4636,Achero Maas,2000,El Don,"Art House,International,Drama",90,,8,,2006
-0,9370,13316,14594,Elaan of Troyius,"Action,Adventure,Mystery",51,72,1043,John Meredyth Lucas,1968,Helen of Troy,"Action,Adventure,Television",240,66,17419,"John Kent Harrison,",2003
-0,7198,9524,14570,Colditz,"Drama,War",240,68,2153,,2005,Colditz,"Drama,Television",185,72,617,"Stuart Orme,",2005
-0,13182,20905,17245,Little Dorrit,"Drama,Mystery,Romance",30,83,6222,,2009,Little John,"Drama,Television,Western",98,64,84,"Dick Lowry,",2002
-1,9723,13847,2549,Company Business,"Action,Comedy,Crime",98,57,1864,Nicholas Meyer,1991,Women in Business,Comedy,,,24,"Jake Szymanski,",2017
-0,263,254,16640,Madea Gets a Job,Comedy,145,42,589,Tyler Perry,2013,Madea Goes to Jail,"Comedy,Drama",102,76,334145,"Tyler Perry,",2009
-0,6431,8326,11899,It Felt Like Love,Drama,82,55,1637,Eliza Hittman,2014,It Felt Like Love,Drama,82,60,966,"Eliza Hittman,",2014
-0,3299,3833,13578,The Secret Life of Walter Mitty,"Adventure,Comedy,Drama",114,73,239618,Ben Stiller,2013,The Secret Life Of Walter Mitty,"Action,Adventure,Comedy,Drama",114,74,78778,"Ben Stiller,",2013
-1,5560,7161,13994,Beverly Hills Cop,"Action,Comedy,Crime",105,73,128378,Martin Brest,1984,Beverly Hills Cop 4,Comedy,,82,12372,"Brett Ratner,",2017
-1,9409,13391,659,Proof,"Drama,Mystery",100,68,36687,John Madden,2005,Proof,Drama,99,64,88699,"John Madden (II),James D. Stern,",2005
-1,3126,3613,2568,Turbo,"Animation,Adventure,Comedy",96,65,63251,David Soren,2013,Turbo,"Animation,Kids,Family",95,74,89237,"David Soren,",2013
-0,8566,11981,18748,Requiem for Murder,Mystery,95,51,249,Douglas Jackson,1999,Requiem for Murder,"Horror,Mystery",120,76,96,"Douglas Jackson,",2005
-1,13268,21274,10218,The Little Prince,"Animation,Adventure,Drama",108,78,32967,Mark Osborne,2016,Little Voice,"Art House,International,Comedy,Drama",99,68,12661,"Mark Herman,",1998
-1,9242,13035,12568,We Are from the Future,"Action,Drama,Fantasy",110,70,2432,Andrey Malyukov,2008,We Are the Future,"Documentary,Musical,Performing Arts",148,72,786,,2006
-1,12519,19470,9650,The Warrior,"Adventure,Drama",86,68,2193,Asif Kapadia,2005,The Warrior,"Action,Adventure,Art House,International,Drama",86,72,2236,"Asif Kapadia,",2005
-0,12629,19713,14716,House of Fools,Comedy,0,73,838,,2014,House Of Bodies,"Drama,Horror,Mystery",80,40,97,"Alex Merkin,",2013
-0,5353,6886,7049,All the Way Home,Drama,120,78,46,Delbert Mann,1981,A Long Way Home,Drama,97,76,139,"Robert Markowitz,",1981
-1,781,727,18273,Underdog,"Animation,Family,Comedy",0,75,1253,,1964,Underdog Kids,"Action,Adventure,Kids,Family",94,48,37,"Phillip Rhee,",2015
-1,10775,16352,1123,Be Cool,"Comedy,Crime,Musical",118,57,59757,F. Gary Gray,2005,Be Cool,"Comedy,Drama,Mystery",119,56,212480,"F. Gary Gray,",2005
-0,11343,17369,449,Transformers: Armada,"Action,Animation,Adventure",30,70,880,,2002,Transformers,"Action,Adventure,Science Fiction,Fantasy",143,82,2383416,"Michael Bay,",2007
-1,9475,13454,6223,Proof,"Drama,Romance",86,74,5013,Jocelyn Moorhouse,1992,Proof,"Comedy,Drama",90,72,5299,"Jocelyn Moorhouse,",1991
-0,822,860,9936,Legends of Tomorrow,"Action,Adventure,Drama",42,71,40848,"Greg Berlanti,Marc Guggenheim,Phil Klemmer",2016,Better Luck Tomorrow,"Action,Adventure,Drama",99,74,8134,"Justin Lin,",2002
-0,599,588,8272,I Am Legend,"Drama,Horror,Sci-Fi",101,72,538885,Francis Lawrence,2007,I Am Legend,"Action,Adventure,Drama,Science Fiction,Fantasy",100,72,1128576,"Francis Lawrence,",2007
-1,9260,13081,11668,Midnight Son,Horror,88,60,1527,Scott Leberecht,2011,Midnight Movie,Horror,80,52,7589,"Jack Messitt,",2008
-1,5996,7661,10930,The Iron Lady,"Biography,Drama",105,64,83539,Phyllida Lloyd,2012,The Iron Lady,"Art House,International,Drama",104,66,96892,"Phyllida Lloyd,",2012
-0,6505,8472,18180,The Phantom of Film City,"Animation,Sci-Fi",23,64,13,,1978,The Ransom of Red Chief,"Comedy,Kids,Family,Television,Western",90,60,954,"Bob Clark (III),Bob Clark,",1998
-1,5318,6843,2356,Father of the Bride Part II,"Comedy,Family,Romance",106,59,27000,Charles Shyer,1995,Father of the Bride: Part II,Comedy,106,60,202967,"Charles Shyer,",1995
-0,9850,14108,6832,Popcorn,"Comedy,Horror",91,57,2460,"Mark Herrier,Alan Ormsby",1991,Popcorn Porn,"Comedy,Documentary",,72,632,"Joey Figueroa,Zak Knutson,",2009
-0,10459,15595,2237,Growing Pains,"Drama,Fantasy,Horror",43,90,2189,Chris Grismer,2012,Growing Up Coy,,86,,0,"Eric Juhola,",2016
-1,2809,3069,3866,The Imitation Game,"Biography,Drama,Mystery",114,81,485383,Morten Tyldum,2014,The Imitation Game,"Drama,Mystery",114,84,100759,"Morten Tyldum,",2014
-0,12661,19807,11022,The Way of the Dragon,"Action,Comedy,Crime",90,73,23359,Bruce Lee,1972,The Art of the Steal,Comedy,90,62,5812,"Jonathan Sobol,",2014
-0,2585,2772,15304,One Night Stand,Drama,0,,,,,The Last Stand,Drama,108,70,651,"Russ Parr,",2006
-0,1924,2167,14149,The Tourist,"Action,Romance,Mystery",103,60,179095,Florian Henckel von Donnersmarck,2010,The Tourist,"Action,Adventure,Mystery,Romance",103,60,94544,"Florian Henckel von Donnersmarck,",2010
-0,9930,14253,12044,The Curse of the Dragon,"Documentary,Action,Biography",90,70,636,"Tom Kuhn,Fred Weintraub",1993,Curse of the Bambino,"Documentary,Sports,Fitness",59,80,37,,2003
-0,12933,20596,17558,The Hound of the Baskervilles: Part Two,"Horror,Crime,Drama",50,71,65,,1968,The Hound of the Baskervilles,"Drama,Horror,Mystery,Television",90,64,217,"Rodney Gibbons,",2000
-0,5660,7333,14511,Kong: Skull Island,"Action,Adventure,Fantasy",0,,,Jordan Vogt-Roberts,2017,Small Island,"Art House,International,Drama,Television",,,5,"John Alexander,",2009
-0,2692,2948,4889,Moone Boy,Comedy,23,82,3960,,2012,Shonen (Boy),"Art House,International,Drama",97,80,110,"Nagisa Oshima,",1969
-1,511,482,4437,Forced Vengeance,"Action,Adventure,Crime",90,55,2059,James Fargo,1982,Kickboxer: Vengeance,"Action,Adventure,Drama",90,54,481,"John Stockwell,Samuel Cory Timpson,",2016
-0,11845,18175,4168,Tonight It's Me,"Short,Drama,Romance",13,63,204,Dominic Haxton,2014,Tonight at Noon,Drama,,,68,"Michael Almereyda,",2007
-1,8794,12275,3771,In the Presence of Mine Enemies,"Drama,War",100,61,263,Joan Micklin Silver,1997,In the Presence of Mine Enemies,"Drama,Television",96,,72,"Joan Micklin Silver,",1997
-0,8375,11655,10052,The War of the Roses,Comedy,116,68,38451,Danny DeVito,1989,The Bonfire of the Vanities,Comedy,126,52,12047,"Brian DePalma,",1990
-1,13197,20923,2661,The Ugly Truth,"Comedy,Romance",96,65,166037,Robert Luketic,2009,The Ugly Truth,"Comedy,Romance",96,60,1399108,"Robert Luketic,",2009
-0,5724,7400,16620,Justice League vs. Teen Titans,"Animation,Action,Comedy",78,70,7581,Sam Liu,2016,Justice League vs. Teen Titans,,78,72,725,"Sam Liu,",2015
-0,1446,1582,18615,Hold the Dark,Mystery,0,,,,,Beneath the Dark,"Drama,Horror,Mystery",102,54,579,"Chad Feehan,",2010
-0,6512,8497,19087,All in the Family,"Drama,Romance",45,96,445,Jonathan Kaplan,2000,Welcome to the Family,,120,,1,"Alton Glass,",2015
-0,7197,9519,11681,The Harvest,Drama,0,,,,,Harvest,Drama,96,,39,"Stuart Burkin,",2000
-0,9469,13439,8499,The Stupids,"Comedy,Adventure",94,41,5709,John Landis,1996,The Stupids,Comedy,94,46,10230,"John Landis,",1996
-0,5697,7380,7182,Batman Forever,"Action,Adventure,Fantasy",121,54,193277,Joel Schumacher,1995,Batman Forever,"Action,Adventure,Science Fiction,Fantasy",82,58,607764,"Joel Schumacher,",1995
-0,978,1037,3925,Back to the Future Part II,"Adventure,Comedy,Sci-Fi",108,78,346518,Robert Zemeckis,1989,Back to the Future Part II,"Comedy,Science Fiction,Fantasy",109,70,748575,"Robert Zemeckis,",1989
-0,2385,2684,844,The Shadow,"Action,Crime,Drama",0,,,,,Under The Shadow,"Horror,Mystery",84,78,1394,"Babak Anvari,",2016
-0,7287,9659,7043,After Hours,"Comedy,Crime,Drama",97,77,40368,Martin Scorsese,1985,After Hours,"Comedy,Mystery",96,76,21655,"Martin Scorsese,",1985
-0,11576,17599,7195,The Big Town,"Drama,Romance,Mystery",109,59,1422,"Ben Bolt,Harold Becker",1987,The Big Town,Drama,110,58,1324,"Ben Bolt,",1987
-0,7714,10350,4646,Cops on the Rocks,Comedy,20,80,52,Michael McDonald,2016,Toronto Rocks,"Musical,Performing Arts",,,21,,2003
-0,9992,14453,11979,Rocket Robin Hood,"Animation,Fantasy,Sci-Fi",22,63,133,,1967,Robin Hood,"Action,Adventure,Art House,International,Drama,Television,Romance",116,60,10747,"John Irvin,",1991
-0,7400,9808,12490,The Lost World,"Action,Sci-Fi,Adventure",60,73,2488,,1999,The Lost City,Drama,143,64,25924,"Andy Garcia,",2005
-0,11839,18165,14970,Kyoto Story,Drama,90,77,19,"Tsutomu Abe,Yji Yamada",2010,Rock Story,Drama,130,,0,"Dylan Bank,",2015
-1,7241,9568,14146,The Bag Man,"Crime,Drama,Mystery",108,53,13476,David Grovic,2014,The Thin Man,Mystery,,,158,,2013
-0,9899,14197,4819,George of the Jungle 2,"Comedy,Family,Adventure",87,33,4385,David Grossman,2003,George Of The Jungle 2,"Comedy,Kids,Family",87,46,38230,"David Grossman,",2003
-1,2869,3212,18184,Three to Tango,"Comedy,Romance",98,61,16481,Damon Santostefano,1999,Three For The Road,"Comedy,Drama",98,64,138,"Bill L. Norton,",1987
-1,5797,7469,6600,Hancock,"Action,Crime,Drama",92,64,348947,Peter Berg,2008,Hancock,"Action,Adventure,Comedy,Drama",92,72,556437,"Peter Berg,",2008
-0,13504,21685,14007,The Haunted Mansion,"Comedy,Family,Fantasy",88,49,32519,Rob Minkoff,2003,The Haunted Mansion,"Comedy,Horror,Kids,Family,Mystery,Science Fiction,Fantasy",88,52,134761,"Rob Minkoff,",2003
-0,6940,9214,3570,Freelancers,"Action,Crime,Drama",96,46,7995,Jessy Terrero,2013,Freelancers,"Action,Adventure,Drama",96,54,2763,"Jessy Terrero,",2012
-0,13473,21569,15256,The Big Picture,Family,10,78,28,,2011,The Big Empty,"Action,Adventure,Comedy,Science Fiction,Fantasy",94,62,4021,"Steve Anderson,",2003
-0,13516,21695,12487,Edge of Darkness,"Crime,Drama,Mystery",307,86,2860,,1986,Towards Darkness,"Action,Adventure,Drama,Mystery",92,68,382,"Jos Antonio Negret,",2007
-1,5626,7297,150,Mad Max: Fury Road,"Action,Adventure,Sci-Fi",120,81,574231,George Miller,2015,Mad Max: Fury Road,"Action,Adventure,Science Fiction,Fantasy",120,84,121360,"George Miller,",2015
-1,8402,11695,2292,Goodbye Lover,"Comedy,Crime,Mystery",102,57,2885,Roland Joff,1999,Goodbye Lover,"Comedy,Drama,Mystery",115,58,1553,"Roland Joff,",1998
-0,7511,9958,3058,Constantine 2,"Action,Drama,Fantasy",0,,,,,Constantine,"Action,Adventure,Horror,Mystery,Science Fiction,Fantasy",120,70,467361,"Francis Lawrence,",2005
-0,6361,8178,14145,The Night Buffalo,Drama,102,43,1451,Jorge Hernandez Aldana,2007,The Night Stalker,Horror,,98,235,"Edgar Wright,",2014
-1,3185,3748,1854,Any Given Sunday,"Drama,Sport",162,68,97859,Oliver Stone,1999,Any Given Sunday,"Action,Adventure,Drama",165,66,138629,"Oliver Stone,",1999
-1,1590,1723,9293,Training Day,"Crime,Drama,Mystery",122,77,310375,Antoine Fuqua,2001,Training Day,"Action,Adventure,Drama,Mystery",122,74,299999,"Antoine Fuqua,",2001
-1,7093,9368,13712,The Shipping News,Drama,111,68,28796,Lasse Hallstrm,2002,The Shipping News,"Drama,Romance",111,64,20670,"Lasse Hallstrom,",2001
-1,10505,15712,4606,Cake,Drama,102,64,27787,Daniel Barnz,2015,Cake,Drama,98,64,15039,"Daniel Barnz,",2015
-0,2500,2739,1560,Last Man,"Drama,War",0,,,,,Rain Man,Drama,133,76,312982,"Barry Levinson,",1988
-1,678,652,18133,Seven Minutes in Heaven,"Comedy,Drama,Romance",88,62,1036,Linda Feferman,1985,Seven Minutes in Heaven,"Art House,International,Comedy",88,66,1424,"Omri Givon,Linda Feferman,",1986
-1,3072,3528,10511,Peter Pan,"Animation,Adventure,Family",77,73,89803,"Clyde Geronimi,Wilfred Jackson",1953,Peter Pan Live!,"Kids,Family,Musical,Performing Arts,Special Interest",180,52,97,,2014
-0,10487,15663,7793,Home of the Brave,"Action,Drama,War",106,56,9395,Irwin Winkler,2007,Year of the Dragon,"Drama,Television",90,,20,,2003
-0,10386,15417,18392,The Duke of Squigman,"Comedy,Family",30,72,13,Penny Marshall,1980,The Wine Of Summer,Drama,,,6,"Maria Matteoli,",2015
-1,3116,3608,3214,Rise of the Guardians,"Animation,Adventure,Family",97,73,125288,Peter Ramsey,2012,Life of the Party,"Comedy,Drama",97,64,349,"Barra Grant,",2007
-0,7025,9308,8200,American Gladiators,"Action,Television,Sport",60,66,1516,,1989,American Heart,Drama,113,68,1531,"Martin Bell,",1992
-1,13003,20680,13681,How to Be a Serial Killer,"Comedy,Crime,Horror",91,56,1754,Luke Ricci,2008,How to Be a Latin Lover,Comedy,,,9,"Ken Marino,",2017
-0,9161,12911,878,Magic Mike,Comedy,0,66,26,,2015,Magic Mike XXL,Comedy,115,68,34719,"Gregory Jacobs,",2015
-0,6163,7917,15831,The Last Exorcism,"Drama,Horror,Mystery",87,56,41921,Daniel Stamm,2010,The Last Showing,"Art House,International,Horror,Mystery",,50,88,"Phil Hawkins,",2014
-0,818,853,11105,House of Cards,Drama,51,90,322647,Beau Willimon,2013,House of Darkness,Drama,120,48,12,"Patrick DeLuca,",2016
-0,9919,14224,14530,Slave Island,"Animation,Action,Family",22,78,171,,1993,The Island,"Action,Adventure,Drama,Science Fiction,Fantasy",136,66,371594,"Michael Bay,",2005
-0,850,954,7768,The Tonight Show,Television,105,78,87,,1962,The Truman Show,"Comedy,Drama",103,70,581311,"Peter Weir,",1998
-0,2712,2958,13395,Perfect Strangers,"Comedy,Drama",238,82,1135,,2001,Perfect Hero,"Drama,Special Interest",360,,5,"James Cellan Jones,",1991
-1,5095,6632,8990,Inside Job,"Documentary,Crime",105,83,56210,Charles Ferguson,2010,Inside Job,"Documentary,Special Interest",108,84,28930,"Charles Ferguson,",2010
-0,3659,4569,13160,Boys Life 5,Drama,110,70,171,"Michael Burke,Eytan Fox",2006,Boys Briefs 4,"Drama,Special Interest,Adult",,,32,"Bastian Schweitzer,",2006
-0,812,831,14524,Lucifer,"Crime,Drama,Fantasy",42,83,56844,Tom Kapinos,2016,"I, Lucifer","Action,Adventure,Science Fiction,Fantasy",,72,1418,"Dan Harris,",2010
-0,9503,13530,16981,Nikola Tesla and the End of the World,Sci-Fi,0,34,5,,2015,Category 7: The End of the World,"Action,Adventure,Drama,Mystery",169,66,1519,"Dick Lowry,",2005
-0,2896,3233,18211,American Crime,Drama,43,77,5848,John Ridley,2015,The American Side,Drama,104,88,716,"Jenna Ricker,",2016
-1,1633,1759,906,Complete Unknown,"Drama,Mystery",91,56,1219,Joshua Marston,2016,Complete Unknown,Drama,90,54,783,"Joshua Marston,",2016
-0,10424,15496,10327,Sherlock Holmes,"Horror,Crime,Drama",50,78,284,,1964,Young Sherlock Holmes,"Action,Adventure,Drama,Horror,Kids,Family,Mystery",109,66,11157,"Barry Levinson,",1985
-0,9250,13061,2884,Office Office,Comedy,0,89,1150,,2000,Office Space,"Comedy,Special Interest,Romance",90,80,324785,"Mike Judge,",1999
-0,5906,7576,10785,Ghosts of Mississippi,"Drama,History",130,67,8610,Rob Reiner,1997,Ghosts of Mississippi,"Drama,Mystery",130,68,8614,"Rob Reiner,",1996
-0,3041,3497,4661,How to Train Your Dragon 2,"Animation,Action,Adventure",102,79,225231,Dean DeBlois,2014,How To Train Your Dragon 3,Animation,,,38864,,2018
-0,4959,6468,14146,The Weather Man,"Comedy,Drama",102,66,69683,Gore Verbinski,2005,The Thin Man,Mystery,,,158,,2013
-0,701,670,9472,God of War,,0,81,10,Spencer Gilbert,2014,Body of War,"Documentary,Special Interest",87,80,618,"Phil Donahue,Ellen Spiro,",2008
-0,6485,8436,18801,Black Ice,"Drama,Mystery",110,68,2291,Petri Kotwica,2007,Black Rock,"Drama,Mystery",79,52,3909,"Katie Aselton,",2013
-0,9799,13960,10803,Golden Girls,Comedy,25,29,53,,2012,Modern Girls,Comedy,82,70,710,"Jerry Kramer,Joel Lang,",1986
-0,12508,19462,9416,Carancho,"Crime,Drama,Romance",107,69,6111,Pablo Trapero,2011,Carancho,"Drama,Mystery,Romance",107,72,1990,"Pablo Trapero,",2011
-0,1274,1425,16499,Laid in America,Comedy,85,49,1710,"Sam Milman,Peter Vass",2016,Africans in America,"Documentary,Special Interest",90,,3,,1998
-0,5659,7332,8072,Wonder Woman,"Short,Action,Fantasy",3,65,1105,Sam Balcomb,2013,Wonder Woman,"Action,Adventure,Science Fiction,Fantasy",,,5555,"Patty Jenkins,",2017
-0,12445,19337,14556,American Heart,"Crime,Drama,Romance",113,68,2466,Martin Bell,1993,American Storage,"Comedy,Special Interest",,,34,"Andrew Jay Cohen,",2006
+0,12580,19625,12651,Big Brother,Television,60,43,2325,,2000,Big Driver,Mystery,120,56,264,"Mikael Salomon,Michael Salomon,",2014
+1,3922,5053,1307,Maggie's Plan,"Comedy,Drama,Romance",98,63,5965,Rebecca Miller,2016,Maggie's Plan,Comedy,98,64,7290,"Rebecca Miller,",2016
+0,7203,9528,2592,Untitled Bill & Ted Project,Comedy,0,,,Dean Parisot,,Untitled Neill Blomkamp/Alien Project,,,,32,"Neill Blomkamp,",2017
+0,10048,14601,16276,Rabid Dog,"Crime,Drama,Mystery",48,91,10808,Sam Catlin,2013,Dead Dog,Mystery,,58,79,"Christopher Goode,",2006
+1,6147,7890,17644,Shock Treatment,"Comedy,Musical",94,58,3544,Jim Sharman,1981,Shock Treatment,"Comedy,Musical,Performing Arts,Television",94,66,8049,"Jim Sharman,",1981
+0,725,681,5337,The New Adventures of Superman,"Animation,Sci-Fi",30,76,415,,1966,The Adventures of Ragtime,,120,,1,"William Byron Hillman,",1998
+0,9550,13627,2867,CBS This Morning,"News,Television",120,54,40,,1987,Son Of Morning,"Comedy,Drama",81,42,72,"Yanviz Raz,Yaniv Raz,",2011
+0,66,63,4626,Untitled Max Landis Project,Adventure,0,,,,,Untitled Woody Allen Project,Comedy,,,13,"Woody Allen,",2017
+0,3860,4932,18555,God's Not Dead,,84,50,1715,,2013,God's New Plan,"Drama,Television",93,64,270,"Michael Switzer,",1999
+0,2195,2474,176,Ghostbusters 2016,"Comedy,Television",51,,,,2016,Ghostbusters,"Action,Adventure,Comedy,Science Fiction,Fantasy",105,62,112895,"Paul Feig,",2016
 0,3194,3753,5615,Match of the Day 2,Sport,45,78,518,,2004,Back In The Day,,121,52,65,"Paul Borghese,",2016
-1,8056,11044,11981,Closet Land,"Drama,Mystery",89,72,2171,Radha Bharadwaj,1991,Closet Land,"Drama,Mystery",95,80,2287,"Radha Bharadwaj,",1991
-0,2668,2890,6647,Looking: The Movie,"Comedy,Drama",85,78,2792,Andrew Haigh,2016,Friends: The Movie,Comedy,2,,59,,2015
-0,2759,2997,15831,The Last Detective,"Comedy,Crime,Drama",90,79,819,Richard Harris,2003,The Last Showing,"Art House,International,Horror,Mystery",,50,88,"Phil Hawkins,",2014
-0,6646,8693,10182,The Game Plan,"Comedy,Drama",45,,,,2016,The Game,Mystery,128,72,140936,"David Fincher,",1997
-0,13253,21225,2398,Man's World,Comedy,0,75,1156,,2015,Wayne's World,Comedy,95,68,461410,"Penelope Spheeris,",1992
-1,12327,19148,9008,Bill Cunningham New York,"Documentary,Biography",84,79,4335,Richard Press,2011,Bill Cunningham New York,"Documentary,Musical,Performing Arts",84,86,3951,"Richard Press,",2011
-0,7672,10230,17936,Breaking Chains,Comedy,22,80,33,,2016,Breaking Upwards,"Drama,Romance",88,66,1159,"Daryl Wein,",2010
-0,12736,19965,16613,Summer Book,Drama,92,64,705,Seyfi Teoman,2008,Summer of 8,,88,60,48,"Ryan Schwartz,",2016
-1,5379,6932,4831,The Out-of-Towners,Comedy,90,53,10567,Sam Weisman,1999,The Out-of-Towners,Comedy,92,52,13885,"Sam Weisman,",1999
-0,612,596,7062,Transporter 3,"Action,Adventure,Crime",104,61,127831,Olivier Megaton,2008,Transporter 3,"Action,Adventure",104,68,201699,"Olivier Megaton,",2008
-0,2837,3165,13975,Emma's Chance,"Drama,Family,Sport",93,63,349,Anna Elizabeth James,2016,Emma's Chance,Drama,93,70,67,"Anna Elizabeth James,",2016
-0,2887,3233,8200,American Crime,Drama,43,77,5848,John Ridley,2015,American Heart,Drama,113,68,1531,"Martin Bell,",1992
-0,9526,13566,12069,Top of the Heap,Comedy,30,53,103,"Ron Leavitt,Arthur Silver",1991,Rage of the Yeti,Horror,,34,29,"David Hewlett,",2011
-0,11571,17575,6094,Fassbinder in Hollywood,Documentary,57,69,82,Robert Fischer,2002,Forever Hollywood,"Documentary,Horror",57,68,1016,"Arnold Glassman,Todd McCarthy,",2000
-0,6892,9130,1080,Muppets Most Wanted,"Adventure,Comedy,Crime",107,64,24639,James Bobin,2014,Muppets Most Wanted,"Comedy,Kids,Family",107,70,64892,"James Bobin,",2014
-0,2509,2739,14609,Last Man,"Drama,War",0,,,,,Last Dance,Drama,113,50,26,"Colin Nutley,",1993
-1,8411,11721,8122,The Hard Way,"Drama,Musical,Romance",109,72,796,Vincent Sherman,1943,The Hard Ride,Western,,,0,"Terry Leonard,Thadd Turner,",2007
-0,10515,15726,17165,My Little Pony Tales,"Animation,Family,Fantasy",30,63,467,,1992,Little Boy Blue,"Drama,Mystery",102,70,1189,"Antonio Tibaldi,",1998
-0,11418,17481,7916,American Pickers,"Documentary,Television",60,70,5092,Mike Wolfe,2010,American Blood,Mystery,,,191,,2016
-0,6422,8302,13708,From Beyond the Grave,"Fantasy,Horror",97,68,2354,Kevin Connor,1975,Beyond the Sea,"Drama,Musical,Performing Arts",118,66,17888,"Kevin Spacey,",2004
-1,1545,1671,8844,Frankenstein,"Drama,Horror,Sci-Fi",70,80,49236,James Whale,1931,Frankenstein,"Classics,Horror,Science Fiction,Fantasy,Special Interest",70,74,40997,"James Whale,",1931
-0,6498,8460,6740,Battle of the Damned,"Action,Adventure,Horror",88,45,2987,Christopher Hatton,2014,Bed of the Dead,"Art House,International,Horror",88,,9,,2016
-0,13323,21331,16308,The Book of Pooh,Family,30,63,352,,2001,The Color of Rain,Drama,120,84,7,"Anne Wheeler,",2014
-1,1940,2184,9431,Milk,"Biography,Drama,History",128,76,138123,Gus Van Sant,2009,Milk,"Drama,Adult",128,80,177298,"Gus Van Sant,",2008
-0,3852,4919,17194,Summer Camp,Horror,81,50,1371,Alberto Marini,2016,Summer Camp Movie,"Comedy,Kids,Family",94,64,45,,1994
-0,1751,1955,3174,From the Land of the Moon,"Drama,Romance",120,69,282,Nicole Garcia,2016,From the Land of the Moon (Mal de pierres),"Art House,International,Drama,Romance",116,62,20,"Nicole Garcia,",2016
-1,6925,9190,2385,The Spanish Prisoner,"Drama,Mystery",110,73,18835,David Mamet,1998,The Spanish Prisoner,"Drama,Mystery",112,74,7681,"David Mamet,",1997
-0,11825,18098,6849,Happy Easter,Comedy,98,63,1482,Georges Lautner,1984,Happy Campers,Comedy,91,64,4483,"Daniel Waters,",2001
-0,10467,15623,11571,Meet Wally Sparks,Comedy,105,51,2491,Peter Baldwin,1997,Meet Wally Sparks,Comedy,106,52,3424,"Peter Baldwin,",1997
-0,5093,6628,12511,Season of the Witch,"Action,Adventure,Fantasy",95,54,77041,Dominic Sena,2011,Keeper of the City,"Action,Adventure,Drama,Mystery",95,,13,"Bobby Rich,Bobby Roth,",1992
-0,11850,18192,7915,Sands of the Kalahari,Adventure,119,70,885,Cy Endfield,1965,Guardians of the Galaxy 2,"Action,Adventure,Comedy,Science Fiction,Fantasy",,,20582,"James Gunn (II),",2017
-1,4751,6242,2295,Revenge of the Nerds,Comedy,90,66,40346,Jeff Kanew,1984,Women of the Night,Comedy,56,,8,,
-0,8743,12220,9203,True Grit,"Adventure,Western,Drama",128,74,33747,Henry Hathaway,1969,True Grit,"Classics,Western",128,76,25864,"Henry Hathaway,",1969
-1,10643,16055,5238,The Nightmare Room,"Family,Fantasy,Horror",30,76,328,,2001,The Waiting Room,Drama,92,,21,"Igor Drljaca,",2016
-0,1624,1750,225,Harry Potter and the Order of the Phoenix,"Adventure,Family,Fantasy",138,75,361343,David Yates,2007,Harry Potter and the Order of the Phoenix,"Action,Adventure,Drama,Kids,Family,Science Fiction,Fantasy",138,78,2330688,"David Yates (II),",2007
-0,5663,7335,17805,Justice League,"Action,Adventure,Fantasy",0,,,Zack Snyder,2017,Justice League of America,"Action,Adventure,Science Fiction,Fantasy,Television",,68,394,"Flix Enrquez Alcal,",1997
+0,4962,6471,76,Assassin's Creed 2,"Action,Adventure,History",0,,,,,Assassin's Creed,"Action,Adventure,Drama",116,,39334,"Justin Kurzel,",2016
+1,8787,12261,5118,Intolerable Cruelty,"Comedy,Crime,Romance",100,63,77263,"Joel Coen,Ethan Coen",2003,Intolerable Cruelty,"Comedy,Romance",100,58,66430,"Joel Coen,",2003
+1,5998,7663,13832,Evening,"Drama,Romance",117,66,11738,Lajos Koltai,2007,Evening,Drama,117,62,123694,"Lajos Koltai,",2007
+0,12649,19771,6455,Prince Family Paper,Comedy,22,79,922,Asaad Kelada,2009,Prince and the Pauper,"Action,Adventure",,64,2384,"Giles Foster,",2009
+0,3935,5069,1562,The Love Witch,"Comedy,Horror",120,67,146,Anna Biller,2016,The Noonday Witch,Horror,90,,1,,2016
+0,5150,6677,2401,The Adventures of Nick,Animation,0,78,26,,2013,The Adventures of Ford Fairlane,"Comedy,Mystery",101,64,8509,"Renny Harlin,",1990
+1,10923,16637,750,Spy Game,"Action,Crime,Mystery",126,70,122430,Tony Scott,2001,Spy Game,"Action,Adventure,Drama,Mystery",127,66,113770,"Tony Scott,",2001
+0,8994,12636,839,After Lately,Comedy,0,70,490,,2011,After Earth,"Action,Adventure,Science Fiction,Fantasy",100,56,121343,"M. Night Shyamalan,",2013
+0,7383,9803,11885,The Invisible Man,"Comedy,Mystery,Sci-Fi",120,76,2436,,2000,The Invisible Front,Documentary,86,86,50,"Vincas Sruoginis,Jonas Ohman,",2014
+0,7143,9433,5002,The Man Who Forgot His Wife,Drama,0,,,,,The Man Who Wasn't There,"Action,Adventure,Comedy,Mystery,Science Fiction,Fantasy,Romance",111,46,81,"Bruce Malmuth,",1983
+0,7700,10319,5693,Real Rob,Comedy,30,67,942,,2015,Real Eve,"Special Interest,Television",100,,6,,2002
+0,1064,1149,412,Still Walking,Drama,115,80,7618,Hirokazu Koreeda,2008,Still Waters,Mystery,,,3,"Ray Burdis,",2015
+0,10698,16194,18710,This Is Not Happening,Comedy,0,81,219,,2013,This Is Not a Test,"Comedy,Drama",89,62,2052,"Chris Angel,",2008
+1,9577,13654,13800,King of New York,"Crime,Mystery",103,70,24116,Abel Ferrara,1990,King of New York,"Action,Adventure,Drama",106,74,21008,"Abel Ferrara,",1990
+0,5319,6843,2360,Father of the Bride Part II,"Comedy,Family,Romance",106,59,27000,Charles Shyer,1995,Father of the Bride,Comedy,105,64,374935,"Charles Shyer,",1991
+0,8223,11347,13387,Blood on the Streets,"Crime,Drama,Action",110,63,1231,Jacques Deray,1974,Weather in the Streets,Drama,110,,7,"Gavin Millar,",1999
+0,2562,2757,1774,Partners,Comedy,22,60,1135,"Robert L. Boyett,Robert Horn",2014,Partners,Comedy,93,60,399,"James Burrows,",1982
+0,3674,4608,11281,About Her Brother,Drama,126,72,441,Yji Yamada,2010,Brother to Brother,Drama,90,70,1068,"Rodney Evans,",2004
+0,6764,8907,16499,Captain America,"Action,Sci-Fi,War",97,33,8717,Albert Pyun,1990,Africans in America,"Documentary,Special Interest",90,,3,,1998
+0,3905,5002,1832,My America,Drama,0,63,119,Marcello Daciano,2010,My All American,Drama,118,80,3637,"Angelo Pizzo,",2015
+1,604,592,3469,The Bourne Legacy,"Action,Adventure,Drama",135,67,234264,Tony Gilroy,2012,The Bourne Legacy,"Action,Adventure,Mystery",135,70,281577,"Tony Gilroy,",2012
+1,520,499,16088,Luster,"Comedy,Drama",92,55,1026,Everett Lewis,2002,Luster,"Comedy,Drama,Adult",90,58,936,"Everett Lewis,",2002
+1,8136,11188,14731,Taxi,"Action,Comedy,Crime",97,44,33286,Tim Story,2004,Taxi,"Action,Adventure,Comedy",98,56,183749,"Tim Story,",2004
+0,4934,6443,9282,Pirates of the Caribbean: At World's End,"Action,Adventure,Fantasy",169,71,477886,Gore Verbinski,2007,Pirates of the Caribbean: Dead Man's Chest,"Action,Adventure,Comedy,Science Fiction,Fantasy",151,78,1845954,"Gore Verbinski,",2006
+0,13401,21502,4369,All Night,"Comedy,Drama",58,61,46,Paul Powell,1918,All Is Bright,"Comedy,Drama",107,52,722,"Phil Morrison,",2013
+0,9939,14276,8247,Super Robin,"Animation,Action,Comedy",12,44,64,Peter Rida Michail,2013,Super Hybrid,"Horror,Mystery",,46,237,"Eric Valette,",2011
+1,10778,16360,8907,M,"Crime,Drama,Mystery",99,84,100726,Fritz Lang,1931,M,"Art House,International,Drama,Mystery",105,88,35541,"Fritz Lang,",1931
+0,1180,1333,5823,Untitled Shimit Amin/YRF Project,Drama,0,,,,,Untitled McG Sci-Fi/Adventure Project,Mystery,117,78,125,"McG,",2014
+0,8740,12205,19087,Welcome to Hard Times,"Drama,Western",103,61,1077,Burt Kennedy,1967,Welcome to the Family,,120,,1,"Alton Glass,",2015
+0,1326,1517,1841,The Delivery Man,Comedy,30,73,470,,2015,The Wicker Man,"Action,Adventure,Drama,Horror,Mystery",106,46,88493,"Neil LaBute,",2006
+0,2452,2705,18195,American Blood,"Crime,Drama",0,,,,,American Tragedy,"Drama,Television",170,,50,"Lawrence Schiller,",2000
+1,6298,8067,19066,"Me, Natalie","Comedy,Drama",111,70,648,Fred Coe,1970,"Me, Natalie","Classics,Comedy,Drama",111,76,423,"Fred Coe,",1969
+0,9293,13119,15536,The Great Gatsby,News,30,,,,2013,The Great Chameleon,Comedy,,,3,"Goran Kalezic,",2012
+1,6130,7872,1575,Zoom,"Animation,Comedy,Drama",96,63,949,Pedro Morelli,2016,Zoom,"Animation,Art House,International,Comedy,Drama",96,64,282,"Pedro Morelli,",2016
+1,9851,14112,8872,Let Me In,"Drama,Fantasy,Horror",116,72,93524,Matt Reeves,2010,Let Me In,"Drama,Horror,Science Fiction,Fantasy,Romance",116,74,66144,"Matt Reeves,",2010
+0,1850,2097,1795,In Search of...,"Documentary,Sci-Fi",30,86,598,,1976,In Search of Gregory,"Drama,Romance",90,,10,"Peter Wood,",1970
+0,12706,19873,6966,The Other,Drama,83,60,455,Ariel Rotter,2007,The Other Side,Comedy,,,0,,2016
+0,12667,19811,17281,Maps to the Stars,"Comedy,Drama",111,62,29000,David Cronenberg,2015,Beyond the Stars,"Drama,Mystery,Science Fiction,Fantasy",94,56,210,"David Saperstein,",1989
+1,1582,1715,2398,Wayne's World,"Comedy,Musical",94,70,116049,Penelope Spheeris,1992,Wayne's World,Comedy,95,68,461410,"Penelope Spheeris,",1992
+1,7234,9564,4491,Drive Hard,"Action,Comedy,Crime",92,43,3171,Brian Trenchard-Smith,2014,Drive Hard,"Action,Adventure,Art House,International,Comedy,Special Interest",96,42,398,"Brian Trenchard-Smith,",2014
+0,2725,2979,2103,Wyrd Sisters,"Animation,Comedy,Fantasy",140,72,703,,1997,Go For Sisters,Drama,122,64,336,"John Sayles,",2013
+1,13229,21107,913,Om Shanti Om,"Action,Comedy,Drama",162,66,29529,Farah Khan,2007,Om Shanti Om,"Action,Adventure,Comedy,Drama",162,80,27080,"Farah Khan,",2007
+0,3128,3616,16540,The X Factor,"Musical,Television",60,45,3495,,2004,Chill Factor,"Action,Adventure,Mystery",102,54,13197,"Hugh Johnson,",1999
+1,5712,7393,10049,Teenage Mutant Ninja Turtles,"Action,Adventure,Comedy",93,67,70584,Steve Barron,1990,Teenage Mutant Ninja Turtles: The Movie,"Action,Adventure,Kids,Family,Science Fiction,Fantasy",93,66,251612,"Steve Barron,Steven Barron,",1990
+0,7098,9372,8264,Shall We Dance,"Comedy,Drama,Romance",106,61,35880,Peter Chelsom,2004,Sparrows Dance,"Comedy,Drama,Romance",81,76,216,"Noah Buschel,",2013
+0,6784,8919,11693,Captain America,"Animation,Comedy",0,73,40,,2011,Made in America,"Documentary,Musical,Performing Arts",93,60,272,"Ron Howard,",2014
+1,7300,9677,5591,ATL,"Comedy,Crime,Drama",105,60,8570,Chris Robinson,2006,ATL,"Comedy,Drama",105,78,117034,"Chris Robinson,",2006
+0,4021,5169,14010,Saturday Night Live: Weekend Update Thursday,Comedy,0,72,514,,2008,Saturday Night Live: The Best of John Belushi,"Comedy,Television",78,80,1572,"Kenneth Bowser,",2000
+1,11154,16972,4539,The Canal,"Horror,Mystery",92,59,9346,Ivan Kavanagh,2014,The Canal,Horror,92,64,1110,"Ivan Kavanagh,",2014
+0,4500,5923,1292,Last Day on Earth,Television,42,61,49,,2016,4:44 Last Day on Earth,"Drama,Science Fiction,Fantasy",85,44,1687,"Abel Ferrara,",2012
+1,2351,2632,16233,My Beautiful Broken Brain,"Documentary,Biography",86,72,1018,"Sophie Robinson,Lotje Sodderland",2016,My Beautiful Broken Brain,"Art House,International,Documentary",86,76,116,"Sophie Robinson (VI) ,Lotje Sodderland (II) ,Lotje Sodderland,Sophie Robinson,",2016
+0,10113,14723,15128,Pond Life,"Short,Comedy,Sci-Fi",5,82,671,,2012,Wild Life,"Art House,International,Comedy,Drama,Mystery",121,60,72,"Shinji Aoyama,",1997
 1,8550,11952,10477,Nell,Drama,112,65,22985,Michael Apted,1994,Nell,Drama,112,62,37535,"Michael Apted,",1994
-0,10154,14791,11668,Midnight Offerings,Horror,100,63,372,Rod Holcomb,1981,Midnight Movie,Horror,80,52,7589,"Jack Messitt,",2008
-0,7786,10473,13438,Manhunter,"Crime,Horror,Mystery",119,72,50634,Michael Mann,1986,Manhunter,"Action,Adventure,Mystery",121,70,52823,"Michael Mann,",1986
-0,9959,14387,1309,Little Bear,"Animation,Family",0,71,2063,"Else Holmelund Minarik,Maurice Sendak",1995,Little Women,Drama,,,2,,2015
-0,4007,5144,4404,The Dr. Oz Show,Television,60,48,735,,2009,The War Show,Documentary,100,,1,"Andreas Dalsgaard,Obaidah Zytoon,",2016
-1,8725,12173,4117,Thelma & Louise,"Adventure,Crime,Drama",130,74,102705,Ridley Scott,1991,Thelma & Louise,Comedy,130,68,169324,"Ridley Scott,",1991
-0,4762,6245,8899,They Live,"Action,Horror,Sci-Fi",93,73,75177,John Carpenter,1988,They Live,"Comedy,Drama,Horror,Mystery,Science Fiction,Fantasy",97,72,38056,"John Carpenter,",1988
-0,201,173,11175,The Last Battle,"Animation,Action,Adventure",30,,,,2016,The Last Mimzy,"Action,Adventure,Drama,Kids,Family",96,62,258623,"Robert Shaye,",2007
-0,10898,16570,11030,First Dates,Television,0,,,,,50 First Dates,Comedy,99,68,32699619,"Peter Segal,",2004
+1,2923,3283,7395,Qu Culpa Tiene el Nio?,"Comedy,Romance",105,70,1349,Gustavo Loza,2016,Qu Culpa Tiene el Nio?,"Art House,International,Comedy,Romance",105,66,133,"Gustavo Loza,",2016
+0,1957,2197,11057,Match Point,"Drama,Romance,Mystery",119,77,168731,Woody Allen,2006,Set Point,"Art House,International",,,52,"Ilmar Taska,",2005
+0,4374,5732,2929,Beavis and Butt-Head,"Animation,Comedy,Musical",15,75,21552,Mike Judge,1993,Beavis and Butt-head Do America,"Animation,Comedy",80,60,301636,"Mike Judge,Kim Jong-ho,Park Jun Nam,Yvette Kaplan,Chris Prynoski,Kim Jae Joong,",1996
+0,7466,9925,4294,Invasion,Sci-Fi,0,,,,,Home Invasion,"Horror,Mystery",90,50,137,"David Tennant,",2016
+1,4957,6466,4105,The Mexican,"Adventure,Comedy,Crime",123,61,88211,Gore Verbinski,2001,The Mexican,"Action,Adventure,Comedy,Drama",124,58,132167,"Gore Verbinski,",2001
+0,2702,2954,5820,The Smoking Room,Comedy,30,80,632,,2004,The Keeping Room,"Drama,Mystery,Western",86,64,1662,"Daniel Barber,",2015
+0,10820,16444,18269,Rich Kids of Beverly Hills,Television,30,30,688,,2014,Troop Beverly Hills,Comedy,100,52,31090,"Jeff Kanew,J. Kanew,",1989
+0,10628,16002,14787,Staying Alive,"Drama,Musical,Romance",93,45,11392,Sylvester Stallone,1983,Eating You Alive,Documentary,,,7,"Paul David Kennamer Jr.,",2016
+0,13452,21563,8157,The Chase,Television,60,77,308,,2013,The Chase,"Action,Adventure,Comedy",84,54,20004,"Adam Rifkin,",1994
+0,2855,3208,4614,Twilight: Breaking Down/GOllum ON,"Animation,Comedy",12,54,10,,2013,Twilight Saga: Breaking Dawn Part 1,"Mystery,Science Fiction,Fantasy,Romance",117,70,186141,"Bill Condon,",2011
+0,12738,19971,2960,The Land of the Enlightened,"Documentary,Drama,War",87,74,226,Pieter-Jan De Pue,2016,The Legend of the North Wind,"Animation,Special Interest",69,,9,,1992
+0,2885,3233,7720,American Crime,Drama,43,77,5848,John Ridley,2015,American Me,Drama,126,82,10214,"Edward James Olmos,",1992
+1,7866,10610,17584,The Wraith,"Action,Horror,Romance",93,59,10282,Mike Marvin,1986,The Wraith,"Action,Adventure,Mystery,Science Fiction,Fantasy",93,66,9102,"Mike Marvin,",1986
+0,12662,19807,14788,The Way of the Dragon,"Action,Comedy,Crime",90,73,23359,Bruce Lee,1972,The Last Dragon,"Action,Adventure",,88,337,,2014
+1,5694,7376,10040,Edward Scissorhands,"Drama,Fantasy,Romance",105,79,362519,Tim Burton,1990,Edward Scissorhands,"Drama,Science Fiction,Fantasy,Romance",100,76,1031461,"Tim Burton,",1990
+1,5374,6920,16038,Gog,"Drama,Horror,Romance",83,55,714,Herbert L. Strock,1954,Gog,"Classics,Mystery,Science Fiction,Fantasy",82,54,106,"Herbert L. Strock,",1954
+0,7122,9397,890,The New Boss,Comedy,30,68,31,Nancy Hower,2006,The Boss,Comedy,105,60,26291,"Ben Falcone,",2016
+1,3664,4581,7549,Ziggy Stardust and the Spiders from Mars,"Documentary,Musical",90,75,1993,D.A. Pennebaker,1973,Ziggy Stardust and the Spiders from Mars,"Documentary,Musical,Performing Arts,Special Interest",91,82,1887,"D.A. Pennebaker,",1973
+1,82,91,66,The Light Between Oceans,"Drama,Romance",133,73,3720,Derek Cianfrance,2016,The Light Between Oceans,"Drama,Romance",132,72,11113,"Derek Cianfrance,",2016
+0,8926,12501,15728,Secret Garden,"Comedy,Drama,Fantasy",60,85,2413,,2010,Secret Life,Drama,70,,2,"Rowan Joffe,",
+1,11674,17734,12781,Hider in the House,Mystery,104,59,865,Matthew Patrick,1991,Hider in the House,"Action,Adventure,Horror,Mystery",109,66,437,"Michael Patrick,Matthew Patrick,",1990
+1,715,675,10732,Why Did I Get Married?,"Comedy,Drama",113,56,9908,Tyler Perry,2007,Why Did I Get Married Too,"Comedy,Drama",120,68,119437,"Toyomichi Kurita,Tyler Perry,",2010
+0,5433,7001,9722,Ghosts of Goldfield,Horror,88,31,566,Ed Winfield,2007,Ghosts of Cit Soleil,Documentary,88,72,14211,"Asger Leth,Milos Loncarevic,",2006
+0,5233,6762,2549,Big Business,Comedy,97,63,9155,Jim Abrahams,1988,Women in Business,Comedy,,,24,"Jake Szymanski,",2017
+1,3975,5113,1279,Joshy,Comedy,93,57,1273,Jeff Baena,2016,Joshy,Comedy,93,68,597,"Jeff Baena,",2016
+0,1309,1506,3462,Mission: Impossible,"Action,Adventure,Mystery",110,71,304750,Brian De Palma,1996,Mission: Impossible Ghost Protocol,"Action,Adventure,Mystery",132,78,471854,"Brad Bird,",2011
+0,4288,5527,5337,The Adventures of Supergirl,"Action,Adventure,Drama",42,87,1041,Glen Winter,2016,The Adventures of Ragtime,,120,,1,"William Byron Hillman,",1998
+0,7340,9746,16673,Tears of the Sea,"Action,Adventure,Fantasy",43,72,8,Michael Pattinson,2000,Family of the Year,Comedy,,,2,"Joel Zwick,",2005
+0,6632,8653,8004,Sweeney Todd Part 2,Comedy,0,,,,2010,Sweeney Todd,"Drama,Horror,Mystery,Television",95,72,4609,"David Moore,Dave Moore,",2006
+0,9549,13614,14923,Round Four,"Family,Television,Musical",122,52,9,Alex Rudzinski,2009,Hard Four,Comedy,,,51,"Charles Dennis,",2005
+0,2592,2780,4626,Untitled Nash Edgerton Project,"Action,Comedy,Drama",0,,,Nash Edgerton,2017,Untitled Woody Allen Project,Comedy,,,13,"Woody Allen,",2017
+0,6399,8242,18619,Sisters of Death,Mystery,87,44,702,Joe Mazzuca,1976,Out of Depth,Drama,99,,5,,1999
+1,8122,11167,13814,Pennies from Heaven,"Drama,Musical,Romance",108,65,4272,Herbert Ross,1982,Pennies From Heaven,"Drama,Musical,Performing Arts,Romance",107,66,3662,"Herbert Ross,",1981
+1,11032,16858,10393,Lost and Delirious,"Drama,Romance",103,70,17254,La Pool,2001,Lost and Delirious,"Drama,Romance",102,74,16116,"La Pool,",2001
+0,3955,5094,17955,Dirty 30,Comedy,86,56,1002,Andrew Bush,2016,Dirty lies,,94,56,14,"Jamie Marshall,",2016
+0,12063,18597,12870,La Poison,"Comedy,Crime",85,77,580,Sacha Guitry,1951,Sweet Poison,"Drama,Mystery",101,,61,,1991
+1,8607,12030,5931,Something to Talk About,"Comedy,Drama,Romance",106,57,10621,Lasse Hallstrm,1995,Something to Talk About,"Comedy,Drama,Romance",106,60,41969,"Lasse Hallstrom,",1995
+0,4451,5863,12023,The Last Kingdom,"Action,History,Romance",60,83,20230,,2015,The Last Days,"Horror,Mystery",100,62,365,"David Pastor,Alex Pastor,",2014
+1,8521,11915,8470,Being Human,"Comedy,Drama",122,54,3331,Bill Forsyth,1994,Being Human,"Comedy,Drama",122,58,3218,"Bill Forsyth,",1994
+1,9864,14125,4361,Anita & Me,"Comedy,Drama",89,64,1434,Metin Hseyin,2002,Anita & Me,"Comedy,Drama",93,68,1586,"Metin Huseyin,",2002
+0,8190,11311,12128,Split Second,"Action,Crime,Horror",90,62,8527,Tony Maylam,1992,Split Screen,"Special Interest,Television",360,,39,,2003
+0,1028,1085,2427,X-Men: Evolution,"Animation,Action,Drama",23,79,6992,,2000,Evolution,"Comedy,Science Fiction,Fantasy",102,58,258771,"Ivan Reitman,",2001
+0,2724,2979,1153,Wyrd Sisters,"Animation,Comedy,Fantasy",140,72,703,,1997,Sisters,"Comedy,Drama",123,66,39983,"Jason Moore,",2015
+0,8018,10919,6848,One Dark Night,Horror,89,58,1286,Tom McLoughlin,1983,One Part Sugar,Comedy,,,140,"Hart Bochner,",
+0,11047,16894,1339,Chasing Valentine,"Drama,Mystery",87,82,41,Navin Ramaswaran,2015,My Valentine,"Musical,Performing Arts",3,74,42,,2012
+1,7560,10070,11652,Shoot 'Em Up,"Action,Comedy,Crime",86,67,130777,Michael Davis,2007,Shoot 'Em Up,"Action,Adventure,Drama,Mystery",87,68,325225,"Michael Davis,",2007
+0,6572,8572,11129,Intruders,"Biography,Horror,Mystery",163,65,976,,1992,The Intruders,Mystery,92,48,280,"Adam Massey,",2015
+1,2224,2512,6845,Jeepers Creepers II,Horror,104,56,45829,Victor Salva,2003,Jeepers Creepers 2,Horror,104,56,356755,"Victor Salva,",2003
+0,6888,9129,11694,Wrath of the Titans,News,30,,,,2012,Weight of the Nation,Documentary,,84,24,"Dan Chaykin,",2012
+1,8868,12453,8155,Nadine,"Comedy,Mystery,Romance",83,55,3091,Robert Benton,1987,Nadine,"Comedy,Drama,Romance",83,56,1729,"Robert Benton,",1987
+0,9583,13657,16140,At Close Range,"Crime,Drama",111,70,10953,James Foley,1986,Lawless Range,Western,,,0,"Sean McGinly,",2016
+0,5721,7397,3053,Transformers: Age of Extinction,"Action,Adventure,Sci-Fi",165,57,245694,Michael Bay,2014,Transformers: Revenge of the Fallen,"Action,Adventure,Science Fiction,Fantasy",149,70,4080302,"Michael Bay,",2009
+0,8825,12338,1601,Five Nights at Freddy's,"Comedy,Horror",0,,,,,Five Nights in Maine,Drama,82,58,80,"Maris Curran,",2016
+1,6354,8161,17255,Way of the Wicked,"Fantasy,Mystery",92,39,1037,Kevin Carraway,2014,Way of the Wicked,"Drama,Horror,Mystery",92,40,117,"Kevin Carraway,",2014
+0,8026,10926,14927,The Big One,"Documentary,Comedy,Crime",91,71,7055,Michael Moore,1998,The Big Thing,"Art House,International",,,49,"Aleks Horvat,",2000
+0,11497,17485,13909,American Greed,Documentary,0,82,194,,2007,American Yakuza,"Action,Adventure,Drama,Mystery",100,58,3466,"Frank Cappello,Frank A. Cappello,",1993
+0,2716,2964,5487,Uncle,Comedy,30,78,1460,,2012,Say Uncle,"Comedy,Drama,Adult",90,54,17579,"Peter Paige,",2006
+0,9154,12901,4626,Untitled Marvel Project,,0,,,,2020,Untitled Woody Allen Project,Comedy,,,13,"Woody Allen,",2017
+0,7231,9561,14144,The November Man,"Action,Crime,Mystery",108,63,50985,Roger Donaldson,2014,The Invisible Man,Horror,,,55,,2018
+1,1616,1743,222,Harry Potter and the Deathly Hallows: Part 1,"Adventure,Family,Fantasy",146,77,334082,David Yates,2010,Harry Potter and the Deathly Hallows - Part 1,"Action,Adventure,Drama,Kids,Family,Mystery,Science Fiction,Fantasy",146,82,349282,"David Yates (II),",2010
+0,6802,8948,6740,Mark of the Devil,"Drama,History,Horror",90,62,2158,"Michael Armstrong,Adrian Hoven",1972,Bed of the Dead,"Art House,International,Horror",88,,9,,2016
+1,578,565,3647,X-Men: Days of Future Past,"Action,Adventure,Sci-Fi",132,80,522396,Bryan Singer,2014,X-Men: Days of Future Past,"Action,Adventure,Science Fiction,Fantasy",131,86,274058,"Bryan Singer,",2014
+0,46,52,2971,The Good Neighbor,Mystery,98,62,3361,Kasra Farahani,2016,The Good Soldier,"Drama,Television",,,8,"Kevin Billington,",1981
+0,7185,9486,15486,Event Zero,Mystery,0,71,30,,2012,Event Horizon,"Horror,Science Fiction,Fantasy",95,64,67228,"Paul W.S. Anderson,",1997
+0,8772,12253,6920,Broken Trail,Western,184,78,4739,,2006,Broken Tower,"Art House,International,Drama",100,46,3008,"James Franco,",2012
+1,1063,1148,6532,Tsukiji Wonderland,Documentary,111,80,59,Shtar End,2016,Tsukiji Wonderland,"Art House,International,Documentary",111,,8,"Shtar End,",2016
+0,828,881,10522,Who Killed Tex Fest?,"Comedy,Family",22,86,7,Trevor Kirschner,2015,Who Killed JonBent?,,122,,3,"Jason Lapeyre,",2016
+1,5728,7402,12037,Dawn of the Justice League,Short,22,80,298,Eric Matthies,2016,DC Films Presents: Dawn of the Justice League,,30,92,45,"Eric Matthies,",2016
+1,1519,1642,852,The Conjuring 2,"Horror,Mystery",134,76,102551,James Wan,2016,The Conjuring 2,Horror,133,80,51498,"James Wan,",2016
+0,2490,2736,2592,Untitled Will Smith TV Project,Comedy,0,,,,,Untitled Neill Blomkamp/Alien Project,,,,32,"Neill Blomkamp,",2017
+1,1781,2010,9411,Uncle Boonmee Who Can Recall His Past Lives,"Comedy,Drama,Fantasy",114,66,9388,Apichatpong Weerasethakul,2010,Uncle Boonmee Who Can Recall His Past Lives,"Art House,International,Comedy,Science Fiction,Fantasy,Special Interest",113,66,10206,"Apichatpong Weerasethakul,",2011
+0,9965,14398,4997,Time Chasers,Sci-Fi,89,23,2601,David Giancola,1994,The Dream Chasers,"Drama,Western",94,,6,"David E. Jackson,Arthur R. Dubs,Arthur Dubbs,",1984
+0,7439,9890,10049,Teenage Mutant Ninja Turtles: Out of the Shadows,,17,,,Mathew Buck,2016,Teenage Mutant Ninja Turtles: The Movie,"Action,Adventure,Kids,Family,Science Fiction,Fantasy",93,66,251612,"Steve Barron,Steven Barron,",1990
+0,13099,20836,1779,The Flying Man,Action,0,,,,,The Elephant Man,Drama,123,78,63855,"David Lynch,",1980
+0,7947,10784,6740,Return of the Evil Dead,Horror,91,59,1767,Amando de Ossorio,1975,Bed of the Dead,"Art House,International,Horror",88,,9,,2016
+1,2282,2573,4202,Sunshine,"Adventure,Sci-Fi,Mystery",107,73,192439,Danny Boyle,2007,Sunshine,"Drama,Science Fiction,Fantasy",107,70,167304,"Danny Boyle,",2007
+0,7514,9959,7951,Metal Men,Action,0,,,,,Middle Men,"Comedy,Drama",112,66,19223,"George Gallo,",2010
+1,7151,9441,1360,Garden State,"Comedy,Drama,Romance",102,76,188750,Zach Braff,2004,Garden State,"Comedy,Drama,Romance",102,76,329581,"Zach Braff,",2004
+0,12691,19841,18382,Countdown to Looking Glass,Drama,90,73,324,Fred Barzyk,1984,Countdown to Wednesday,"Documentary,Special Interest",120,,16,,2004
+0,8210,11329,19112,Across the Lake,,90,76,93,Tony Maylam,,Across the Line,Drama,87,,16,"Director X.,",2015
+0,7325,9709,7539,Pinocchio,Animation,93,75,95,Giuliano Cenci,1978,Pinocchio,,,,0,"Stepn Gajdos,",2015
+1,5623,7294,159,Whiplash,"Drama,Musical",107,85,417238,Damien Chazelle,2014,Whiplash,Drama,106,90,66358,"Damien Chazelle,",2014
+1,11898,18298,4040,I Shot Andy Warhol,"Biography,Drama",103,66,5520,Mary Harron,1996,I Shot Andy Warhol,"Art House,International,Drama",106,68,6265,"Mary Harron,",1996
+0,4245,5370,7884,The Road Runner Show,"Animation,Family,Comedy",30,81,3506,,1949,The Kite Runner,Drama,127,74,239809,"Marc Forster,Rebecca Yeldham,",2007
+1,12922,20583,4471,Blackway,Mystery,90,51,2422,Daniel Alfredson,2016,Blackway,Mystery,90,58,653,"Daniel Alfredson,",2016
+0,11433,17483,3435,American Restoration,Television,0,67,2263,,2010,American Hustle,Drama,129,76,174519,"David O. Russell,",2013
+0,7507,9956,14324,Henry IX,Comedy,0,,,,2017,Henry VIII,"Drama,Television",250,74,715,"Pete Travis,Pierre Jourdan,",2003
+1,6935,9208,8587,We're No Angels,"Comedy,Crime",106,60,17552,Neil Jordan,1989,We're No Angels,"Comedy,Romance",106,58,8637,"Neil Jordan,",1989
+0,5380,6935,3970,Taxi,"Action,Comedy,Crime",86,69,62275,Grard Pirs,1998,Taxi 3,"Action,Adventure",84,64,9323,"Grard Krawczyk,",2003
+0,10641,16053,15321,High School Musical,"Comedy,Drama,Family",98,52,60133,Kenny Ortega,2006,High School Musical 2,"Comedy,Kids,Family,Musical,Performing Arts",120,70,303149,"Kenny Ortega,",2007
+0,8514,11910,13759,Beyond the Stars,"Sci-Fi,Drama",88,53,839,David Saperstein,1989,Beyond the Rave,"Horror,Mystery",,44,67,"Matthias Hoene,",2008
+1,8575,11996,5152,For the Boys,"Comedy,Drama,Musical",138,63,4216,Mark Rydell,1991,For the Boys,"Comedy,Drama",120,64,7507,"Mark Rydell,",1991
+0,2517,2740,8021,The Wild Bunch,Western,0,,,,,The Wild Pair,"Action,Adventure",89,,52,"Beau Bridges,",1987
+0,12118,18758,1102,August Without Him,Documentary,77,69,27,Hirokazu Koreeda,2006,Not Without Hope,Drama,,,55,,2015
+0,3888,4966,12682,The Boy and the Beast,"Animation,Action,Adventure",119,77,5502,Mamoru Hosoda,2016,Beauty and the Beast,"Drama,Musical,Performing Arts,Science Fiction,Fantasy,Romance",,,25659,"Bill Condon,",2017
+0,5293,6826,2638,The Mortal Storm,Drama,100,79,3235,Frank Borzage,1940,The Ice Storm,Drama,113,72,34238,"Ang Lee,",1997
+0,10143,14758,13158,Lost: Reckoning,Drama,60,74,70,,2006,The Reckoning,Mystery,86,92,177,"John V. Soto,",2014
+1,539,519,17236,Immediate Family,Drama,95,61,1162,Jonathan Kaplan,1989,Immediate Family,Drama,100,68,1188,"Jonathan Kaplan,",1989
+0,11256,17199,3435,American Nudist,Drama,93,29,369,Clinton H. Wallace,2011,American Hustle,Drama,129,76,174519,"David O. Russell,",2013
+0,3204,3753,15761,Match of the Day 2,Sport,45,78,518,,2004,Day of the Dead,"Horror,Mystery",87,50,11061,"Steve Miner,",2008
+1,10528,15758,6585,Mortdecai,"Action,Comedy,Mystery",107,55,48607,David Koepp,2015,Mortdecai,"Action,Adventure",106,52,25107,"David Koepp,",2015
+0,9642,13732,16732,Walking Vengeance,"Crime,Drama,Mystery",129,58,1342,Agustn Daz Yanes,2008,Black Vengeance,Drama,90,,4,,1997
+1,9426,13406,3129,The Scarlet Letter,"Drama,Romance",135,51,12153,Roland Joff,1995,The Scarlet Letter,"Drama,Romance",135,56,20416,"Roland Joff,",1995
+0,10296,15169,6234,The X Files,"Drama,Mystery,Sci-Fi",121,70,86643,Rob Bowman,1998,The Rockford Files,"Drama,Mystery",,,15,,2013
+1,7847,10596,19094,Caddyshack II,"Comedy,Sport",98,36,12509,Allan Arkush,1988,Caddyshack II,Comedy,97,46,27390,"Allan Arkush,",1988
+0,408,364,16497,Captain America,"Animation,Action,Adventure",0,64,471,"Jack Kirby,Joe Simon",1966,Africans in America,"Documentary,Special Interest",90,,2,,1998
+0,13231,21160,12641,The Music Teacher,Drama,0,,,,,The English Teacher,"Comedy,Drama",93,56,4054,"Craig Zisk,",2013
+0,1906,2145,9003,Holby City,Drama,60,59,1049,,1999,Sound City,"Documentary,Musical,Performing Arts",108,86,6718,"Dave Grohl,",2013
+0,4854,6325,8401,Callie & Son,Drama,142,55,227,Waris Hussein,1981,Harry & Son,Drama,117,62,194,"Paul Newman,",1984
+0,7132,9418,9415,Adult Beginners,"Comedy,Drama",92,56,5792,Ross Katz,2015,Beginners,"Comedy,Drama",104,76,24610,"Mike Mills,",2011
+0,4039,5178,15968,Saturday Night Live: The Best of Chris Farley,"Documentary,Comedy",50,82,1925,"Beth McCarthy-Miller,Dave Wilson",,Saturday Night Live - Best of Clinton & Lewinsky,"Comedy,Television",,,21,,2000
+0,11767,18014,5562,This Is 40,"Comedy,Romance",134,62,105021,Judd Apatow,2012,This Is Soul,"Musical,Performing Arts",71,,4,,2006
+1,4740,6231,8478,Gung Ho,"Comedy,Drama",111,62,9435,Ron Howard,1986,Gung Ho,Comedy,111,60,7052,"Ron Howard,",1986
+1,1458,1592,13296,Bang Bang Baby,"Drama,Musical,Sci-Fi",90,54,142,Jeffrey St. Jules,2015,Bang Bang Baby,"Art House,International,Musical,Performing Arts,Science Fiction,Fantasy",85,62,53,"Jeffrey St. Jules,",2014
+0,757,697,16004,George of the Jungle,"Animation,Family,Comedy",30,71,584,,1967,Welcome to the Jungle,Horror,82,52,1791,"Jonathan Hensleigh,",2007
+0,9785,13942,3647,X-Men: Days of Future Past/Blended,"Comedy,Television",78,,,,2014,X-Men: Days of Future Past,"Action,Adventure,Science Fiction,Fantasy",131,86,274058,"Bryan Singer,",2014
+0,9021,12716,4329,The Last Five Years,"Comedy,Drama,Musical",94,59,6490,Richard LaGravenese,2015,The Last Producer,,120,,16,"Burt Reynolds,",2002
+0,12563,19585,14016,Earth to America,Comedy,120,58,84,"Ron de Moraes,Jay Roach",2005,Mandela in America,"Documentary,Special Interest",90,,11,,1990
+0,1730,1918,13019,Little Wing,Drama,100,70,96,Selma Vilhunen,2016,Little Eyolf,Drama,,,52,"Michael Darlow,",1982
+0,13381,21439,16362,Shrek Stories,,72,69,98,,2013,Toronto Stories,"Art House,International,Drama",89,54,200,"David Weaver,Aaron Woodley,Sook Yin Lee,David Sutherland,",2008
+0,4677,6155,16673,Dawn of the Dead,"Action,Horror,Mystery",127,80,90974,George A. Romero,1979,Family of the Year,Comedy,,,2,"Joel Zwick,",2005
+0,2664,2886,3152,Free Fall,"Drama,Romance",100,76,10886,Stephan Lacant,2013,Free Fire,"Action,Adventure,Comedy,Drama",,,377,"Ben Wheatley,",2017
+1,10977,16751,18707,Death Al Dente: A Gourmet Detective Mystery,"Crime,Drama,Mystery",0,67,63,Terry Ingram,2016,Death al Dente: A Gourmet Detective Mystery,Mystery,120,,0,"Terry Ingram,",2016
+0,7820,10566,7495,The American West,"History,Western",0,72,446,,2016,The American,"Drama,Mystery",105,56,66004,"Anton Corbijn,",2010
+0,2314,2596,14202,Shanghai Noon,"Action,Adventure,Comedy",110,66,97936,Tom Dey,2000,Shanghai Knights,"Action,Adventure,Comedy",114,62,334601,"David Dobkin,",2003
+0,5914,7581,17425,An Unfinished Life,Drama,108,70,24306,Lasse Hallstrm,2005,An Unexpected Life,Drama,92,,15,"David Hugh Jones,",1997
+0,9750,13883,6929,True Stories,"Musical,Comedy",90,70,3571,David Byrne,1986,Shotgun Stories,"Art House,International,Drama,Mystery",90,76,4599,"Jeff Nichols,",2007
+0,6564,8564,5543,Dracula,Horror,173,43,369,,2002,Dracula 2000,Horror,98,56,69870,"Patrick Lussier,",2000
+1,12891,20529,2863,J. Edgar,"Biography,Crime,Drama",137,66,103999,Clint Eastwood,2011,J. Edgar,Drama,137,62,39716,"Clint Eastwood,",2011
+0,3145,3703,13876,Persuasion,"Drama,Romance",93,76,10381,Adrian Shergold,2008,Persuasion,"Drama,Romance",102,78,22801,"Roger Michell,",1995
+0,5732,7409,12259,X-Men: The Last Stand,"Action,Adventure,Fantasy",104,68,388559,Brett Ratner,2006,Damon Wayans: The Last Stand?,Comedy,,84,80,"Terri McCoy,",1990
+1,2990,3426,13539,Percy Jackson & the Olympians: The Lightning Thief,"Adventure,Family,Fantasy",118,59,143056,Chris Columbus,2010,Percy Jackson & the Olympians: The Lightning Thief,"Action,Adventure,Comedy,Drama,Science Fiction,Fantasy",83,66,253745,"Chris Columbus,",2010
+1,1306,1505,3335,Kingsman: The Secret Service,"Action,Adventure,Comedy",129,78,408118,Matthew Vaughn,2015,Kingsman: The Secret Service,Mystery,128,80,121897,"Matthew Vaughn,",2015
+0,9690,13796,17542,Fruit of Paradise,Drama,99,71,586,Vera Chytilov,1970,Love in Paradise,Drama,120,60,13,"Sean McNamara,",2016
+0,3189,3752,12824,The Chase,Television,0,71,557,,2009,The Paper Chase,"Classics,Drama",111,70,4445,"James Bridges,",1973
+1,6991,9275,13654,Don't Tell Mom the Babysitter's Dead,Comedy,102,61,21992,Stephen Herek,1991,Don't Tell Mom the Babysitter's Dead,Comedy,105,58,130946,"Stephen Herek,",1991
+0,3403,4142,11938,The Moaning of Life,"Adventure,Comedy,Television",0,82,3584,,2014,The High Life,"Art House,International",93,,18,"Zhao Dayong,",2011
+0,1572,1702,13085,Anchorman: The Legend of Ron Burgundy,Comedy,94,72,271059,Adam McKay,2004,Anchorman 2: The Legend Continues,Comedy,119,66,164128,"Adam McKay,",2013
+0,11212,17100,15745,The Passion of the Christ,Drama,127,71,180617,Mel Gibson,2004,The Song of the Lark,Drama,120,,8,"Karen Arthur,",2000
+1,5054,6576,3981,Mean Girls,Comedy,97,70,250156,Mark Waters,2004,Mean Girls,Comedy,96,60,32166143,"Mark Waters (VIII),",2004
+1,7598,10118,15229,Prince of Persia: The Sands of Time,"Action,Adventure,Fantasy",116,66,225152,Mike Newell,2010,Prince of Persia: The Sands of Time,"Action,Adventure,Science Fiction,Fantasy,Romance",116,68,436612,"Mike Newell,",2010
+0,12184,18884,16438,Louis C.K.: Chewed Up,"Documentary,Comedy",61,86,7182,"Louis C.K.,Shannon Hartman",2008,Louis C.K.: Shameless,"Comedy,Television",60,86,552,,2007
+1,12311,19113,12672,Unexpected,"Comedy,Drama",90,57,2348,Kris Swanberg,2015,Unexpected,"Comedy,Drama",90,64,4092,"Kris Swanberg,",2015
+0,11390,17450,17468,Citizen Soldier,"Documentary,Action",105,51,208,"David Salzberg,Christian Tureaud",2016,Citizen Steve,Special Interest,,,97,"Steven Spielberg,",1987
+1,8559,11968,17229,Less Than Zero,"Crime,Drama",98,64,14512,Marek Kanievska,1987,Less Than Zero,Drama,98,68,12347,"Marek Kanievska,",1987
+0,11837,18158,18554,Lowlife Love,"Drama,Romance",110,70,81,Eiji Uchida,2016,No Higher Love,Drama,,74,62,"Michael Switzer,",1999
+1,6938,9212,10172,As Good as It Gets,"Comedy,Drama,Romance",139,77,226757,James L. Brooks,1997,As Good as It Gets,"Comedy,Drama,Romance",139,70,377905,"James L. Brooks,",1997
+1,7333,9724,10722,Cool Runnings,"Adventure,Comedy,Family",98,69,70631,Jon Turteltaub,1993,Cool Runnings,Comedy,98,68,532545,"Jon Turteltaub,",1993
+0,10880,16550,8481,Chode & Bobo's High School Reunion,"Animation,Comedy,Fantasy",22,75,17,,2005,Romy and Michele's High School Reunion,Comedy,91,56,194971,"David Mirkin,",1997
+0,12180,18881,16438,Louis C.K. Oh My God,"Documentary,Comedy",58,84,6083,Louis C.K.,2013,Louis C.K.: Shameless,"Comedy,Television",60,86,552,,2007
+0,9101,12862,9957,Top Gun 2,Action,0,,,,,Top Gun,"Action,Adventure,Drama",110,70,723508,"Tony Scott,",1986
+0,3416,4166,17776,The Thick of It,Comedy,29,88,12705,,2005,The Price of Milk,"Art House,International,Comedy,Drama,Romance",87,72,2453,"Harry Sinclair,",2001
+0,4356,5669,18670,Family Feud,"Comedy,Television",30,70,1559,,1999,Family Life,Drama,105,78,322,"Ken Loach,",1971
+0,9789,13943,16996,Love Story,"Drama,Romance",99,69,23253,Arthur Hiller,1970,Love Matters,"Drama,Romance",97,,15,"Eb Lottimer,",1993
+1,5969,7633,8541,Grudge Match,"Comedy,Sport",113,64,47183,Peter Segal,2013,Grudge Match,"Comedy,Drama,Sports,Fitness",113,64,35912,"Peter Segal,",2013
+0,1899,2131,4220,The Chronicles of Narnia:: Big Movie Comes to a Small Town,Short,23,,,,2008,The Chronicles of Narnia: The Voyage of the Dawn Treader,"Action,Adventure,Kids,Family,Science Fiction,Fantasy",113,70,157011,"Michael Apted,",2010
+0,10277,15061,3247,Life with Louie,"Animation,Family,Comedy",30,83,4948,,1995,Life on the Line,"Action,Adventure,Drama",98,50,180,"David Hackl,",2016
+0,12824,20406,14363,No Bed of Roses,Drama,0,,,Mostofa Sarwar Farooki,,A Pattern of Roses,,65,74,36,"Lawrence Gordon Clark,",1983
+0,10274,15048,4801,Pink Panther & Pals,"Animation,Family",0,65,113,,2010,Pink Panther 2,"Action,Adventure,Comedy,Kids,Family,Mystery",92,60,116143,"Harald Zwart,",2009
+1,126,142,10581,Oasis: Live by the Sea,Musical,82,87,203,Nigel Dick,1995,Oasis: Live by the Sea,"Musical,Performing Arts",82,88,49,"Nigel Dick,",1995
+0,3433,4191,2583,The Brothers' Story,"Documentary,Musical",0,,,,1996,The Brothers Solomon,Comedy,93,52,56468,"Bob Odenkirk,",2007
+0,6944,9218,14410,2 Guns,"Comedy,Television",0,,,,2013,2 Young,"Art House,International,Comedy,Drama",108,70,906,"Tung-Shing Yee,",2005
+0,9990,14453,11563,Rocket Robin Hood,"Animation,Fantasy,Sci-Fi",22,63,133,,1967,Red Riding Hood,"Action,Adventure,Kids,Family,Musical,Performing Arts",82,64,891,"Randal Kleiser,",2004
+0,6692,8784,14951,Wolf Creek,"Drama,Horror,Mystery",0,71,1262,,2016,Blood Creek,"Drama,Horror",90,56,1987,"Joel Schumacher,",2009
+0,6256,8023,637,Double Dare,"Comedy,Family,Television",30,76,630,,1986,Double Exposure,"Comedy,Drama",93,,35,"Claudia Hoover,",1993
+0,13305,21331,3641,The Book of Pooh,Family,30,63,352,,2001,The Color of Money,"Drama,Sports,Fitness",119,68,45629,"Martin Scorsese,",1986
+0,10686,16165,14497,28 Minutes Later,"Comedy,Horror,Television",22,97,12,,2009,30 Minutes or Less,"Action,Adventure,Comedy",83,60,46759,"Ruben Fleischer,",2011
+1,3272,3804,16509,Eating Out: All You Can Eat,"Comedy,Drama,Romance",80,60,2434,Glenn Gaylord,2009,Eating Out: All You Can Eat,"Comedy,Adult",95,68,789,"Glenn Gaylord,",2009
+0,1149,1290,11951,American Sniper,"Action,Biography,Drama",133,73,331894,Clint Eastwood,2015,American Made,Mystery,,,176,"Doug Liman,",2017
+0,12652,19779,7173,Top of the Pops 2,Musical,30,74,36,,1994,Man of the House,"Action,Adventure,Comedy",100,60,61553,"Stephen Herek,",2005
+0,13060,20767,12682,Flesh for the Beast,"Fantasy,Horror",89,32,1053,Terry M. West,2003,Beauty and the Beast,"Drama,Musical,Performing Arts,Science Fiction,Fantasy,Romance",,,25659,"Bill Condon,",2017
+1,13498,21676,5171,The Golden Compass,"Adventure,Family,Fantasy",113,61,150592,Chris Weitz,2007,The Golden Compass,"Action,Adventure,Drama,Science Fiction,Fantasy",113,64,350289,"Chris Weitz,",2007
+0,905,964,6659,Saturday Night Live: The Best of Will Ferrell - Volume 2,"Documentary,Comedy",82,75,997,Beth McCarthy-Miller,2004,Saturday Night Live - Best of Jimmy Fallon,"Comedy,Television",85,80,218,,2005
+1,5701,7383,9789,Superman III,"Action,Comedy,Sci-Fi",125,49,50783,Richard Lester,1983,Superman III,"Action,Adventure,Kids,Family,Science Fiction,Fantasy",125,54,166837,"Richard Lester,",1983
+0,4172,5289,14975,Comedy Central Roast of Roseanne,Comedy,90,70,966,Joel Gallen,2012,Comedy Central Roast of Joan Rivers,"Comedy,Television",73,72,132,"Joel Gallen,",2009
+0,5901,7572,13745,Feast of Love,"Drama,Romance",97,67,14139,Robert Benton,2007,The Edge of Love,"Drama,Romance",111,60,53686,"John Maybury,",2008
+0,7485,9941,648,Untitled Hugh Jackman Project,"Action,Adventure",0,,,,,Untitled Wikileaks/HBO Project,Drama,128,60,66,"Bill Condon,",2013
+0,6949,9224,6541,The Last Time,"Comedy,Drama,Mystery",96,62,3040,Michael Caleo,2007,The Last Race,Drama,,,20,"Stephen Shin,",2016
+0,12442,19337,7916,American Heart,"Crime,Drama,Romance",113,68,2466,Martin Bell,1993,American Blood,Mystery,,,191,,2016
+0,3172,3733,2439,Silver Streak,"Action,Comedy,Crime",114,69,13548,Arthur Hiller,1976,Silver Man,Drama,,,36,"Peter Foldy,",2008
+0,10302,15187,8630,Living in the Age of Surveillance,"Short,News",0,82,41,,2012,Living in the Age of Airplanes,Documentary,47,80,195,"Brian J. Terwilliger,Brian Terwilliger,",2015
+1,12278,19076,16198,Phantom of the Paradise,"Comedy,Drama,Fantasy",92,74,11358,Brian De Palma,1974,Phantom of the Paradise,"Classics,Comedy,Cult Movies,Horror,Musical,Performing Arts",91,78,9911,"Brian DePalma,",1974
+0,4628,6076,7013,Reading Rainbow,Family,30,85,2251,,1983,Black Rainbow,"Drama,Horror,Mystery",103,64,279,"Mike Hodges,",2000
+0,7646,10175,8073,Star Trek: Outlaws,Sci-Fi,42,34,14,,2015,Star Trek 4,,,,145,,2018
+0,11388,17450,493,Citizen Soldier,"Documentary,Action",105,51,208,"David Salzberg,Christian Tureaud",2016,The Tin Soldier,"Action,Adventure,Kids,Family,Science Fiction,Fantasy,Television",105,60,71,"Jon Voight,Gregory Gieras,",1995
+0,4816,6288,15251,The Heart of Justice,"Crime,Drama,Mystery",88,59,448,Bruno Barreto,1993,Sharpe's Justice,"Action,Adventure,Drama",,84,345,"Tom Clegg,",2006
+0,8298,11508,15803,Places in the Heart,Drama,111,73,7808,Robert Benton,1984,Voice of the Heart,Drama,200,,64,"Tony Wharmby,",1990
+0,8182,11294,10916,Christmas in Tattertown,"Animation,Comedy,Family",30,63,43,Ralph Bakshi,1988,Christmas In South Park,"Animation,Comedy,Television",55,78,562,,2000
+1,8315,11522,2313,Real Life,Comedy,99,72,1865,Albert Brooks,1979,Real Life,Comedy,99,74,1224,"Albert Brooks,",1979
+0,4319,5584,2210,Back to School,"Comedy,Romance,Sport",96,65,21945,Alan Metter,1986,Night School,,88,,0,,2016
+1,6628,8649,4683,The Tempest,"Comedy,Drama,Fantasy",110,54,6234,Julie Taymor,2011,The Tempest,"Comedy,Drama,Science Fiction,Fantasy",110,52,19122,"Julie Taymor,",2010
+1,7235,9565,1833,Erased,"Action,Mystery",100,61,23936,Philipp Stlzl,2012,Erased,"Action,Adventure,Mystery",104,60,10728,"Philipp Stlzl,",2013
+0,10477,15660,14016,Made in America,"Crime,Drama",59,90,4134,David Chase,2007,Mandela in America,"Documentary,Special Interest",90,,11,,1990
+0,5595,7230,18709,Second Chance,"Drama,Sci-Fi",42,77,8648,Rand Ravich,2016,Second Chance Christmas,Drama,120,,3,,2014
+1,5717,7396,1184,Transformers: Dark of the Moon,"Action,Adventure,Sci-Fi",154,63,329257,Michael Bay,2011,Transformers: Dark of the Moon,"Action,Adventure,Science Fiction,Fantasy",154,70,256290,"Michael Bay,",2011
+0,11903,18303,544,Savage Messiah,"Biography,Drama",97,72,879,Ken Russell,1972,Savage Mutts,"Action,Adventure",,,1,"Nick Agiashvili,",2013
+0,4539,5955,11293,The Name Game,"Drama,Horror,Mystery",40,90,2923,Michael Lehmann,2013,The Truth Game,"Art House,International,Drama",,,0,"Simon Rumley,",2001
+0,7319,9701,13508,Pinocchio,"Family,Short",8,,,,,Pinocchio,"Action,Adventure,Drama,Science Fiction,Fantasy",,58,161,"Alberto Sironi,",2008
+0,7815,10556,11705,Burning Love,"Comedy,Romance",23,80,2708,,2012,Burning Blue,"Drama,Romance",104,60,197,"DMW Greer,",2014
+1,9620,13698,2710,Guarding Tess,"Comedy,Drama",96,62,12900,Hugh Wilson,1994,Guarding Tess,"Comedy,Mystery",95,60,19679,"Hugh Wilson,",1994
+0,7862,10608,15802,The Best of Me,"Drama,Romance",118,67,44814,Michael Hoffman,2014,The Object of Beauty,"Art House,International,Comedy,Drama",105,58,1557,"Michael Lindsay-Hogg,",1991
+0,1375,1546,7173,Best of the Worst,Comedy,0,93,801,,2013,Man of the House,"Action,Adventure,Comedy",100,60,61553,"Stephen Herek,",2005
+0,11299,17261,3395,Saving Mr. Banks,"Animation,Television",0,,,Mat Brunet,2013,Saving Mr. Wu,Drama,,70,94,"Sheng Ding,",2015
+0,8844,12390,3973,Titanic 2,Comedy,0,,,,2011,Taxi 2,"Action,Adventure,Art House,International,Comedy,Drama",85,68,16017,"Grard Krawczyk,",2000
+0,11793,18044,16276,Dead 7,"Comedy,Horror,Western",89,32,705,Danny Roew,2016,Dead Dog,Mystery,,58,79,"Christopher Goode,",2006
+1,6013,7671,875,Fantastic Four,"Action,Adventure,Sci-Fi",100,43,114092,Josh Trank,2015,Fantastic Four,"Action,Adventure",100,42,136886,"Josh Trank ,Joshua Trank,",2015
+0,13125,20848,8652,The Quiet Ones,Horror,98,51,15649,John Pogue,2014,The Dreamed Ones,Drama,,,1,,2016
+1,11830,18116,7348,The Horseman on the Roof,"Adventure,Drama,Romance",118,71,4910,Jean-Paul Rappeneau,1995,The Horseman on the Roof,"Action,Adventure,Art House,International,Drama,Romance",120,74,4625,"Jean-Paul Rappeneau,Jean-Claude Petit,",1996
+0,6639,8669,18689,Dropping Bombs,Drama,60,73,80,Liz Friedlander,2016,Dropping Evil,"Comedy,Drama,Horror,Mystery",82,,115,,2008
+1,13001,20674,10255,Stepmom,"Comedy,Drama",124,67,47147,Chris Columbus,1998,Stepmom,"Comedy,Drama",125,66,271754,"Chris Columbus,",1998
+0,2760,2997,19054,The Last Detective,"Comedy,Crime,Drama",90,79,819,Richard Harris,2003,The Last Good Time,"Comedy,Drama",90,,37,"Bob Balaban,",1995
+1,9878,14157,13913,Prison,"Crime,Drama,Horror",102,59,2764,Renny Harlin,1987,Prison,"Drama,Horror",102,60,802,"Renny Harlin,",1988
+0,6811,8984,11694,Head of the Family,"Comedy,Horror",82,52,932,Charles Band,2005,Weight of the Nation,Documentary,,84,24,"Dan Chaykin,",2012
+0,11807,18066,12460,A Beautiful Mistake,Drama,110,68,6,"Wei Hao,Hui Zhou Lu",2014,A Beautiful Soul,Drama,90,86,176,"Jeffrey W. Byrd,Jeff Byrd,",2012
+0,9244,13052,7916,American Heist,"Action,Crime,Drama",94,52,13150,Sarik Andreasyan,2015,American Blood,Mystery,,,191,,2016
+1,1072,1157,3244,The Greasy Strangler,"Comedy,Horror,Mystery",93,56,732,Jim Hosking,2016,The Greasy Strangler,"Comedy,Horror",93,66,855,"Jim Hosking,",2016
+1,9757,13888,8208,Starman,"Romance,Sci-Fi",115,70,33597,John Carpenter,1984,Starman,"Drama,Science Fiction,Fantasy,Romance",115,66,24445,"John Carpenter,",1984
+0,12018,18543,1403,The Perfect Blue,"Comedy,Drama,Romance",0,75,46,Kieron J. Walsh,,Desert Blue,"Comedy,Drama",90,62,1375,"Morgan J. Freeman,",1999
+0,5016,6502,15728,Secret Agent,"Action,Adventure,Crime",49,83,751,,1965,Secret Life,Drama,70,,2,"Rowan Joffe,",
+0,267,259,7327,Delta House,Comedy,30,63,77,,1979,In the House,Mystery,105,78,5470,"Franois Ozon,",2013
+1,9695,13808,13472,Guilty as Sin,"Crime,Drama,Mystery",107,56,3679,Sidney Lumet,1993,Guilty as Sin,"Drama,Mystery",104,56,2739,"Sidney Lumet,",1993
+1,5368,6912,13007,The Tenth Man,"Drama,War",100,71,974,Jack Gold,1988,The Tenth Man,"Action,Adventure,Drama,Television",99,64,190,"Jack Gold,Richard T. Heffron,",1988
+0,10673,16136,11957,Katy Perry: Part of Me,"Documentary,Musical",93,59,12440,"Dan Cutforth,Jane Lipsitz",2012,Katy Perry: Part Of Me Fan Sneaks,Documentary,,92,72,"Dan Cutforth,Jane Lipsitz,",2012
+1,5277,6816,18988,Old Dogs,"Comedy,Family",88,54,31478,Walt Becker,2009,Old Dogs,"Comedy,Drama,Kids,Family",88,62,182937,"Walt Becker,",2009
+1,1210,1366,134,Inside Out,"Animation,Adventure,Comedy",95,83,364137,"Pete Docter,Ronnie Del Carmen",2015,Inside Out,"Animation,Kids,Family",94,86,131527,"Pete Docter,Ronnie del Carmen,",2015
+0,12131,18775,1718,New World,Mystery,0,,,,,New Blood,"Action,Adventure,Drama,Mystery",98,56,91,"Michael Hurst,",2000
+1,6496,8458,1244,Chi-Raq,"Comedy,Crime,Drama",127,57,5852,Spike Lee,2016,Chi-Raq,Drama,118,62,7905,"Spike Lee,",2015
+0,9999,14473,2476,Fight Club Paradise,"Animation,Comedy",12,84,60,,2012,Club Paradise,Comedy,96,56,6915,"Harold Ramis,",1986
+0,6127,7864,17929,Just Tell the Truth,Drama,60,,,,2016,Black Men: The Truth,Documentary,70,76,350,,2007
+0,4625,6053,17754,The Slime People,"Comedy,Sci-Fi",97,72,103,,1989,They Look Like People,"Drama,Horror,Mystery",80,68,518,"Perry Blackshear,",2015
+0,9924,14252,2324,Game of Death,"Action,Crime,Drama",85,60,12528,"Robert Clouse,Bruce Lee",1979,Love and Death,"Classics,Comedy,Drama",85,80,18841,"Woody Allen,",1975
+1,3053,3505,1004,Meet the Robinsons,"Animation,Adventure,Comedy",95,69,68017,Stephen J. Anderson,2007,Meet the Robinsons,"Action,Adventure,Animation,Kids,Family",96,70,399649,"Stephen John Anderson,Stephen Anderson,",2007
+1,3946,5086,6444,Fender Bender,"Horror,Mystery",91,54,335,Mark Pavia,2016,Fender Bender,Horror,90,74,79,"Mark Pavia,",2016
+0,2761,3000,16889,Golden Oldies,"Crime,Drama,Mystery",48,80,25,Robert Bierman,2005,Golden Shoes,,90,64,32,"Lance Kawas,Lance KR Kawas,",2013
+1,5041,6559,2996,Spy,"Action,Comedy,Crime",119,71,175475,Paul Feig,2015,Spy,Comedy,117,78,81482,"Paul Feig,",2015
+0,1563,1697,4368,Project Mc,Family,26,62,222,,2015,Project Almanac,"Mystery,Science Fiction,Fantasy",120,64,28506,"Dean Israelite,",2015
+0,9111,12866,14556,American Made,"Crime,Mystery",0,,,Doug Liman,2017,American Storage,"Comedy,Special Interest",,,34,"Andrew Jay Cohen,",2006
+0,12952,20625,15299,Let Me Go!,Television,30,,,,2011,Let Go,Comedy,109,58,168,"Brian Jett,",2012
+1,13387,21448,4077,Megamind,"Animation,Television",0,,,,2010,Megamind,"Action,Adventure,Animation,Comedy,Kids,Family",96,76,207608,"Tom McGrath,",2010
+0,873,960,14555,Saturday Night Live: The Best of Dana Carvey,Comedy,89,73,751,,,Saturday Night Live: The Best of Saturday TV Funhouse,"Comedy,Television",84,78,71,,2006
+0,3602,4472,6878,Welcome to the NHK!,"Animation,Comedy,Drama",0,85,3279,,2006,Welcome to Switzerland,"Art House,International,Comedy",,,7,,2004
+0,9339,13224,8072,Marked Woman,"Crime,Film-Noir,Mystery",96,74,2427,"Lloyd Bacon,Michael Curtiz",1937,Wonder Woman,"Action,Adventure,Science Fiction,Fantasy",,,5555,"Patty Jenkins,",2017
+0,12204,18923,14535,Born to Be Wild,"Documentary,Short,Adventure",40,76,2562,David Lickley,2011,In the Wild,"Documentary,Special Interest",60,78,69,,2002
+1,6908,9152,736,The Seduction of Joe Tynan,Drama,108,61,1234,Jerry Schatzberg,1979,The Seduction of Joe Tynan,"Comedy,Drama",107,66,786,"Jerry Schatzberg,",1979
+1,3141,3699,2168,The Duchess,"Biography,Drama,History",110,69,62691,Saul Dibb,2008,The Duchess,Drama,110,70,68699,"Saul Dibb,",2008
+1,9331,13208,17207,Remake,Drama,73,70,182,"Per Gavatin,Andreas hman",2014,Remake,Drama,72,,1,"Per Gavatin,Andreas hman,",2014
+0,9369,13312,18946,Day of the Dove,"Action,Adventure,Mystery",51,80,1143,Marvin J. Chomsky,1968,A Day in the Dirt,"Sports,Fitness",,,12,,2002
+0,7197,9519,11681,The Harvest,Drama,0,,,,,Harvest,Drama,96,,39,"Stuart Burkin,",2000
+0,13181,20905,16749,Little Dorrit,"Drama,Mystery,Romance",30,83,6222,,2009,Little Murder,"Drama,Mystery,Science Fiction,Fantasy",97,50,76,"Predrag Antonijevic,",2011
+1,9722,13846,3533,The Velocity of Gary,"Comedy,Drama,Romance",100,50,1563,Dan Ireland,1999,The Velocity of Gary,"Comedy,Drama,Romance",100,62,1562,"Dan Ireland,",1999
+0,262,254,4600,Madea Gets a Job,Comedy,145,42,589,Tyler Perry,2013,Get a Job,Comedy,85,50,4822,"Dylan Kidd,",2016
+0,6430,8325,16954,Love Island,"Comedy,Romance",86,57,229,Jasmila Zbanic,2014,Love Relations,"Comedy,Romance",103,,32,"Michael Hoffman,Devin Molden,",2002
+0,3298,3832,19174,Felix the Cat,"Animation,Sci-Fi",30,70,486,,1958,Fritz the Cat,Animation,77,66,6974,"Ralph Bakshi,",1972
+1,5559,7161,9843,Beverly Hills Cop,"Action,Comedy,Crime",105,73,128378,Martin Brest,1984,Beverly Hills Cop,"Action,Adventure,Comedy,Mystery",105,68,376950,"Martin Brest,",1984
+1,9408,13389,5936,Pyrates,"Comedy,Romance",0,49,520,Noah Stern,1992,Pyrates,Comedy,98,60,131,"Noah Stern,",1991
+1,3125,3612,278,Epic,"Animation,Adventure,Family",102,67,86695,Chris Wedge,2013,Epic,"Action,Adventure,Animation,Kids,Family,Science Fiction,Fantasy",102,74,101698,"Chris Wedge,",2013
+0,8565,11981,3670,Requiem for Murder,Mystery,95,51,249,Douglas Jackson,1999,Framed for Murder,"Drama,Mystery",94,54,128,"Douglas Jackson,",2007
+1,13267,21274,909,The Little Prince,"Animation,Adventure,Drama",108,78,32967,Mark Osborne,2016,The Little Prince,"Animation,Science Fiction,Fantasy",106,82,13276,"Mark Osborne,",2016
+1,9241,13031,832,Insurgent,"Adventure,Sci-Fi,Mystery",119,63,159538,Robert Schwentke,2015,Insurgent,"Action,Adventure,Drama,Science Fiction,Fantasy,Romance",119,70,76117,"Robert Schwentke,",2015
+1,12518,19467,9140,Senna,"Documentary,Biography,Sport",106,86,46477,Asif Kapadia,2011,Senna,"Documentary,Sports,Fitness",104,88,17681,"Asif Kapadia,",2011
+0,12628,19713,14288,House of Fools,Comedy,0,73,838,,2014,Chain of Fools,"Comedy,Drama",94,62,2116,"Traktor,",2000
+0,5352,6886,5281,All the Way Home,Drama,120,78,46,Delbert Mann,1981,Follow the Stars Home,Drama,98,78,1205,"Dick Lowry,",2001
+0,780,727,2833,Underdog,"Animation,Family,Comedy",0,75,1253,,1964,Underdog,"Action,Adventure,Comedy,Kids,Family",80,60,122557,"Frederik Du Chau,",2007
+1,10774,16351,11552,Soapdish,"Comedy,Romance",97,65,11685,Michael Hoffman,1991,Soapdish,Comedy,96,64,8741,"Michael Hoffman,",1991
+0,11342,17365,12982,Transformers: Cybertron,"Animation,Action,Adventure",30,63,566,,2005,Transformers: The Last Knight,"Action,Adventure",,,1659,"Michael Bay,",2017
+1,9474,13453,6397,Nighthawks,"Action,Crime,Mystery",99,64,12722,"Bruce Malmuth,Gary Nelson",1981,Nighthawks,"Action,Adventure",100,64,7263,"Bruce Malmuth,",1981
+0,821,853,15694,House of Cards,Drama,51,90,322647,Beau Willimon,2013,House of America,Drama,96,86,155,"Marc Evans,",1997
+0,598,587,2787,Spider-Man 2,"Action,Adventure",127,73,418316,Sam Raimi,2004,Spider-Man,"Action,Adventure,Mystery,Science Fiction,Fantasy",121,66,34294828,"Sam Raimi,",2002
+1,9259,13079,4052,Devil's Knot,"Biography,Crime,Drama",114,61,14250,Atom Egoyan,2014,Devil's Knot,Drama,114,60,7504,"Atom Egoyan,",2014
+1,5995,7659,2343,Something's Gotta Give,"Comedy,Drama,Romance",128,67,92081,Nancy Meyers,2003,Something's Gotta Give,"Comedy,Romance",123,64,207676,"Nancy Meyers,",2003
+0,6504,8472,10651,The Phantom of Film City,"Animation,Sci-Fi",23,64,13,,1978,The Phantom of the Opera,"Drama,Horror,Musical,Performing Arts,Special Interest,Romance",143,74,411623,"Joel Schumacher,",2005
+1,5317,6842,2325,Look Who's Talking Now,"Comedy,Family,Romance",96,42,22522,Tom Ropelewski,1993,Look Who's Talking Now,"Comedy,Kids,Family",95,50,185813,"Tom Ropelewski,",1993
+0,9849,14100,18277,Mother's Day,"Comedy,Horror,Mystery",91,54,3360,Charles Kaufman,1980,A Mother's Rage,"Action,Adventure,Television",,58,13,"Oren Kaplan,",2013
+0,10458,15589,12321,Morning Star,"Action,Drama,Fantasy",42,83,532,J. Miles Dale,2016,The Morning After,Comedy,79,,4,,2015
+1,2808,3065,870,Sicario,"Action,Crime,Drama",121,76,210412,Denis Villeneuve,2015,Sicario,"Action,Adventure,Drama,Mystery",121,80,63602,"Denis Villeneuve,",2015
+0,12660,19807,7793,The Way of the Dragon,"Action,Comedy,Crime",90,73,23359,Bruce Lee,1972,Year of the Dragon,"Drama,Television",90,,20,,2003
+0,2584,2772,14145,One Night Stand,Drama,0,,,,,The Night Stalker,Horror,,98,235,"Edgar Wright,",2014
+0,1923,2166,18152,Secret Window,Mystery,96,66,149318,David Koepp,2004,Secret Weapons,"Drama,Mystery",100,,82,,1985
+0,9929,14253,11022,The Curse of the Dragon,"Documentary,Action,Biography",90,70,636,"Tom Kuhn,Fred Weintraub",1993,The Art of the Steal,Comedy,90,62,5812,"Jonathan Sobol,",2014
+0,12932,20596,6157,The Hound of the Baskervilles: Part Two,"Horror,Crime,Drama",50,71,65,,1968,The Hound of the Baskervilles,"Horror,Mystery,Television",100,70,243,"David Attwood,",1988
+0,5659,7332,8072,Wonder Woman,"Short,Action,Fantasy",3,65,1105,Sam Balcomb,2013,Wonder Woman,"Action,Adventure,Science Fiction,Fantasy",,,5555,"Patty Jenkins,",2017
+0,2691,2948,990,Moone Boy,Comedy,23,82,3960,,2012,The Boy,"Horror,Mystery",98,60,18341,"William Brent Bell,",2016
+1,510,481,4048,Urban Legends: Final Cut,"Horror,Mystery,Romance",97,41,13188,John Ottman,2000,Urban Legends: Final Cut,Horror,99,50,49489,"John Ottman,",2000
+0,11844,18171,15848,The Little House,"Drama,Romance",136,73,671,Yji Yamada,2014,Two Family House,"Drama,Romance",108,72,1024,"Raymond De Felitta,",2000
+1,8793,12274,10543,Windtalkers,"Action,Drama,War",134,60,56573,John Woo,2002,Windtalkers,Drama,134,64,66742,"John Woo,",2002
+0,8374,11653,14612,A Perfect Murder,"Crime,Drama,Mystery",107,65,65166,Andrew Davis,1998,The Perfect Murder,Mystery,,60,87,"Zafar Hai,",1990
+1,13196,20916,6285,Jude,"Drama,Romance",123,70,8725,Michael Winterbottom,1996,Jude,"Drama,Romance",123,70,6822,"Michael Winterbottom,",1996
+0,5723,7399,17805,Justice League: Doom,"Animation,Action,Fantasy",75,75,21447,Lauren Montgomery,2012,Justice League of America,"Action,Adventure,Science Fiction,Fantasy,Television",,68,394,"Flix Enrquez Alcal,",1997
+0,1445,1582,17270,Hold the Dark,Mystery,0,,,,,Alone in the Dark,"Action,Adventure,Horror",96,40,57890,"Uwe Boll,",2005
+0,6511,8488,13999,The Incredible Hulk,"Action,Drama,Sci-Fi",0,,,,,The Incredible Shrinking Man,"Action,Adventure,Comedy,Science Fiction,Fantasy",81,,300,"Brett Ratner,",2012
+0,7196,9519,5110,The Harvest,Drama,0,,,,,The Ice Harvest,"Action,Adventure,Comedy,Mystery",88,58,60312,"Harold Ramis,",2005
+0,9468,13437,11800,Dead by Sunset,"Mystery,Drama",185,69,323,,1995,Calm at Sunset,Drama,97,,55,"Daniel Petrie Sr.,",1996
+0,5696,7380,4774,Batman Forever,"Action,Adventure,Fantasy",121,54,193277,Joel Schumacher,1995,Summer Forever,,95,,3,"Roman White,",2015
+0,977,1037,3923,Back to the Future Part II,"Adventure,Comedy,Sci-Fi",108,78,346518,Robert Zemeckis,1989,Back to the Future Part III,"Action,Adventure,Comedy,Science Fiction,Fantasy",119,68,693257,"Robert Zemeckis,",1990
+0,2384,2683,12420,The Outpost,"Drama,War",0,,,,,Alien Outpost,"Action,Adventure",90,54,592,"Jabbar Raisani,",2015
+0,7286,9659,3287,After Hours,"Comedy,Crime,Drama",97,77,40368,Martin Scorsese,1985,After Love,Romance,107,,2,,2016
+0,11575,17599,3460,The Big Town,"Drama,Romance,Mystery",109,59,1422,"Ben Bolt,Harold Becker",1987,The Town,"Action,Adventure,Drama,Mystery,Romance",151,78,140527,"Ben Affleck,",2010
+0,7713,10344,9955,Barry Goldberg's Day Off,Comedy,22,91,284,David Katzenberg,2015,Ferris Bueller's Day Off,Comedy,103,76,727245,"John Hughes,John Hugues,",1986
+0,9991,14453,11962,Rocket Robin Hood,"Animation,Fantasy,Sci-Fi",22,63,133,,1967,Robin Hood,"Action,Adventure,Drama",148,70,264819,"Ridley Scott,",2010
+0,7399,9808,11325,The Lost World,"Action,Sci-Fi,Adventure",60,73,2488,,1999,The Lost Child,"Drama,Television",96,70,589,"Karen Arthur,",2000
+0,11838,18164,17417,April Story,Romance,67,73,1893,Shunji Iwai,1998,Amber's Story,"Drama,Television",120,76,279,,2006
+1,7240,9568,8539,The Bag Man,"Crime,Drama,Mystery",108,53,13476,David Grovic,2014,The Bag Man,Drama,108,50,1857,"David Grovic,",2014
+0,9898,14189,2883,"My Brother, Where Art Thou?","Comedy,Drama",24,84,506,Marc Buckland,2003,"O Brother, Where Art Thou?","Comedy,Drama",106,74,255541,"Joel Coen,",2000
+1,2868,3212,11207,Three to Tango,"Comedy,Romance",98,61,16481,Damon Santostefano,1999,Three to Tango,"Comedy,Drama,Romance",99,54,36643,"Damon Santostefano,",1999
+1,5796,7468,275,Minority Report,"Action,Mystery,Sci-Fi",145,77,405451,Steven Spielberg,2002,Minority Report,"Action,Adventure,Mystery,Science Fiction,Fantasy",140,68,479879,"Steven Spielberg,",2002
+0,13503,21683,4132,Jungle Book,"Action,Adventure,Family",108,68,2943,Zoltan Korda,1942,Jungle Book: Origins,"Action,Adventure,Animation",,,229,"Andy Serkis,",2018
+0,6939,9213,17286,The Making of 'Killing Season',Short,2,,,,2013,The Legend of Billie Jean,"Action,Adventure,Drama",92,70,9421,"Matthew Robbins,",1985
+0,13472,21569,13650,The Big Picture,Family,10,78,28,,2011,The Big Hit,"Action,Adventure",87,62,29711,"Che-Kirk Wong,Kirk Wong,",1998
+0,13515,21695,11105,Edge of Darkness,"Crime,Drama,Mystery",307,86,2860,,1986,House of Darkness,Drama,120,48,12,"Patrick DeLuca,",2016
+1,5625,7296,1561,The Hateful Eight,"Crime,Drama,Mystery",187,79,291740,Quentin Tarantino,2015,The Hateful Eight,Western,167,76,69524,"Quentin Tarantino,",2015
+1,8401,11691,8102,Liberty Heights,"Drama,Musical,Romance",127,71,5820,Barry Levinson,1999,Liberty Heights,"Comedy,Drama",132,68,5460,"Barry Levinson,",1999
+0,7510,9957,19003,Sister Act,Comedy,0,,,,,Sister,Drama,112,,3,"David Lascher,",2016
+0,6360,8170,18351,Black Magic,"Drama,Mystery,Romance",105,65,481,"Gregory Ratoff,Orson Welles",1949,Black Card,,14,,0,"Pete Chatmon,",2015
+1,3184,3744,2153,Sky Ladder: The Art of Cai Guo-Qiang,Documentary,76,76,86,Kevin Macdonald,2016,Sky Ladder: The Art of Cai Guo-Qiang,Documentary,76,86,126,"Kevin Macdonald,",2016
+1,1589,1721,10155,Happy Gilmore,"Comedy,Sport",92,70,158212,Dennis Dugan,1996,Happy Gilmore,"Comedy,Special Interest",92,74,989922,"Dennis Dugan,",1996
+1,7092,9367,2776,The Clearing,"Drama,Mystery",95,59,11780,Pieter Jan Brugge,2004,The Clearing,"Action,Adventure,Drama,Mystery",95,58,7367,"Pieter Jan Brugge,",2004
+1,10504,15711,4526,Bad Santa,"Comedy,Crime,Drama",91,71,108992,Terry Zwigoff,2003,Bad Santa,Comedy,91,64,199995,"Terry Zwigoff,",2003
+0,2499,2739,254,Last Man,"Drama,War",0,,,,,Early Man,,,,10,"Nick Park,",2018
+1,677,650,1459,Inventing the Abbotts,"Drama,Romance",110,64,9619,Pat O'Connor,1997,Inventing the Abbotts,"Drama,Romance",110,64,9849,"Pat O'Connor,",1997
+1,3071,3528,6329,Peter Pan,"Animation,Adventure,Family",77,73,89803,"Clyde Geronimi,Wilfred Jackson",1953,Peter Pan,"Animation,Kids,Family,Musical,Performing Arts,Science Fiction,Fantasy",77,70,277436,"Wilfred Jackson,Clyde Geronimi,Hamilton Luske,",1953
+0,10486,15663,2295,Home of the Brave,"Action,Drama,War",106,56,9395,Irwin Winkler,2007,Women of the Night,Comedy,56,,8,,
+0,10385,15415,8250,Evil Under the Sun,"Crime,Drama,Mystery",117,70,9404,Guy Hamilton,1982,Lost in the Sun,,95,64,236,"Trey Nelson,",2015
+1,3115,3607,1085,Rio,"Animation,Adventure,Comedy",96,70,167384,Carlos Saldanha,2011,Rio,"Action,Adventure,Animation,Comedy,Kids,Family",99,74,89752,"Carlos Saldanha,",2011
+0,7024,9308,7916,American Gladiators,"Action,Television,Sport",60,66,1516,,1989,American Blood,Mystery,,,191,,2016
+1,13002,20679,12704,Bride & Prejudice,"Comedy,Drama,Musical",122,62,17588,Gurinder Chadha,2005,Bride & Prejudice,"Comedy,Musical,Performing Arts",111,68,130,"Gurinder Chadha,",2005
+0,9160,12909,11464,Super Mario Bros,Comedy,0,68,31,,2015,Super Troopers,Comedy,103,74,262336,"Jay Chandrasekhar,",2002
+0,6162,7917,14788,The Last Exorcism,"Drama,Horror,Mystery",87,56,41921,Daniel Stamm,2010,The Last Dragon,"Action,Adventure",,88,337,,2014
+0,817,852,10135,Fargo,"Crime,Drama,Mystery",53,90,178734,,2014,Fargo,"Drama,Mystery",97,78,232078,"Joel Coen,",1996
+0,9918,14224,14511,Slave Island,"Animation,Action,Family",22,78,171,,1993,Small Island,"Art House,International,Drama,Television",,,5,"John Alexander,",2009
+0,849,954,4404,The Tonight Show,Television,105,78,87,,1962,The War Show,Documentary,100,,1,"Andreas Dalsgaard,Obaidah Zytoon,",2016
+0,2711,2958,12761,Perfect Strangers,"Comedy,Drama",238,82,1135,,2001,Intimate Strangers,Drama,96,,27,"John Llewellyn Moxey,",1977
+1,5094,6630,9369,We Steal Secrets: The Story of WikiLeaks,Documentary,130,69,6270,Alex Gibney,2013,We Steal Secrets: The Story Of Wikileaks,"Documentary,Special Interest",130,76,9684,"Alex Gibney,",2013
+0,3658,4567,17988,Another Country,"Biography,Drama,Romance",90,72,3955,Marek Kanievska,1984,Young Country,"Documentary,Musical,Performing Arts",40,,3,,1988
+0,811,811,18819,My Three Sons,"Comedy,Family",30,71,1972,,1960,My Many Sons,Drama,98,,3,"Ralph E. Portillo,",2016
+0,9502,13530,9529,Nikola Tesla and the End of the World,Sci-Fi,0,34,5,,2015,Encounters at the End of the World,Documentary,99,70,35640,"Werner Herzog,",2007
+0,2895,3233,16785,American Crime,Drama,43,77,5848,John Ridley,2015,American Violet,Drama,113,74,16353,"Tim Disney,",2009
+1,1632,1758,851,Wiener-Dog,"Comedy,Drama",88,59,3618,Todd Solondz,2016,Wiener-Dog,Comedy,90,56,2842,"Todd Solondz,",2016
+0,10423,15496,4186,Sherlock Holmes,"Horror,Crime,Drama",50,78,284,,1964,Sherlock Holmes,"Action,Adventure,Drama,Mystery",129,74,768487,"Guy Ritchie,",2009
+0,9249,13056,7730,Twins,Television,30,,,,2011,Twins,Comedy,107,54,203953,"Ivan Reitman,",1988
+0,5905,7575,1181,Ice Age: Continental Drift,News,30,,,,2012,Ice Age: Continental Drift,"Action,Adventure,Animation,Comedy,Kids,Family",87,72,150866,"Michael Thurmeier,Steve Martino,",2012
+0,3040,3497,2917,How to Train Your Dragon 2,"Animation,Action,Adventure",102,79,225231,Dean DeBlois,2014,How to Train Your Dragon,"Animation,Kids,Family,Science Fiction,Fantasy",98,84,310257,"Dean DeBlois,Chris Sanders,",2010
+0,4958,6468,10282,The Weather Man,"Comedy,Drama",102,66,69683,Gore Verbinski,2005,The Best Man,"Comedy,Drama",120,74,30884,"Malcolm D. Lee,",1999
+0,700,670,5887,God of War,,0,81,10,Spencer Gilbert,2014,Spoils of War,"Drama,Kids,Family,Television",100,,106,"David Greene,",1994
+0,6484,8436,18351,Black Ice,"Drama,Mystery",110,68,2291,Petri Kotwica,2007,Black Card,,14,,0,"Pete Chatmon,",2015
+0,9798,13960,5066,Golden Girls,Comedy,25,29,53,,2012,Valet Girls,Comedy,89,42,69,"Rafal Zielinski,",1987
+0,12507,19456,14924,How Long the Night,Short,2,,,John Flynn,2016,'Twas the Night,"Comedy,Kids,Family,Television",110,60,337,,2001
+0,1273,1425,16498,Laid in America,Comedy,85,49,1710,"Sam Milman,Peter Vass",2016,Africans in America,Documentary,,,75,,1998
+0,5658,7331,17805,Justice League Part Two,"Action,Sci-Fi",0,,,Zack Snyder,2019,Justice League of America,"Action,Adventure,Science Fiction,Fantasy,Television",,68,394,"Flix Enrquez Alcal,",1997
+0,12444,19337,11951,American Heart,"Crime,Drama,Romance",113,68,2466,Martin Bell,1993,American Made,Mystery,,,176,"Doug Liman,",2017
+0,3193,3753,3281,Match of the Day 2,Sport,45,78,518,,2004,Birth of the Dragon,Drama,103,32,150,"George Nolfi,",2016
+1,8055,11043,14097,Nobel Son,"Comedy,Crime,Drama",110,64,5054,Randall Miller,2008,Nobel Son,"Comedy,Drama,Mystery",110,62,3233,"Randall Miller,",2008
+0,2667,2890,6133,Looking: The Movie,"Comedy,Drama",85,78,2792,Andrew Haigh,2016,Looking for Grace,"Art House,International,Drama",,46,64,"Sue Brooks,",2015
+0,2758,2997,14788,The Last Detective,"Comedy,Crime,Drama",90,79,819,Richard Harris,2003,The Last Dragon,"Action,Adventure",,88,337,,2014
+0,6645,8693,1120,The Game Plan,"Comedy,Drama",45,,,,2016,The Game Plan,Comedy,110,70,406721,"Andy Fickman,",2007
+0,13252,21225,2397,Man's World,Comedy,0,75,1156,,2015,Wayne's World 2,Comedy,94,62,294533,"Stephen Surjik,",1993
+1,12326,19147,3948,Dior and I,Documentary,90,73,2357,Frdric Tcheng,2015,Dior and I,"Documentary,Special Interest",90,76,4598,"Frederic Tcheng,",2015
+0,7671,10230,17228,Breaking Chains,Comedy,22,80,33,,2016,Breaking Up,"Comedy,Drama,Romance",90,56,3846,"Robert Greenwald,",1997
+0,12735,19965,12324,Summer Book,Drama,92,64,705,Seyfi Teoman,2008,Summer Villa,Drama,120,60,22,"Pat Kiely,",2016
+1,5378,6931,16506,F/X,"Action,Mystery",109,66,13589,Robert Mandel,1986,F/X,"Action,Adventure,Mystery",120,62,10028,"Robert Mandel,",1986
+0,611,595,9823,Pirates of the Caribbean: Dead Man's Chest,"Action,Adventure,Fantasy",151,73,529163,Gore Verbinski,2006,Pirates of the Caribbean: The Curse of the Black Pearl,"Action,Adventure,Science Fiction,Fantasy",143,78,33123343,"Gore Verbinski,",2003
+0,2836,3165,3893,Emma's Chance,"Drama,Family,Sport",93,63,349,Anna Elizabeth James,2016,Emma's War,Drama,,,15,"Tony Scott,",2011
+0,2886,3233,7916,American Crime,Drama,43,77,5848,John Ridley,2015,American Blood,Mystery,,,191,,2016
+0,9525,13566,11022,Top of the Heap,Comedy,30,53,103,"Ron Leavitt,Arthur Silver",1991,The Art of the Steal,Comedy,90,62,5812,"Jonathan Sobol,",2014
+0,11570,17573,17944,Fox and Friends,"News,Television",180,32,729,,1998,Worst Friends,"Comedy,Drama,Romance",75,66,71,"Ralph Arend,",2014
+0,6891,9129,18592,Wrath of the Titans,News,30,,,,2012,Rhythm of the Saints,Drama,83,,6,"Sarah Rogacki,",2003
+0,2508,2739,12367,Last Man,"Drama,War",0,,,,,Last Gasp,"Action,Adventure,Horror",91,,18,"Scott McGinnis,",1995
+1,8410,11711,11771,Snowbeast,Horror,86,47,1130,Herb Wallerstein,1977,Snowbeast,"Horror,Mystery,Television",96,52,391,"Herb Wallerstein,",1977
+0,10514,15726,11580,My Little Pony Tales,"Animation,Family,Fantasy",30,63,467,,1992,Little Man Tate,"Drama,Kids,Family",99,64,14867,"Jodie Foster,",1991
+0,11417,17481,3602,American Pickers,"Documentary,Television",60,70,5092,Mike Wolfe,2010,American Storytellers,"Documentary,Television",90,,48,"Kevin Mukherji (II),",2003
+0,6421,8298,17449,The War of the Worlds: Next Century,"Sci-Fi,Mystery,War",96,71,307,Piotr Szulkin,1983,H.G. Wells' The War of the Worlds: The Real Story,Documentary,,60,119,,2005
+1,1544,1666,8865,The Phantom of the Opera,Horror,93,77,12507,"Rupert Julian,Lon Chaney",1925,Phantom Of The Opera,"Classics,Drama,Horror",79,76,17287,"Rupert Julian,Edward Sedgwick,",1925
+0,6497,8460,6358,Battle of the Damned,"Action,Adventure,Horror",88,45,2987,Christopher Hatton,2014,Battle of the Sexes,,,,43,"Jonathan Dayton,Valerie Faris,",2016
+0,13322,21331,15729,The Book of Pooh,Family,30,63,352,,2001,The Best of Men,"Documentary,Drama,Special Interest",90,88,65,"Tim Whitby,",2012
+1,1939,2183,4357,You Will Meet a Tall Dark Stranger,"Comedy,Drama,Romance",98,63,36748,Woody Allen,2010,You Will Meet a Tall Dark Stranger,"Comedy,Drama,Musical,Performing Arts,Romance",98,58,18781,"Woody Allen,",2010
+0,3851,4919,16613,Summer Camp,Horror,81,50,1371,Alberto Marini,2016,Summer of 8,,88,60,48,"Ryan Schwartz,",2016
+0,1750,1955,298,From the Land of the Moon,"Drama,Romance",120,69,282,Nicole Garcia,2016,A Home at the End of the World,"Drama,Romance",97,70,10983,"Michael Mayer,",2004
+1,6924,9186,2390,Spartan,"Action,Crime,Drama",106,66,26768,David Mamet,2004,Spartan,"Action,Adventure,Art House,International,Mystery",107,66,13547,"David Mamet,",2004
+0,11824,18092,1935,Le choc,"Action,Crime,Romance",100,57,560,"Robin Davis,Alain Delon",1982,Le cancre,,116,,0,"Paul Vecchiali,",2016
+0,10466,15618,11385,Two and a Half Men,"Drama,Fantasy,Horror",41,82,1806,John F. Showalter,2010,Time and a Half,Comedy,,,17,"Ol Parker,",2013
+0,5092,6628,10604,Season of the Witch,"Action,Adventure,Fantasy",95,54,77041,Dominic Sena,2011,Son of the Mask,"Comedy,Science Fiction,Fantasy",95,40,38542,"Lawrence Guterman,",2005
+0,11849,18188,11270,Johnny Tremain,"Adventure,Family,History",80,66,1122,Robert Stevenson,1957,Johnny Mnemonic,"Action,Adventure,Science Fiction,Fantasy",98,52,51742,"Robert Longo,",1995
+1,4750,6240,9725,Escape from New York,"Action,Sci-Fi",99,72,92551,John Carpenter,1981,Escape from New York,"Action,Adventure,Science Fiction,Fantasy",99,68,71725,"John Carpenter,",1981
+0,8742,12218,14889,The Return of Sabata,Western,100,57,1251,Gianfranco Parolini,1971,The Return of Josey Wales,Western,90,,9,"Michael Parks,R.O. Taylor,",1986
+1,10642,16053,15322,High School Musical,"Comedy,Drama,Family",98,52,60133,Kenny Ortega,2006,High School Musical,"Comedy,Drama,Musical,Performing Arts",98,68,470501,"Kenny Ortega,",2006
+0,1623,1750,221,Harry Potter and the Order of the Phoenix,"Adventure,Family,Fantasy",138,75,361343,David Yates,2007,Harry Potter and the Half-Blood Prince,"Action,Adventure,Drama,Kids,Family,Mystery,Science Fiction,Fantasy",154,76,1556819,"David Yates (II),",2009
+0,5662,7334,18530,Aquaman,"Action,Adventure,Sci-Fi",0,,,James Wan,2018,Aquaman,"Action,Adventure,Drama,Science Fiction,Fantasy,Television",,68,433,"Greg Beeman,",2006
+1,8549,11951,10345,Sommersby,"Drama,Mystery,Romance",114,61,15614,Jon Amiel,1993,Sommersby,"Drama,Mystery,Romance",114,62,13469,"Jon Amiel,",1993
+0,10153,14788,18351,Black Love,Comedy,18,73,11,Brad Jones,2014,Black Card,,14,,0,"Pete Chatmon,",2015
+0,7785,10472,16744,The Wedding,"Crime,Drama,Mystery",41,83,138,Kevin Dowling,2016,The Best Man Wedding,"Comedy,Romance",,84,348,"Malcolm D. Lee,",2016
+0,9958,14379,18224,Dr. Sinister,"Animation,Comedy,Family",30,85,75,"Joseph Barbera,William Hanna",1964,The Sinister Six,"Action,Adventure,Science Fiction,Fantasy",,80,8218,"Drew Goddard,",2016
+0,4006,5143,3165,Grace Under Fire,"Comedy,Romance",30,63,2342,Chuck Lorre,1993,Salt and Fire,,98,26,27,"Werner Herzog,",2016
+1,8724,12170,11525,A Christmas Melody,"Comedy,Musical",83,62,492,Mariah Carey,2015,A Christmas Melody,Romance,83,56,26,"Mariah Carey,",2015
+0,4761,6245,8313,They Live,"Action,Horror,Sci-Fi",93,73,75177,John Carpenter,1988,Usher Live,"Musical,Performing Arts",90,,15,,2000
+0,200,173,11080,The Last Battle,"Animation,Action,Adventure",30,,,,2016,The Last King,"Action,Adventure,Art House,International,Drama",99,70,171,"Nils Gaup,",2016
+0,10897,16570,9168,First Dates,Television,0,,,,,First Descent,"Documentary,Musical,Performing Arts,Sports,Fitness",111,60,23900,"Kevin Harrison,Kemp Curley,",2005
