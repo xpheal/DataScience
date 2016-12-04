@@ -1,4 +1,3 @@
-_id,ltable_Id,rtable_Id,ltable_Title,ltable_Category,ltable_Duration,ltable_Rating,ltable_Rating_Count,ltable_Director,rtable_Title,rtable_Category,rtable_Duration,rtable_Rating,rtable_Rating_Count,rtable_Director
 0,0,1225,Ouija: Origin of Evil,"Horror,Mystery",99,70.0,428.0,Mike Flanagan,Ouija: Origin of Evil,"Horror,Mystery",99.0,68.0,10657,"Mike Flanagan,"
 1,1,9,Doctor Strange,"Action,Adventure,Fantasy",115,87.0,789.0,Scott Derrickson,Doctor Strange,"Action,Adventure,Science Fiction,Fantasy",130.0,84.0,80698,"Scott Derrickson,"
 2,1,15477,Doctor Strange,"Action,Adventure,Fantasy",115,87.0,789.0,Scott Derrickson,Doctor Zhivago,"Drama,Television",,76.0,3255,"Giacomo Campiotti,"
